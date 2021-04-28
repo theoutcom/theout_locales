@@ -367,5 +367,9 @@
     "ACCOUNT_DRIVING_LICENCE_ADDRESS_TOWN": "Town",
     "ACCOUNT_DRIVING_LICENCE_ADDRESS_STATE": "State",
     "LICENCE_CHECK_DETAILS_DESCRIPTION_V2": "Make sure your details are accurate, and provide your home address as it appears on your licence.",
-    "__TESTREFACTOR": "Test A"
+    "__TESTREFACTOR": "Test A",
+    "ABOUTUS_MENU_TITLE": "About us",
+    "EXTRAS_MENU_TITLE": "WHAT'S INCLUDED",
+    "JOURNAL_MENU_TITLE": "The Journal",
+    "OURCARS_MENU_TITLE": "Our cars"
 }
