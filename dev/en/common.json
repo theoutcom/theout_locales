@@ -372,5 +372,6 @@
     "EXTRAS_MENU_TITLE": "WHAT'S INCLUDED",
     "JOURNAL_MENU_TITLE": "The Journal",
     "OURCARS_MENU_TITLE": "Our cars",
-    "DOWNLOAD_MENU_TITLE": "Download"
+    "DOWNLOAD_MENU_TITLE": "Download",
+    "_BOOKING_WIDGET_ADDRESS_POSTCODE_NOTFOUND_TEST": "No addresses found for {{code}}.\nPlease check the postcode and try again."
 }
