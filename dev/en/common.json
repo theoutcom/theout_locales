@@ -373,5 +373,11 @@
     "JOURNAL_MENU_TITLE": "The Journal",
     "OURCARS_MENU_TITLE": "Our cars",
     "DOWNLOAD_MENU_TITLE": "Download",
-    "_BOOKING_WIDGET_ADDRESS_POSTCODE_NOTFOUND_TEST": "No addresses found for {{code}}.\nPlease check the postcode and try again."
+    "_BOOKING_WIDGET_ADDRESS_POSTCODE_NOTFOUND_TEST": "No addresses found for {{code}}.\nPlease check the postcode and try again.",
+    "_HOW_IT_WORK_FIRST_TITLE": "SEAMLESS BOOKING",
+    "_HOW_IT_WORK_FIRST_CONTENT": "Choose your car, pick your essentials and upload your licence. No waiting around at a car rental desk, do it all from your phone or laptop.",
+    "_HOW_IT_WORK_SECOND_TITLE": "GET THE CAR YOU BOOK",
+    "_HOW_IT_WORK_SECOND_CONTENT": "Whatever you choose, we’ll deliver. You’ll also get journey essentials and enhanced cleaning included, with no added cost.",
+    "_HOW_IT_WORK_THIRD_CONTENT": "Once we drop off your car, all that’s left for you to do is to start your journey. Free delivery and collection in London zones 1-5 and Manchester. Outside of that there is a fee per mile",
+    "_HOW_IT_WORK_THIRD_TITLE": "WE DELIVER AND COLLECT"
 }
