@@ -398,5 +398,6 @@
     "_EXTRAS_ITEMS_14": "PARK ASSIST",
     "_EXTRAS_ITEMS_15": "PANORAMIC ROOF",
     "_EXTRAS_ITEMS_16": "PHONE CHARGER",
-    "_BOOKINGWIDGET_AIRPORT_FEE_SAME_LOCATION_2": "This postcode is outside of our free delivery & collection zone. It will require an extra fee of £{{fee}} each way."
+    "_BOOKINGWIDGET_AIRPORT_FEE_SAME_LOCATION_2": "This postcode is outside of our free delivery & collection zone. It will require an extra fee of £{{fee}} each way.",
+    "_SUBCRIBETITLE": "KEEP IN THE LOOP"
 }
