@@ -408,5 +408,11 @@
     "EXTRA_ITEMS_BOOTER": "",
     "BABY_SEAT_FRONT_NOTE": "English",
     "BABY_SEAT_REAR_NOTE": "English",
-    "BOOSTER_SEAT_NOTE": "English"
+    "BOOSTER_SEAT_NOTE": "English",
+    "STANDARD_NOTES": "English",
+    "_DELIVERYANDCOLLECTION_": "English",
+    "_EXTRAS_ITEMS_20": "English",
+    "EXTRAS_SUBNOTE_1": "English",
+    "EXTRAS_SUBNOTE_2": "English",
+    "EXTRAS_SUBNOTE_3": "English"
 }
