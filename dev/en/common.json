@@ -401,5 +401,6 @@
     "_BOOKINGWIDGET_AIRPORT_FEE_SAME_LOCATION_2": "This postcode is outside of our free delivery & collection zone. It will require an extra fee of £{{fee}} each way.",
     "_SUBCRIBETITLE": "STAY IN THE LOOPS",
     "CHOOSE_CAR_LABLE": "choose a car",
-    "CHOOSE_CAR_LABLE_NOTE": "Vestibulum viverra mollis tellus, ut dignissim justo. Nunc sollicitudin ornare eleme ntum. Sed pulvinar feugiat nibh, nec vestibulum neque dapibus vitae."
+    "CHOOSE_CAR_LABLE_NOTE": "Vestibulum viverra mollis tellus, ut dignissim justo. Nunc sollicitudin ornare eleme ntum. Sed pulvinar feugiat nibh, nec vestibulum neque dapibus vitae.",
+    "EXTRA_LABLE": "essentials"
 }
