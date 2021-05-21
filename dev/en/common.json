@@ -408,5 +408,11 @@
     "EXTRA_ITEMS_BOOTER": "CHILD BOOSTER SEAT",
     "BABY_SEAT_FRONT_NOTE": "(1 + YEARS)",
     "BABY_SEAT_REAR_NOTE": "(0 - 1 YEARS)",
-    "BOOSTER_SEAT_NOTE": "(4 - 12 YEARS)"
+    "BOOSTER_SEAT_NOTE": "(4 - 12 YEARS)",
+    "STANDARD_NOTES": "Included as standard on all bookings:",
+    "_DELIVERYANDCOLLECTION_": "delivery & collection",
+    "_EXTRAS_ITEMS_20": "satellite navigation",
+    "EXTRAS_SUBNOTE_1": "Our EU Travel Insurance is provided by Riverside Underwriting",
+    "EXTRAS_SUBNOTE_2": "FREE in London or Manchester. Other locations across the UK will incur a fee",
+    "EXTRAS_SUBNOTE_3": "Our fully comprehensive insurance is provided by"
 }
