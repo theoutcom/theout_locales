@@ -405,5 +405,8 @@
     "CHOOSE_CAR_LABLE": "English",
     "CHOOSE_CAR_LABLE_NOTE": "English",
     "EXTRA_LABLE": "English",
-    "EXTRA_ITEMS_BOOTER": ""
+    "EXTRA_ITEMS_BOOTER": "",
+    "BABY_SEAT_FRONT_NOTE": "English",
+    "BABY_SEAT_REAR_NOTE": "English",
+    "BOOSTER_SEAT_NOTE": "English"
 }
