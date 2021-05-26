@@ -310,11 +310,11 @@
     "_FOOTER_MENU": "          <li>\n            <a target=\"_blank\" href=\"https:\/\/help.theout.com\">FAQs<\/a>\n          <\/li>\n          <li><a target=\"_blank\" href=\"https:\/\/help.theout.com\/legal\/privacy-policy\">Privacy\n              policy<\/a><\/li>\n          <li><a target=\"_blank\" href=\"https:\/\/help.theout.com\/legal\/terms-and-conditions\">Terms\n              &amp;\n              Conditions<\/a><\/li>\n          <li><a href=\"mailto:hello@theout.com\" class=\"contact-mail\">Contact Us <\/a><\/li>\n          <li><a href=\"mailto:partnerships@theout.com\" class=\"contact-mail\">Partnerships<\/a><\/li>\n          <li class=\"social\">\n            <a target=\"_blank\" href=\"https:\/\/www.instagram.com\/theout.uk\" class=\"social-icon instagram\">Follow us on\n              Instagram<\/a>\n            <a target=\"_blank\" href=\"https:\/\/www.facebook.com\/theout.uk\" class=\"social-icon facebook\">Follow us on\n              Facebook<\/a>\n          <\/li>",
     "_FOOTER_INSURANCE": "<span>Insurance in partnership with Flock<\/span>",
     "_FOOTER_PAYMENT_METHODS_ACCEPTED": "            <span>PAYMENT METHODS ACCEPTED<\/span>\n            <img src=\"\/images\/multicity\/Card_Visa.svg\" alt=\"VISA\">\n            <img src=\"\/images\/multicity\/Card_Amex.svg\" alt=\"American Express\">\n            <img src=\"\/images\/multicity\/Card_Mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"\/images\/multicity\/Card_Apple.svg\" alt=\"Apple Pay\">",
-    "_MENU_": "\/about|About us\n#extras-included|WHAT'S INCLUDED\n#vehicles|Our cars\n#journal|The Journal\nhttps:\/\/itunes.apple.com\/gb\/app\/the-out\/id1355354261|Download|_blank|download-pc",
+    "_MENU_": "\/about|About us\n#extras-included|WHAT'S INCLUDED\n#vehicles|Our cars\n\/journal|The Journal\nhttps:\/\/itunes.apple.com\/gb\/app\/the-out\/id1355354261|Download|_blank|download-pc",
     "_MENU_LOGIN": "LOGIN",
     "_MENU_ACCOUNT": "ACCOUNT",
     "_MENU_ACCOUNT_HI": "HI {name}!",
-    "_MENU_DASHBOARD": "Dashboard",
+    "_MENU_DASHBOARD": "Account",
     "_MENU_LOGOUT": "Logout",
     "_BOOKINGWIDGET_DELIVERY_TITLE": "deliver to",
     "_BOOKINGWIDGET_DELIVERY_PLACEHOLDER": "postcode",
@@ -414,5 +414,11 @@
     "_EXTRAS_ITEMS_20": "satellite navigation",
     "EXTRAS_SUBNOTE_1": "Our EU Travel Insurance is provided by Riverside Underwriting",
     "EXTRAS_SUBNOTE_2": "FREE in London or Manchester. Other locations across the UK will incur a fee",
-    "EXTRAS_SUBNOTE_3": "Our fully comprehensive insurance is provided by Flock"
+    "EXTRAS_SUBNOTE_3": "Our fully comprehensive insurance is provided by Flock",
+    "_STANDARD_INSURANCE": "standard insurance",
+    "_STANDARD_INSURANCE_DEPOSIT": "Comes with a {{deposit}} damage excess",
+    "PROVIDED_BY_FLOCK": "Provided by Flock",
+    "INSURANCE_BODY_TEXT_V2": "Reduce your damage excess to £0",
+    "PROVIDED_BY_RIVERSIDE": "Provided by Riverside Underwriting",
+    "INSURANCE_PRODUCT_INFORMATION_DOCUMENT": "Insurance Product Information Document"
 }
