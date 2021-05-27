@@ -416,7 +416,7 @@
     "EXTRAS_SUBNOTE_2": "FREE in London or Manchester. Other locations across the UK will incur a fee",
     "EXTRAS_SUBNOTE_3": "Our fully comprehensive insurance is provided by Flock",
     "_STANDARD_INSURANCE": "standard insurance",
-    "_STANDARD_INSURANCE_DEPOSIT": "Comes with a {{deposit}} damage excess",
+    "_STANDARD_INSURANCE_DEPOSIT": "Comes with a £{{deposit}} damage excess",
     "PROVIDED_BY_FLOCK": "Provided by Flock",
     "INSURANCE_BODY_TEXT_V2": "Reduce your damage excess to £0",
     "PROVIDED_BY_RIVERSIDE": "Provided by Riverside Underwriting",
