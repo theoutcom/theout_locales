@@ -422,5 +422,8 @@
     "PROVIDED_BY_RIVERSIDE": "Provided by Riverside Underwriting",
     "INSURANCE_PRODUCT_INFORMATION_DOCUMENT": "Insurance Product Information Document",
     "_VEHICLE_COLOR_AVAILABLE_ONLYONE_2": "AVAILABLE IN 1 COLOUR",
-    "_VEHICLE_COLOR_AVAILABLE_2": "AVAILABLE IN {{count}} COLOURS"
+    "_VEHICLE_COLOR_AVAILABLE_2": "AVAILABLE IN {{count}} COLOURS",
+    "LINK_TERM_AND_CONDITION": "https:\/\/static.theout.com\/assets\/terms_excess_insurance.pdf",
+    "LINK_NOT_EU": "https:\/\/static.theout.com\/assets\/pdf\/IDIP_excess_insurance_UK.pdf",
+    "LINK_EU": "https:\/\/static.theout.com\/assets\/pdf\/IDIP_excess_insurance_Europe.pdf"
 }
