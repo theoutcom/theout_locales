@@ -425,5 +425,8 @@
     "_VEHICLE_COLOR_AVAILABLE_2": "English",
     "LINK_TERM_AND_CONDITION": "English",
     "LINK_NOT_EU": "English",
-    "LINK_EU": "English"
+    "LINK_EU": "English",
+    "LOGIN_AND_SIGNUP_TITLE": "English",
+    "_LOG_IN_TITLE_": "English",
+    "_SIGN_UP_TITLE_": "English"
 }

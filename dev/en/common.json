@@ -425,5 +425,8 @@
     "_VEHICLE_COLOR_AVAILABLE_2": "AVAILABLE IN {{count}} COLOURS",
     "LINK_TERM_AND_CONDITION": "https:\/\/static.theout.com\/assets\/terms_excess_insurance.pdf",
     "LINK_NOT_EU": "https:\/\/static.theout.com\/assets\/pdf\/IDIP_excess_insurance_UK.pdf",
-    "LINK_EU": "https:\/\/static.theout.com\/assets\/pdf\/IDIP_excess_insurance_Europe.pdf"
+    "LINK_EU": "https:\/\/static.theout.com\/assets\/pdf\/IDIP_excess_insurance_Europe.pdf",
+    "LOGIN_AND_SIGNUP_TITLE": "LOGIN or signup",
+    "_LOG_IN_TITLE_": "login to my account",
+    "_SIGN_UP_TITLE_": "create an account"
 }
