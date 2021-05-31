@@ -20,6 +20,7 @@
     "PROMO_CODE_LIMIT_REACHED": "Promo code expired",
     "PROMO_CODE_INVALID": "Code invalid ",
     "PROMO_CODE_GENERIC_ERROR": "Code not applied ",
+    "ACCOUNT_DETAILS_PHONE_LABEL": "Phone Number",
     "REGISTRATION_COMPLETE_TITLE": "great news, you’re good to go",
     "PROMO_CODE_ORDER_START": " Promo code valid from %@",
     "PROMO_CODE_ORDER_END": "Promo code not applied ",
