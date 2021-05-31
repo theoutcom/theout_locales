@@ -428,5 +428,7 @@
     "LINK_EU": "https:\/\/static.theout.com\/assets\/pdf\/IDIP_excess_insurance_Europe.pdf",
     "LOGIN_AND_SIGNUP_TITLE": "LOGIN or signup",
     "_LOG_IN_TITLE_": "login to my account",
-    "_SIGN_UP_TITLE_": "create an account"
+    "_SIGN_UP_TITLE_": "create an account",
+    "EMAIL_ADDRESS_INPUT_LABEL": "email address",
+    "MIN_CHARACTER_INPUT": "Must be at least 8 characters"
 }
