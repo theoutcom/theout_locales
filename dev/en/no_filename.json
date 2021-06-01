@@ -411,7 +411,6 @@
     "GDPR_INFORMATION_DESCRIPTION": "Analytics help us improve THE OUT's service and tailor it to your specific needs. When turned off, you may not receive the full benefit of THE OUT’s services.",
     "CREATE_ACCOUNT_CHECKBOX_DESCRIPTION": "I agree to THE OUT T&C's and Privacy Policy.",
     "CREATE_ACCOUNT_CHECKBOX_DESCRIPTION_TNC_LINK": "T&C's",
-    "CREATE_ACCOUNT_CHECKBOX_DESCRIPTION_PRIVACY_LINK": "Privacy Policy",
     "QUOTE_PRICE_CHANGED_TITLE": "This will change the cost of your rental",
     "QUOTE_PRICE_CHANGED_DESCRIPTION": "Your previous rental cost was %@. The new cost will be %@.\n\nThe difference will be debited from or credited to your payment card.",
     "QUOTE_PRICE_CHANGED_CONFIRM_BUTTON": "Accept price change",

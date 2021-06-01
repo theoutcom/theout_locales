@@ -5,6 +5,7 @@
     "TOTAL_TEXT": "total",
     "WRONG_PASSWORD_ERROR_MESSAGE": "Invalid password",
     "YOUR_DRIVING_LICENCE_TITLE": "Your driving licence",
+    "CREATE_ACCOUNT_CHECKBOX_DESCRIPTION_PRIVACY_LINK": "Privacy Policy",
     "ACCOUNT_CHANGE_PASSWORD_TITLE": "Change password",
     "INSURANCE_SECTION_TITLE": "INSURANCE",
     "BOOKING_EDIT_CANCEL_CONFIRMATION_CHARGE_DESCRIPTION": "If you cancel now you will incur in a £{fee} cancellation fee.",
