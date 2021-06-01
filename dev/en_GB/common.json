@@ -431,5 +431,6 @@
     "_LOG_IN_TITLE_": "English",
     "_SIGN_UP_TITLE_": "English",
     "EMAIL_ADDRESS_INPUT_LABEL": "English",
-    "MIN_CHARACTER_INPUT": "English"
+    "MIN_CHARACTER_INPUT": "English",
+    "SPECIAL_CHARACTER_INPUT": "English"
 }

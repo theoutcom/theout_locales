@@ -431,5 +431,6 @@
     "_LOG_IN_TITLE_": "login to my account",
     "_SIGN_UP_TITLE_": "create an account",
     "EMAIL_ADDRESS_INPUT_LABEL": "email address",
-    "MIN_CHARACTER_INPUT": "Must be at least 8 characters"
+    "MIN_CHARACTER_INPUT": "Must be at least 8 characters",
+    "SPECIAL_CHARACTER_INPUT": "Must include a symbol"
 }
