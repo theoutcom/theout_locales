@@ -436,5 +436,7 @@
     "SPECIAL_CHARACTER_INPUT": "English",
     "_NEW_EMAIL_BOOKING_": "English",
     "INVALID_EMAIL": "English",
-    "REQUIRED_PASSWORD": "English"
+    "REQUIRED_PASSWORD": "English",
+    "_EMAIL_EXIST": "English",
+    "INVALID_NUMBER": "English"
 }

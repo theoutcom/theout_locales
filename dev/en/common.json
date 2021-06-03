@@ -436,5 +436,7 @@
     "SPECIAL_CHARACTER_INPUT": "Must include a symbol",
     "_NEW_EMAIL_BOOKING_": "I’m happy to be kept updated with news & offers from THE OUT",
     "INVALID_EMAIL": "Please enter a valid email address",
-    "REQUIRED_PASSWORD": "Please enter your password"
+    "REQUIRED_PASSWORD": "Please enter your password",
+    "_EMAIL_EXIST": "This email already exists, please try another",
+    "INVALID_NUMBER": "Please enter a valid phone number"
 }
