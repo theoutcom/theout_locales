@@ -434,5 +434,7 @@
     "EMAIL_ADDRESS_INPUT_LABEL": "English",
     "MIN_CHARACTER_INPUT": "English",
     "SPECIAL_CHARACTER_INPUT": "English",
-    "_NEW_EMAIL_BOOKING_": "English"
+    "_NEW_EMAIL_BOOKING_": "English",
+    "INVALID_EMAIL": "English",
+    "REQUIRED_PASSWORD": "English"
 }

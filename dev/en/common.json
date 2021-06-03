@@ -434,5 +434,7 @@
     "EMAIL_ADDRESS_INPUT_LABEL": "email address",
     "MIN_CHARACTER_INPUT": "Must be at least 8 characters",
     "SPECIAL_CHARACTER_INPUT": "Must include a symbol",
-    "_NEW_EMAIL_BOOKING_": "I’m happy to be kept updated with news & offers from THE OUT"
+    "_NEW_EMAIL_BOOKING_": "I’m happy to be kept updated with news & offers from THE OUT",
+    "INVALID_EMAIL": "Please enter a valid email address",
+    "REQUIRED_PASSWORD": "Please enter your password"
 }
