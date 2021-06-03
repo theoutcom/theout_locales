@@ -438,5 +438,6 @@
     "INVALID_EMAIL": "English",
     "REQUIRED_PASSWORD": "English",
     "_EMAIL_EXIST": "English",
-    "INVALID_NUMBER": "English"
+    "INVALID_NUMBER": "English",
+    "FOGOT_PASSWORD_TITLE": "English"
 }

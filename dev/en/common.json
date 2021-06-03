@@ -438,5 +438,6 @@
     "INVALID_EMAIL": "Please enter a valid email address",
     "REQUIRED_PASSWORD": "Please enter your password",
     "_EMAIL_EXIST": "This email already exists, please try another",
-    "INVALID_NUMBER": "Please enter a valid phone number"
+    "INVALID_NUMBER": "Please enter a valid phone number",
+    "FOGOT_PASSWORD_TITLE": "I’ve forgotten my password"
 }
