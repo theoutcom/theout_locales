@@ -10,6 +10,7 @@
     "INSURANCE_SECTION_TITLE": "INSURANCE",
     "BOOKING_EDIT_CANCEL_CONFIRMATION_CHARGE_DESCRIPTION": "If you cancel now you will incur in a £{fee} cancellation fee.",
     "BOOKING_EDIT_CANCEL_CONFIRMATION_CANCEL_BUTTON": "Yes, cancel booking",
+    "FORGOTTEN_PASSWORD_DESCRIPTION": "Please confirm your email address below to receive a reset link.",
     "INSURANCE_DETAILS_TITLE_1": "Insurance Summary",
     "MANUAL_VERIFICATION_DESCRIPTION": "We have received your application and we are verifying it. It will not take more than 24 hours.\nYou will receive an email when the checks are complete.",
     "TERMS_CHECKBOX_TITLE": "I have read and understood these terms",

@@ -603,7 +603,6 @@
     "WELCOME_BACK_TITLE": "We meet again... %@",
     "WELCOME_BACK_BODY": "Please enter your password to access your account.",
     "FORGOTTEN_PASSWORD_SUBTITLE": "Forgotten your password?",
-    "FORGOTTEN_PASSWORD_DESCRIPTION": "Please confirm your email address below to receive a reset link.",
     "EMAIL_ADDRESS_TEXT": "ENTER EMAIL ADDRESS",
     "RESET_PASSWORD_BUTTON": "HELP? 04",
     "DIDNT_RECEIVE_EMAIL_ACTION_TEXT": "No sign of it? <bu>Send me another email<\/bu>",
