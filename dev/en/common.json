@@ -14,6 +14,7 @@
     "INSURANCE_DETAILS_TITLE_1": "Insurance Summary",
     "MANUAL_VERIFICATION_DESCRIPTION": "We have received your application and we are verifying it. It will not take more than 24 hours.\nYou will receive an email when the checks are complete.",
     "TERMS_CHECKBOX_TITLE": "I have read and understood these terms",
+    "RESET_PASSWORD_CONFIRM_BUTTON": "SEND RESET LINK",
     "CREDIT_APPLIED_TITLE_TEXT": "Credit applied",
     "PAY_NOW": "PAY NOW",
     "GOT_IT_TITLE": "Gotcha",
@@ -440,5 +441,7 @@
     "REQUIRED_PASSWORD": "Please enter your password",
     "_EMAIL_EXIST": "This email already exists, please try another",
     "INVALID_NUMBER": "Please enter a valid phone number",
-    "FOGOT_PASSWORD_TITLE": "I’ve forgotten my password"
+    "FOGOT_PASSWORD_TITLE": "I’ve forgotten my password",
+    "FORGOTTEN_PASSWORD_TITLE_1": "FORGOTTEN PASSWORD?",
+    "FORGOTTEN_PASSWORD_TITLE_2": "NO WORRIES"
 }

@@ -14,6 +14,7 @@
     "INSURANCE_DETAILS_TITLE_1": "",
     "MANUAL_VERIFICATION_DESCRIPTION": "",
     "TERMS_CHECKBOX_TITLE": "",
+    "RESET_PASSWORD_CONFIRM_BUTTON": "",
     "CREDIT_APPLIED_TITLE_TEXT": "",
     "PAY_NOW": "",
     "GOT_IT_TITLE": "",
@@ -440,5 +441,7 @@
     "REQUIRED_PASSWORD": "English",
     "_EMAIL_EXIST": "English",
     "INVALID_NUMBER": "English",
-    "FOGOT_PASSWORD_TITLE": "English"
+    "FOGOT_PASSWORD_TITLE": "English",
+    "FORGOTTEN_PASSWORD_TITLE_1": "English",
+    "FORGOTTEN_PASSWORD_TITLE_2": "English"
 }
