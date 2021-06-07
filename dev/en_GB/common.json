@@ -443,5 +443,9 @@
     "INVALID_NUMBER": "English",
     "FOGOT_PASSWORD_TITLE": "English",
     "FORGOTTEN_PASSWORD_TITLE_1": "English",
-    "FORGOTTEN_PASSWORD_TITLE_2": "English"
+    "FORGOTTEN_PASSWORD_TITLE_2": "English",
+    "VERIFY_NUMBER_TITLE": "English",
+    "VERIFY_NUMBER_DESCRIPTION": "English",
+    "NOT_RECEIVED_VERIFICATION_CODE": "English",
+    "BUTTON_NOT_RECEIVED_CODE": "English"
 }

@@ -443,5 +443,9 @@
     "INVALID_NUMBER": "Please enter a valid phone number",
     "FOGOT_PASSWORD_TITLE": "I’ve forgotten my password",
     "FORGOTTEN_PASSWORD_TITLE_1": "FORGOTTEN PASSWORD?",
-    "FORGOTTEN_PASSWORD_TITLE_2": "NO WORRIES"
+    "FORGOTTEN_PASSWORD_TITLE_2": "NO WORRIES",
+    "VERIFY_NUMBER_TITLE": "verify your number",
+    "VERIFY_NUMBER_DESCRIPTION": "To confirm your identity you’ll need to enter the 6 digit code we just sent to number ending {{code}}. It should arrive within a minute.",
+    "NOT_RECEIVED_VERIFICATION_CODE": "Didn’t receive it?",
+    "BUTTON_NOT_RECEIVED_CODE": "Send it again"
 }
