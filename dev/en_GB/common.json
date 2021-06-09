@@ -447,5 +447,6 @@
     "VERIFY_NUMBER_TITLE": "English",
     "VERIFY_NUMBER_DESCRIPTION": "English",
     "NOT_RECEIVED_VERIFICATION_CODE": "English",
-    "BUTTON_NOT_RECEIVED_CODE": "English"
+    "BUTTON_NOT_RECEIVED_CODE": "English",
+    "TEST_LOKALISE": "English"
 }

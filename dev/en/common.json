@@ -447,5 +447,6 @@
     "VERIFY_NUMBER_TITLE": "verify your number",
     "VERIFY_NUMBER_DESCRIPTION": "To confirm your identity you’ll need to enter the 6 digit code we just sent to number ending {{code}}. It should arrive within a minute.",
     "NOT_RECEIVED_VERIFICATION_CODE": "Didn’t receive it?",
-    "BUTTON_NOT_RECEIVED_CODE": "Send it again"
+    "BUTTON_NOT_RECEIVED_CODE": "Send it again",
+    "TEST_LOKALISE": "test {{code}} avx"
 }
