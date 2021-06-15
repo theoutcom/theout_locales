@@ -3,6 +3,7 @@
     "TRIPS_TAB_TITLE": "TRIPS",
     "ADD_CARD_TITLE": "Payment method",
     "TOTAL_TEXT": "total",
+    "EMAIL_NOT_FOUND_ERROR_MESSAGE": "The login details you've supplied are incorrect. Remember to use the email address that you registered with.",
     "WRONG_PASSWORD_ERROR_MESSAGE": "Invalid password",
     "YOUR_DRIVING_LICENCE_TITLE": "Your driving licence",
     "CREATE_ACCOUNT_CHECKBOX_DESCRIPTION_PRIVACY_LINK": "Privacy Policy",
