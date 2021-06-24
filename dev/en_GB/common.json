@@ -450,5 +450,9 @@
     "VERIFY_NUMBER_DESCRIPTION": "English",
     "NOT_RECEIVED_VERIFICATION_CODE": "English",
     "BUTTON_NOT_RECEIVED_CODE": "English",
-    "TEST_LOKALISE": "English"
+    "TEST_LOKALISE": "English",
+    "PROMOTE_BANNER_HOMEPAGE": "English",
+    "_JOURNAL_TITLE_": "English",
+    "_JOURNAL_DESCRIPTION_": "",
+    "_LOADMORE_JOURNAL": ""
 }
