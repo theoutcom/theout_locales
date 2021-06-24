@@ -222,7 +222,7 @@
     "AIRPORT_NOTE_ONLY_COLLECTION": "Please note: {collectionAirportName} collections require an extra £{collectionAirportFee} fee",
     "DELIVERY_FEE_CONFIRM_BUTTON": "Save address",
     "NEW_LETTER_SIGNUP_TITLE": "THE OUT IN YOUR INBOX",
-    "NEW_LETTER_SIGNUP_DESCRIPTION": "Sign up for the latest information, fleet updates and roadtrip inspiration from THE JOURNAL.",
+    "NEW_LETTER_SIGNUP_DESCRIPTION": "Sign up for the latest information, fleet updates and road trip inspiration from THE JOURNAL.",
     "NEW_LETTER_SIGNUP_TERMS_CONDITIONS": "BY SIGNING UP TO OUR MARKETING EMAILS, YOU ARE ACCEPTING OUR TERMS AND CONDITIONS AND HAVE READ AND UNDERSTOOD OUR PRIVACY AND COOKIE POLICIES",
     "NEW_LETTER_SIGNUP_CTA": "Sign me up",
     "NEW_LETTER_SIGNUP_FIRST_NAME_LABEL": "First name",
@@ -309,7 +309,7 @@
     "_JOURNAL_HEADER": "GET INSPIRED",
     "_JOURNAL_VIEW_MORE": "Explore our journal",
     "_INBOX_HEADER": "STAY IN THE LOOP    ",
-    "_INBOX_DESCRIPTION": "Be the first to hear about new cars, offers and roadtrip inspiration.",
+    "_INBOX_DESCRIPTION": "Be the first to hear about new cars, offers and road trip inspiration.",
     "_INBOX_INPUT_PLACEHOLDER": "Enter your email",
     "_INBOX_TERMS_N_CONDITIONS": "I accept the <a target=\"_blank\"\n                    href=\"https:\/\/help.theout.com\/en\/articles\/2465288-terms-and-conditions\">terms &amp; conditions<\/a>",
     "_INBOX_SUBSCRIBE_CTA": "subscribe TO UPDATES",
@@ -450,5 +450,9 @@
     "VERIFY_NUMBER_DESCRIPTION": "To confirm your identity you’ll need to enter the 6 digit code we just sent to number ending {{code}}. It should arrive within a minute.",
     "NOT_RECEIVED_VERIFICATION_CODE": "Didn’t receive it?",
     "BUTTON_NOT_RECEIVED_CODE": "Send it again",
-    "TEST_LOKALISE": "test {{code}} avx"
+    "TEST_LOKALISE": "test {{code}} avx",
+    "PROMOTE_BANNER_HOMEPAGE": "TITLE\nLorem ipsum dolor sit amet, consur adipiscing elit viverra fusce\n\/journal\nhttps:\/\/static.theout.com\/website\/promote-banner\/promote-banner.jpg",
+    "_JOURNAL_TITLE_": "The journal",
+    "_JOURNAL_DESCRIPTION_": "Inspiration for your next road trip. Places to see and stay. Opinion pieces from famous travellers. And all the latest car news and reviews.",
+    "_LOADMORE_JOURNAL": "SEE MORE"
 }
