@@ -454,5 +454,6 @@
     "PROMOTE_BANNER_HOMEPAGE": "TITLE\nLorem ipsum dolor sit amet, consur adipiscing elit viverra fusce\n\/journal\nhttps:\/\/static.theout.com\/website\/promote-banner\/promote-banner.jpg",
     "_JOURNAL_TITLE_": "The journal",
     "_JOURNAL_DESCRIPTION_": "Inspiration for your next road trip. Places to see and stay. Opinion pieces from famous travellers. And all the latest car news and reviews.",
-    "_LOADMORE_JOURNAL": "SEE MORE"
+    "_LOADMORE_JOURNAL": "SEE MORE",
+    "Test": "Test"
 }
