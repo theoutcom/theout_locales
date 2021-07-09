@@ -455,5 +455,18 @@
     "_JOURNAL_TITLE_": "The journal",
     "_JOURNAL_DESCRIPTION_": "Inspiration for your next road trip. Places to see and stay. Opinion pieces from famous travellers. And all the latest car news and reviews.",
     "_LOADMORE_JOURNAL": "SEE MORE",
-    "Test": "Test"
+    "Test": "Test",
+    "BOOKING_DETAIL_REVIEW": "REVIEW ORDER",
+    "BOOKING_DETAIL_CAR": "CAR",
+    "BOOKING_DETAIL_DELIVERY": "DELIVERY",
+    "BOOKING_DETAIL_COLECTION": "COLECTION",
+    "BOOKING_DETAIL_EXTRAS": "EXTRAS",
+    "BOOKING_DETAIL_INSURANCE": "INSURANCE",
+    "BOOKING_DETAIL_DEPOSIT": "DEPOSIT HELD ON CARD",
+    "BOOKING_DETAIL_RENTAL": "VEHICLE RENTAL",
+    "BOOKING_DETAIL_TOTALPAY": "TOTAL TO PAY",
+    "BOOKING_DETAIL_SUBMIT": "PLACE SECURE ORDER",
+    "BOOKING_DETAIL_PROMO": "PROMO AMOUNT",
+    "PROMO_CODE_PLACEHOLDER": "Enter Promo Code",
+    "PROMO_APPLY": "APPLY"
 }
