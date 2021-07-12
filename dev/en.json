@@ -1,3 +1,8 @@
 {
-	"THE_OUT": "THE_OUT"
+  "MENU_DASHBOARD": "Dashboard",
+  "MENU_ORDERS": "Orders",
+  "MENU_LOCATIONS": "Locations",
+  "MENU_CARS": "Cars",
+  "MENU_CUSTOMERS": "Customers",
+  "MENU_SETTINGS": "Settings"
 }
