@@ -4,5 +4,14 @@
   "MENU_LOCATIONS": "Locations",
   "MENU_CARS": "Cars",
   "MENU_CUSTOMERS": "Customers",
-  "MENU_SETTINGS": "Settings"
+  "MENU_SETTINGS": "Settings",
+  "CUSTOMERS_CREATE_BUTTON": "Create customer",
+  "CUSTOMERS_IMPORT_SVG_BUTTON": "Import SVG",
+  "CUSTOMERS_HEADER": "Customers",
+  "CUSTOMERS_SEARCH": "Search",
+  "CUSTOMERS_FILTERS_BUTTON": "Filters",
+  "TABLE_FIRST_NAME": "First Name",
+  "TABLE_LAST_NAME": "Last Name",
+  "TABLE_EMAIL": "Email",
+  "TABLE_PHONE": "Phone"
 }
