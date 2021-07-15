@@ -468,5 +468,20 @@
     "BOOKING_DETAIL_SUBMIT": "PLACE SECURE ORDER",
     "BOOKING_DETAIL_PROMO": "PROMO AMOUNT",
     "PROMO_CODE_PLACEHOLDER": "Enter Promo Code",
-    "PROMO_APPLY": "APPLY"
+    "PROMO_APPLY": "APPLY",
+    "PAYMENT_TITLE": "PAYMENT METHOD",
+    "PAYMENT_CREADIT\/DEBIT": "CREADIT\/DEBIT CARD",
+    "PAYMENT_CARD_NUMBER": "CARD NUMBER",
+    "CARD_NUMBER_REQUIRED": "Card number is required.",
+    "CARD_NUMBER_INVALID": "Card number is invalid.",
+    "PAYMENT_CARD_NAME": "NAME ON CARD",
+    "CARD_NAME_REQUIRED": "Card name code is required.",
+    "CARD_NAME_INVALID": "Card name is invalid.",
+    "PAYMENT_CARD_EXPIRY": "EXPIRY DATE",
+    "EXPIRY_DATE_REQUIRED": "Expiry date is required.",
+    "EXPIRY_DATE_INVALID": "Expiry date is invalid.",
+    "PAYMENT_SECURITY": "SECURITY CODE",
+    "SECURITY_CODE_REQUIRED": "Security code is required.",
+    "SECURITY_CODE_INVALID": "Security code is invalid.",
+    "BILLING_POSTCODE_INVALID": "Billing postcode is invalid."
 }
