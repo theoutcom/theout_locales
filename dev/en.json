@@ -17,5 +17,12 @@
   "TABLE_KYC_STATUS": "KYC Status",
   "TABLE_USER_TYPE": "User Type",
   "TABLE_CREATED": "Created",
-  "TABLE_RESULT": "Showing {{start}} to {{end}} of {{total}} results"
+  "TABLE_RESULT": "Showing {{start}} to {{end}} of {{total}} results",
+  "LOGIN_LABEL": "Login",
+  "LOGIN_EMAIL_FIELD": "Email Address",
+  "LOGIN_PASSWORD_FIELD": "Password",
+  "LOGIN_FORGOT_PASSWORD": "I forgot my password",
+  "LOGIN_SUBMIT_BUTTON": "Login",
+  "CUSTOMERS_LOGOUT": "Logout",
+  "CUSTOMERS_EDIT_PROFILE": "Edit Profile"
 }
