@@ -5,7 +5,7 @@
   "MENU_CARS": "Cars",
   "MENU_CUSTOMERS": "Customers",
   "MENU_SETTINGS": "Settings",
-  "CUSTOMERS_CREATE_BUTTON": "Create customer",
+  "CUSTOMERS_CREATE_BUTTON": "Add",
   "CUSTOMERS_IMPORT_SVG_BUTTON": "Import SVG",
   "CUSTOMERS_HEADER": "Customers",
   "CUSTOMERS_SEARCH": "Search",
@@ -13,5 +13,9 @@
   "TABLE_FIRST_NAME": "First Name",
   "TABLE_LAST_NAME": "Last Name",
   "TABLE_EMAIL": "Email",
-  "TABLE_PHONE": "Phone"
+  "TABLE_PHONE": "Phone",
+  "TABLE_KYC_STATUS": "KYC Status",
+  "TABLE_USER_TYPE": "User Type",
+  "TABLE_CREATED": "Created",
+  "TABLE_RESULT": "Showing {{start}} to {{end}} of {{total}} results"
 }
