@@ -496,5 +496,6 @@
     "PROMOCODE_REJECTED_NEED_USER": "Promo code rejected need user.",
     "PROMOCODE_CAR_MODEL": "Promo code can't be used with chosen car model.",
     "REFERRAL_CODE_NOT_FIRSTBOOKING": "Opps, that code only works for your first booking.",
-    "PROMO_CODE_NOTED": "Promotional codes and\/or credit cannot be used against insurance."
+    "PROMO_CODE_NOTED": "Promotional codes and\/or credit cannot be used against insurance.",
+    "PROMO_CODE_SUCESS": "{{code}} successfully applied"
 }
