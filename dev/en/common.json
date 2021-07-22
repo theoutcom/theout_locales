@@ -20,7 +20,7 @@
     "PAY_NOW": "PAY NOW",
     "GOT_IT_TITLE": "Gotcha",
     "FORGOTTEN_PASSWORD_TITLE": "forgotten password?\nno worries",
-    "REMOVE_PROMO_CODE": "REMOVE",
+    "REMOVE_PROMO_CODE": "Remove",
     "PROMO_CODE_ALREADY_USED": "Code already used ",
     "PROMO_CODE_LIMIT_REACHED": "Promo code expired",
     "PROMO_CODE_INVALID": "Code invalid ",
@@ -495,5 +495,6 @@
     "REFERRAL_CODE_INVALID": "You can not use your own referral code.",
     "PROMOCODE_REJECTED_NEED_USER": "Promo code rejected need user.",
     "PROMOCODE_CAR_MODEL": "Promo code can't be used with chosen car model.",
-    "REFERRAL_CODE_NOT_FIRSTBOOKING": "Opps, that code only works for your first booking."
+    "REFERRAL_CODE_NOT_FIRSTBOOKING": "Opps, that code only works for your first booking.",
+    "PROMO_CODE_NOTED": "Promotional codes and\/or credit cannot be used against insurance."
 }
