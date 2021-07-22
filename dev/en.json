@@ -24,5 +24,8 @@
   "LOGIN_FORGOT_PASSWORD": "I forgot my password",
   "LOGIN_SUBMIT_BUTTON": "Login",
   "CUSTOMERS_LOGOUT": "Logout",
-  "CUSTOMERS_EDIT_PROFILE": "Edit Profile"
+  "CUSTOMERS_EDIT_PROFILE": "Edit Profile",
+  "ERR_ADMIN_LOGIN_INVALID_CREDENTIALS": "Incorrect email or password",
+  "ERR_ADMIN_LOGIN_REQUIRED_FIELD": "This is a required field",
+  "ERR_ADMIN_LOGIN_INVALID_EMAIL": "Email must be a valid email"
 }
