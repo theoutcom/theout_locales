@@ -36,5 +36,9 @@
   "USER_TYPE_NEW_CUSTOMER": "New Customer",
   "USER_TYPE_1_TIME_CUSTOMER": "1-Time Customer",
   "USER_TYPE_REPEAT_CUSTOMER": "Repeat Customer",
-  "USER_TYPE_LOYAL_CUSTOMER": "Loyal Customer"
+  "USER_TYPE_LOYAL_CUSTOMER": "Loyal Customer",
+  "USER_DROPDOWN_CREATE_ORDER": "Create Order",
+  "USER_DROPDOWN_SEND_MAIL": "Send Email",
+  "USER_DROPDOWN_EDIT_CUSTOMER": "Edit Customer",
+  "USER_DROPDOWN_DELETE": "Delete"
 }
