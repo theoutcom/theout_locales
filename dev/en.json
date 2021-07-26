@@ -6,7 +6,7 @@
   "MENU_CUSTOMERS": "Customers",
   "MENU_SETTINGS": "Settings",
   "CUSTOMERS_CREATE_BUTTON": "Add",
-  "CUSTOMERS_IMPORT_SVG_BUTTON": "Import SVG",
+  "CUSTOMERS_IMPORT_SVG_BUTTON": "Import",
   "CUSTOMERS_HEADER": "Customers",
   "CUSTOMERS_SEARCH": "Search",
   "CUSTOMERS_FILTERS_BUTTON": "Filters",
@@ -52,5 +52,7 @@
   "FORGOT_PASSWORD_LABEL": "Forgot Password",
   "FORGOT_PASSWORD_EMAIL_ADDRESS": "Email Address",
   "FORGOT_PASSWORD_SUBMIT": "Reset Password",
-  "FORGOT_PASSWORD_SUCCESS": "Check your inbox to reset your password"
+  "FORGOT_PASSWORD_SUCCESS": "Check your inbox to reset your password",
+  "ERR_ADMIN_INVALID_TOKEN": "Invalid token",
+  "ERR_ADMIN_ACCOUNT_DISABLED": "Account is disabled"
 }
