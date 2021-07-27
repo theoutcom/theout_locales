@@ -874,7 +874,7 @@
     "REGISTRATION_COMPLETE": "Registration complete",
     "REGISTRATION_COMPLETE_DESCRIPTION": "You have successfully registered with THE OUT. It’s now time to build your adventure",
     "REGISTRATION_COMPLETE_BUTTON_TITLE": "Got it",
-    "BOOKING_SUMMARY_PROMOCODE_ERROR_TITLE": "Promo code already used",
+    "BOOKING_SUMMARY_PROMOCODE_ERROR_TITLE": "Code already used",
     "BOOKING_SUMMARY_PROMOCODE_ERROR_BODY": "we’re sorry but the promo code you entered has already been used. \n\nThe %@discount will not be applied to your booking",
     "BOOKING_SUMMARY_PROMOCODE_ERROR_BUTTON_TITLE": "remove and continue",
     "BOOKING_SUMMARY_PROMOCODE_ERROR_SCREEN_TITLE": "Invalid promo code",
