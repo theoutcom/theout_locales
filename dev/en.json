@@ -106,5 +106,6 @@
   "CLEAR_SEARCH_BUTTON": "Clear search",
   "ERR_CREATE_CUSTOMERS_NOT_FILL_REQUIRED_FIELDS": "Please resolve the errors below",
   "ERR_CREATE_CUSTOMERS_EMPTY_FIELD": "Please enter a {{field_name}}",
-  "ERR_CREATE_CUSTOMERS_EMPTY_FIELD_INVALID": "Please enter a valid {{field_name}}"
+  "ERR_CREATE_CUSTOMERS_EMPTY_FIELD_INVALID": "Please enter a valid {{field_name}}",
+  "ERR_USER_EMAIL_EXISTS": "Customer Email already exists"
 }
