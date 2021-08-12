@@ -103,5 +103,8 @@
   "CUSTOMERS_NOT_FOUND_SEARCH_CONTENT": "We couldn’t find any customers matching your search \"{{search_value}}\"",
   "CUSTOMERS_NOT_FOUND_FILTER_CONTENT": "We couldn’t find any customers matching your filters",
   "CLEAR_FILTER_BUTTON": "Clear filter",
-  "CLEAR_SEARCH_BUTTON": "Clear search"
+  "CLEAR_SEARCH_BUTTON": "Clear search",
+  "ERR_CREATE_CUSTOMERS_NOT_FILL_REQUIRED_FIELDS": "Please resolve the errors below",
+  "ERR_CREATE_CUSTOMERS_EMPTY_FIELD": "Please enter a",
+  "ERR_CREATE_CUSTOMERS_EMPTY_FIELD_INVALID": "Please enter a valid"
 }
