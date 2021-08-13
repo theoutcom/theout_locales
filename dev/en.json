@@ -85,7 +85,7 @@
   "CANCEL_BUTTON": "Cancel",
   "ADDRESS_LINE_1_LABEL": "Address line 1",
   "ADDRESS_LINE_2_LABEL": "Address line 2",
-  "FLAT_BUILDING_LABEL": "Flat\/Building",
+  "FLAT_BUILDING_LABEL": "Flat\/Building number",
   "TOWN_CITY_LABEL": "Town\/City",
   "COUNTRY_LABEL": "Country",
   "POST_CODE_LABEL": "Postcode",
