@@ -108,5 +108,12 @@
   "ERR_CREATE_CUSTOMERS_EMPTY_FIELD": "Please enter a {{field_name}}",
   "ERR_CREATE_CUSTOMERS_EMPTY_FIELD_INVALID": "Please enter a valid {{field_name}}",
   "ERR_USER_EMAIL_EXISTS": "Customer Email already exists",
-  "WARNING_USER_LEAVE_WITHOUT_SAVING": "Do you want to leave without saving data?"
+  "WARNING_USER_LEAVE_WITHOUT_SAVING": "Do you want to leave without saving data?",
+  "ADD_PAYMENT_METHOD_LABEL": "Add payment method",
+  "REMOVE_PAYMENT_METHOD_LABEL": "Remove payment method",
+  "SAVE_PAYMENT_METHOD_BUTTON": "Save payment method",
+  "BILLING_REMOVE_CARD_CONTENT": "<span>This cannot be undone. <\/span> If you want to remove this payment method please click \"Remove Payment Method\".",
+  "ERR_BILLING_CARD_NAME_EMPTY_FIELD": "Please enter name on card",
+  "ERR_BILLING_CARD_NUMBER_EMPTY_FIELD": "Please enter card number",
+  "ERR_USER_SETUP_CREDIT_CARD": "Failed to add your card"
 }
