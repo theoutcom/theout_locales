@@ -123,5 +123,6 @@
   "ORDERS_CREATE_BUTTON": "Create order",
   "CUSTOMERS_ACTIONS_DESCRIPTION": "Mauris suscipit, neque sit amet viverra commodo, nisi mauris eleifend.",
   "ACTION_DISABLE_CUSTOMER_BUTTON": "Disable customer",
-  "ACTION_DELETE_CUSTOMER_BUTTON": "Delete customer"
+  "ACTION_DELETE_CUSTOMER_BUTTON": "Delete customer",
+  "CUSTOMER_NOT_VERIFY_ICON": "Not verify"
 }
