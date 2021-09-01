@@ -137,5 +137,5 @@
   "ACTION_DELETE_MODEL_BUTTON": "Delete model",
   "MODEL_LABEL": "Models",
   "MODEL_BUTTON_CREATE": "Create model",
-  "PLACEHODER_SELECT": "Select"
+  "PLACEHODER_SELECT": "Select {{field_name}}"
 }
