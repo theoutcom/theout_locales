@@ -134,5 +134,8 @@
   "MODEL_NAME_LABEL": "Model name",
   "ACTION_DUPLICATE_MODEL_BUTTON": "Duplicate model",
   "ACTION_DISABLE_MODEL_BUTTON": "Disable model",
-  "ACTION_DELETE_MODEL_BUTTON": "Delete model"
+  "ACTION_DELETE_MODEL_BUTTON": "Delete model",
+  "MODEL_LABEL": "Models",
+  "MODEL_BUTTON_CREATE": "Create model",
+  "PLACEHODER_SELECT": "Select"
 }
