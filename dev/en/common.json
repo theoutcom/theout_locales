@@ -1,6 +1,9 @@
 {
     "YOUR_BOOKING": "Your bookings",
     "TRIPS_TAB_TITLE": "TRIPS",
+    "DVLA_CONSENT_TITLE": "Driving History Check Agreement",
+    "DVLA_CONSENT_DECLARATION": "I am the person named in and making the application to rent a car from THE OUT. I understand that THE OUT will ask the DVLA for my driver record information via the use of its intermediary Licence Check Ltd, as and when they require, for the purpose to confirm legal entitlement to drive in compliance with duty of care and legislative requirements.\nI understand the DVLA will disclose to THE OUT via Licence Check Ltd, all relevant information held in the computerised register of drivers maintained by DVLA. This includes personal details, driving entitlements, valid endorsements and disqualifications (if relevant), photo images, Certificate of Professional Competence (CPC) and Digital Tachograph Card details (where appropriate). Medical information will not be provided.\nThis declaration will expire when I cease driving in connection with THE OUT or in any case three years from the date of approval. Approval can be withdrawn at any time by contacting us at help@theout.com though please note that, if you do so, you will no longer be able to rent a car from us unless you provide additional approval.",
+    "DVLA_CONSENT_CHECKBOX": "I have read and understood these terms",
     "ADD_CARD_TITLE": "Payment method",
     "TOTAL_TEXT": "total",
     "CLAIMS_TITLE": "Important declaration",
