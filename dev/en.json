@@ -139,5 +139,18 @@
   "MODEL_BUTTON_CREATE": "Create model",
   "PLACEHODER_SELECT": "Select {{field_name}}",
   "ERR_ITEM_NOT_FOUND": "Item not found",
-  "SOMETHING_WRONG": "Something wrong"
+  "SOMETHING_WRONG": "Something wrong",
+  "CAR_DERIVATIVE_SUMMARY_SECTION": "Summary",
+  "CAR_DERIVATIVE_EXTRAS_SECTION": "Extras",
+  "CAR_DERIVATIVE_CARS_SECTION": "Cars",
+  "CAR_DERIVATIVE_RATES_SECTION": "Rates",
+  "CAR_DERIVATIVE_ACTIONS_SECTION": "Actions",
+  "CAR_DERIVATIVE_SUMMARY_DESCRIPTION": "Mauris suscipit, neque sit amet viverra commodo, nisi mauris eleifend.",
+  "CAR_DERIVATIVE_EXTRAS_DESCRIPTION": "Mauris suscipit, neque sit amet viverra commodo, nisi mauris eleifend.",
+  "CAR_DERIVATIVE_CARS_DESCRIPTION": "Mauris suscipit, neque sit amet viverra commodo, nisi mauris eleifend.",
+  "CAR_DERIVATIVE_RATES_DESCRIPTION": "Mauris suscipit, neque sit amet viverra commodo, nisi mauris eleifend.",
+  "CAR_DERIVATIVE_ACTIONS_DESCRIPTION": "Mauris suscipit, neque sit amet viverra commodo, nisi mauris eleifend.",
+  "ACTION_DUPLICATE_DERIVATIVE_BUTTON": "Duplicate derivative",
+  "ACTION_DISABLE_DERIVATIVE_BUTTON": "Disable derivative",
+  "ACTION_DELETE_DERIVATIVE_BUTTON": "Delete derivative"
 }
