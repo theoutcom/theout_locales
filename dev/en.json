@@ -152,5 +152,10 @@
   "CAR_DERIVATIVE_ACTIONS_DESCRIPTION": "Mauris suscipit, neque sit amet viverra commodo, nisi mauris eleifend.",
   "ACTION_DUPLICATE_DERIVATIVE_BUTTON": "Duplicate derivative",
   "ACTION_DISABLE_DERIVATIVE_BUTTON": "Disable derivative",
-  "ACTION_DELETE_DERIVATIVE_BUTTON": "Delete derivative"
+  "ACTION_DELETE_DERIVATIVE_BUTTON": "Delete derivative",
+  "NEW_DERIVATIVE": "New derivative",
+  "FUEL_LABEL": "Fuel",
+  "TRANSMISSION_LABEL": "Transmission",
+  "SEATS_LABEL": "Seats",
+  "ENGINE_CAPACITY_LABEL": "Engine capacity"
 }
