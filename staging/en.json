@@ -158,6 +158,7 @@
   "TRANSMISSION_LABEL": "Transmission",
   "SEATS_LABEL": "Seats",
   "ENGINE_CAPACITY_LABEL": "Engine capacity",
-  "PLEASE_SELECT": "Please enter a valid {{field_name}}",
-  "ADD_DERIVATIVE_BUTTON": "Add derivative"
+  "PLEASE_SELECT": "Please select a {{field_name}}",
+  "ADD_DERIVATIVE_BUTTON": "Add derivative",
+  "DERIVATIVE_NAME": "derivative name"
 }
