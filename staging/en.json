@@ -160,5 +160,7 @@
   "ENGINE_CAPACITY_LABEL": "Engine capacity",
   "PLEASE_SELECT": "Please select a {{field_name}}",
   "ADD_DERIVATIVE_BUTTON": "Add derivative",
-  "DERIVATIVE_NAME": "derivative name"
+  "DERIVATIVE_NAME": "derivative name",
+  "SAVE_CHANGES_BUTTON": "Save changes",
+  "PLEASE_SELECT_AN": "Please select an {{field_name}}"
 }
