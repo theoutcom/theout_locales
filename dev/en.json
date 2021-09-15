@@ -162,5 +162,11 @@
   "ADD_DERIVATIVE_BUTTON": "Add derivative",
   "DERIVATIVE_NAME": "derivative name",
   "SAVE_CHANGES_BUTTON": "Save changes",
-  "PLEASE_SELECT_AN": "Please select an {{field_name}}"
+  "PLEASE_SELECT_AN": "Please select an {{field_name}}",
+  "LOCATION_LABEL": "location",
+  "CONTINUE_LABEL": "Continue",
+  "RATE_SETUP_LABEL": "Setup rates for",
+  "PEAK_RATE_LABEL": "Peak rates",
+  "DISCOUNT_RATE_LABEL": "Discount rates",
+  "DELETE_RATE": "Delete rates"
 }
