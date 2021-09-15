@@ -178,5 +178,7 @@
   "ADD_CARS_BUTTON_WITH_NUMBER": "Add {{number}} car",
   "ADD_CARS_BUTTON_WITH_NUMBERS": "Add {{number}} cars",
   "PLEASE_ENTER_FIELD_NAME": "Please enter a {{field_name}}",
-  "SETUP_CAR_LABEL": "Setup cars"
+  "SETUP_CAR_LABEL": "Setup cars",
+  "NUMBER_CAR_ADDED": "{{number}} car added",
+  "NUMBER_CARS_ADDED": "{{number}} cars added"
 }
