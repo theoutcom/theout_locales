@@ -180,5 +180,8 @@
   "PLEASE_ENTER_FIELD_NAME": "Please enter a {{field_name}}",
   "SETUP_CAR_LABEL": "Setup cars",
   "NUMBER_CAR_ADDED": "{{number}} car added",
-  "NUMBER_CARS_ADDED": "{{number}} cars added"
+  "NUMBER_CARS_ADDED": "{{number}} cars added",
+  "CAR_DERIVATIVE_RATES_BASE_RATE_PER_DAY": "Base rate per day",
+  "CAR_DERIVATIVE_RATES_TYPE_BASE_RATE": "Type here or paste multiple day rates seperated by a new line",
+  "CAR_DERIVATIVE_RATES_LAST_DAY": "What is the day rate after the last day above?"
 }
