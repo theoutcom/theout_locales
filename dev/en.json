@@ -183,5 +183,6 @@
   "NUMBER_CARS_ADDED": "{{number}} cars added",
   "CAR_DERIVATIVE_RATES_BASE_RATE_PER_DAY": "Base rate per day",
   "CAR_DERIVATIVE_RATES_TYPE_BASE_RATE": "Type here or paste multiple day rates seperated by a new line",
-  "CAR_DERIVATIVE_RATES_LAST_DAY": "What is the day rate after the last day above?"
+  "CAR_DERIVATIVE_RATES_LAST_DAY": "What is the day rate after the last day above?",
+  "PLEASE_ENTER_VALID_FIELD_NAME": "Please enter a valid {{field_name}}"
 }
