@@ -191,5 +191,7 @@
   "STATUS_LABEL": "Status",
   "VIEW_CAR_LABEL": "View car",
   "DELETE_LABEL": "Delete car",
-  "EDIT_REG_VIN_BUTTON": "Edit registration & VIN"
+  "EDIT_REG_VIN_BUTTON": "Edit registration & VIN",
+  "NUMBER_CAR_UPDATED": "{{number}} car updated",
+  "NUMBER_CARS_UPDATED": "{{number}} cars updated"
 }
