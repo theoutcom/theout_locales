@@ -183,5 +183,15 @@
   "NUMBER_CARS_ADDED": "{{number}} cars added",
   "CAR_DERIVATIVE_RATES_BASE_RATE_PER_DAY": "Base rate per day",
   "CAR_DERIVATIVE_RATES_TYPE_BASE_RATE": "Type here or paste multiple day rates seperated by a new line",
-  "CAR_DERIVATIVE_RATES_LAST_DAY": "What is the day rate after the last day above?"
+  "CAR_DERIVATIVE_RATES_LAST_DAY": "What is the day rate after the last day above?",
+  "PLEASE_ENTER_VALID_FIELD_NAME": "Please enter a valid {{field_name}}",
+  "RATE_SETUP_LABEL_2": "Setup",
+  "REGISTRATION_NUMBER_LABEL": "Registration",
+  "VIN_LABEL": "VIN",
+  "STATUS_LABEL": "Status",
+  "VIEW_CAR_LABEL": "View car",
+  "DELETE_LABEL": "Delete car",
+  "EDIT_REG_VIN_BUTTON": "Edit registration & VIN",
+  "NUMBER_CAR_UPDATED": "{{number}} car updated",
+  "NUMBER_CARS_UPDATED": "{{number}} cars updated"
 }
