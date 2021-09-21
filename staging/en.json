@@ -193,5 +193,10 @@
   "DELETE_LABEL": "Delete car",
   "EDIT_REG_VIN_BUTTON": "Edit registration & VIN",
   "NUMBER_CAR_UPDATED": "{{number}} car updated",
-  "NUMBER_CARS_UPDATED": "{{number}} cars updated"
+  "NUMBER_CARS_UPDATED": "{{number}} cars updated",
+  "ERR_CAR_MODEL_ADD_CARS_DUPLICATED_REGISTRATION_NUMBERS": "Duplicated registration number found",
+  "ERR_CAR_MODEL_ADD_CARS_DUPLICATED_VIN": "Duplicated VIN found",
+  "ERR_CAR_VIN_EXISTS": "VIN already exists",
+  "ERR_CAR_REGISTRATION_NUMBER_EXISTS": "Registration number already exists",
+  "SEARCH_BY_REGISTRATION": "Search by registration"
 }
