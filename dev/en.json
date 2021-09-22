@@ -198,5 +198,6 @@
   "ERR_CAR_MODEL_ADD_CARS_DUPLICATED_VIN": "Duplicated VIN found",
   "ERR_CAR_VIN_EXISTS": "VIN already exists",
   "ERR_CAR_REGISTRATION_NUMBER_EXISTS": "Registration number already exists",
-  "SEARCH_BY_REGISTRATION": "Search by registration"
+  "SEARCH_BY_REGISTRATION": "Search by registration",
+  "SAVE_SUCCESS_LABEL": "Save success"
 }
