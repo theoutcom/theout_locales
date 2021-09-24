@@ -510,7 +510,7 @@
     "PROMO_CODE_SUCESS": "successfully applied.",
     "PAYMENT_FAIL_TITLE": "PAYMENT FAILED",
     "PAYMENT_FAIL_DESCRIPTION": "We could not process your payment. Please try again or update your card details.",
-    "PAYMENT_FAIL_BUTTON": "REVIEW DETAILS",
+    "PAYMENT_FAIL_BUTTON": "CLOSE",
     "ORDER_SUCCESS_ID": "ORDER #{{orderId}}",
     "ORDER_SUCCESS_TITLE": "YOU’RE ALL\nBOOKED!",
     "ORDER_SUCCESS_DESCRIPTION": "Refer someone to THE OUT and get\n£50 credit when they book.",
