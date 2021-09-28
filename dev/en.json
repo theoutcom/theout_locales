@@ -202,5 +202,9 @@
   "SAVE_SUCCESS_LABEL": "Save success",
   "EDIT_CAR_LABEL": "Edit car",
   "EDIT_MODEL_LABEL": "Edit model",
-  "EDIT_DERIVATIVE_LABEL": "Edit derivative"
+  "EDIT_DERIVATIVE_LABEL": "Edit derivative",
+  "MODEL_SINGULAR_LABEL": "Model",
+  "DERIVATIVE_SINGULAR_LABEL": "Derivative",
+  "ENTER_A_VALUE_LABEL": "Enter a {{field_name}}",
+  "SELECT_A_VALUE": "Select a {{field_name}}"
 }
