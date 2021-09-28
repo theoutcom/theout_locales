@@ -186,7 +186,7 @@
   "CAR_DERIVATIVE_RATES_LAST_DAY": "What is the day rate after the last day above?",
   "PLEASE_ENTER_VALID_FIELD_NAME": "Please enter a valid {{field_name}}",
   "RATE_SETUP_LABEL_2": "Setup",
-  "REGISTRATION_NUMBER_LABEL": "Registration",
+  "REGISTRATION_NUMBER_LABEL": "Registration number",
   "VIN_LABEL": "VIN",
   "STATUS_LABEL": "Status",
   "VIEW_CAR_LABEL": "View car",
@@ -218,5 +218,10 @@
   "TAKE_BOOKINGS_FROM_LABEL": "Take bookings from",
   "STOP_TAKE_BOOKINGS_ON_LABEL": "Stop taking bookings on",
   "CHOOSE_LABEL": "Choose",
-  "CAR_ORDER_SEARCH_BY_REFERENCE": "Search by order reference"
+  "CAR_ORDER_SEARCH_BY_REFERENCE": "Search by order reference",
+  "VIEW_ALL_ORDERS_LABEL": "View all orders",
+  "ACTION_DISABLE_CAR_BUTTON": "Disable car",
+  "ACTION_DELETE_CAR_BUTTON": "Delete car",
+  "ADD_UNAVAILABILITY_LABEL": "Add unavailability",
+  "REGISTRATION_LABEL": "Registration"
 }
