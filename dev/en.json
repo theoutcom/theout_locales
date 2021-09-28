@@ -218,5 +218,8 @@
   "TAKE_BOOKINGS_FROM_LABEL": "Take bookings from",
   "STOP_TAKE_BOOKINGS_ON_LABEL": "Stop taking bookings on",
   "CHOOSE_LABEL": "Choose",
-  "CAR_ORDER_SEARCH_BY_REFERENCE": "Search by order reference"
+  "CAR_ORDER_SEARCH_BY_REFERENCE": "Search by order reference",
+  "VIEW_ALL_ORDERS_LABEL": "View all orders",
+  "ACTION_DISABLE_CAR_BUTTON": "Disable car",
+  "ACTION_DELETE_CAR_BUTTON": "Delete car"
 }
