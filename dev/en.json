@@ -206,5 +206,17 @@
   "MODEL_SINGULAR_LABEL": "Model",
   "DERIVATIVE_SINGULAR_LABEL": "Derivative",
   "ENTER_A_VALUE_LABEL": "Enter a {{field_name}}",
-  "SELECT_A_VALUE": "Select a {{field_name}}"
+  "SELECT_A_VALUE": "Select a {{field_name}}",
+  "CAR_SUMMARY_LABEL": "Summary",
+  "CAR_UNAVAILABILITY_LABEL": "Unavailability",
+  "CAR_ORDERS_LABEL": "Orders",
+  "CAR_ACTIONS_LABEL": "Actions",
+  "CAR_SUMMARY_DESCRIPTION": "Mauris suscipit, neque sit amet viverra commodo, nisi mauris eleifend.",
+  "CAR_UNAVAILABILITY_DESCRIPTION": "Mauris suscipit, neque sit amet viverra commodo, nisi mauris eleifend.",
+  "CAR_ORDERS_DESCRIPTION": "Mauris suscipit, neque sit amet viverra commodo, nisi mauris eleifend.",
+  "CAR_ACTIONS_DESCRIPTION": "Mauris suscipit, neque sit amet viverra commodo, nisi mauris eleifend.",
+  "TAKE_BOOKINGS_FROM_LABEL": "Take bookings from",
+  "STOP_TAKE_BOOKINGS_ON_LABEL": "Stop taking bookings on",
+  "CHOOSE_LABEL": "Choose",
+  "CAR_ORDER_SEARCH_BY_REFERENCE": "Search by order reference"
 }
