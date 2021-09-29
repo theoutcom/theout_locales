@@ -223,5 +223,6 @@
   "ACTION_DISABLE_CAR_BUTTON": "Disable car",
   "ACTION_DELETE_CAR_BUTTON": "Delete car",
   "ADD_UNAVAILABILITY_LABEL": "Add unavailability",
-  "REGISTRATION_LABEL": "Registration"
+  "REGISTRATION_LABEL": "Registration",
+  "CAR_SAVED_SUCCESS": "Car updated"
 }
