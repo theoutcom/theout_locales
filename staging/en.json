@@ -224,5 +224,9 @@
   "ACTION_DELETE_CAR_BUTTON": "Delete car",
   "ADD_UNAVAILABILITY_LABEL": "Add unavailability",
   "REGISTRATION_LABEL": "Registration",
-  "CAR_SAVED_SUCCESS": "Car updated"
+  "CAR_SAVED_SUCCESS": "Car updated",
+  "CARS_NOT_FOUND_LABEL": "No cars found",
+  "CARS_NOT_FOUND_SEARCH_CONTENT": "We couldn’t find any cars matching your search.",
+  "CARS_NOT_FOUND_FILTER_CONTENT": "We couldn’t find any cars matching your filters.",
+  "FILTER_LABEL": "Filter"
 }
