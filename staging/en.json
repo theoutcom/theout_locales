@@ -229,8 +229,9 @@
   "CARS_NOT_FOUND_SEARCH_CONTENT": "We couldn’t find any cars matching your search.",
   "CARS_NOT_FOUND_FILTER_CONTENT": "We couldn’t find any cars matching your filters.",
   "FILTER_LABEL": "Filter",
-  "DAMAGE_LABEL": "Damage",
-  "IN_TRANSIT_LABEL": "In transit",
-  "REPAIRS_LABEL": "Repairs",
-  "CLEAR_FILTERS_BUTTON": "Clear filters"
+  "DAMAGED_LABEL": "Damaged",
+  "IN_REPAIR_LABEL": "In repair",
+  "DEFLEETED_LABEL": "Defleeted",
+  "CLEAR_FILTERS_BUTTON": "Clear filters",
+  "SHOWING_1_RESULT": "Showing 1 result"
 }
