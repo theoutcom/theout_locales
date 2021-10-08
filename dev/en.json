@@ -232,5 +232,6 @@
   "DAMAGE_LABEL": "Damage",
   "IN_TRANSIT_LABEL": "In transit",
   "REPAIRS_LABEL": "Repairs",
-  "CLEAR_FILTERS_BUTTON": "Clear filters"
+  "CLEAR_FILTERS_BUTTON": "Clear filters",
+  "SHOWING_1_RESULT": "Showing 1 result"
 }
