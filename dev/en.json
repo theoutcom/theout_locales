@@ -233,5 +233,13 @@
   "IN_REPAIR_LABEL": "In repair",
   "DEFLEETED_LABEL": "Defleeted",
   "CLEAR_FILTERS_BUTTON": "Clear filters",
-  "SHOWING_1_RESULT": "Showing 1 result"
+  "SHOWING_1_RESULT": "Showing 1 result",
+  "LOCATION_POSTCODES_LABEL": "Postcodes",
+  "LOCATOIN_BUFFERS_LABEL": "Buffers",
+  "LOCATION_OPENING_HOURS_LABEL": "Opening hours",
+  "LOCATION_RESTRICTIONS_LABEL": "Restrictions",
+  "LOCATION_EXTRA_COSTS_LABEL": "Extra costs",
+  "LOCATION_ADD_SPECIAL_HOURS": "Add special hours",
+  "LOCATION_ADD_REGISTRICTIONS": "Add restrictions",
+  "ADD_EXTRA_COST": "Add extra costs"
 }
