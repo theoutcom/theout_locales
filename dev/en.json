@@ -241,5 +241,8 @@
   "LOCATION_EXTRA_COSTS_LABEL": "Extra costs",
   "LOCATION_ADD_SPECIAL_HOURS": "Add special hours",
   "LOCATION_ADD_REGISTRICTIONS": "Add restrictions",
-  "ADD_EXTRA_COST": "Add extra costs"
+  "ADD_EXTRA_COST": "Add extra costs",
+  "LOCATION_ADD_LOCATION": "Add location",
+  "CARS_LOCATION_LABEL": "Cars",
+  "CARS_LOCATION_DESCRIPTION": "All of the manufacturers, models and cars that are based in this location."
 }
