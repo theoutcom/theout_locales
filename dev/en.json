@@ -244,5 +244,7 @@
   "ADD_EXTRA_COST": "Add extra costs",
   "LOCATION_ADD_LOCATION": "Add location",
   "CARS_LOCATION_LABEL": "Cars",
-  "CARS_LOCATION_DESCRIPTION": "All of the manufacturers, models and cars that are based in this location."
+  "CARS_LOCATION_DESCRIPTION": "All of the manufacturers, models and cars that are based in this location.",
+  "BULK_ACTION_DELETE_ONE_CAR": "Delete {{number}} car",
+  "BULK_ACTION_DELETE_MANY_CARS": "Delete {{number}} cars"
 }
