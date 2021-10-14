@@ -257,7 +257,7 @@
   "LOCATION_EXTRA_CODE_DES": "Any extra costs for locations outside of normal operating areas.",
   "LOCATION_CARS_DES": "All of the manufacturers, models and cars that are based in this location.",
   "LOCATION_DISABLE_DES": "Disable or delete this location.",
-  "LOCATION_TIME_PICKUP": "ime needed to prepare for a pick-u",
+  "LOCATION_TIME_PICKUP": "Time needed to prepare for a pick-up",
   "LOCATION_TIME_DROP_OFF": "Time needed to prepare for a drop-off",
   "MINUTE_LABEL": "minutes",
   "LOCATION_ADD_POSTCOD_NEW_LINE": "Add each postcode on a new line",
