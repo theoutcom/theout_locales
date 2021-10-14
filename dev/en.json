@@ -246,5 +246,21 @@
   "CARS_LOCATION_LABEL": "Cars",
   "CARS_LOCATION_DESCRIPTION": "All of the manufacturers, models and cars that are based in this location.",
   "BULK_ACTION_DELETE_ONE_CAR": "Delete {{number}} car",
-  "BULK_ACTION_DELETE_MANY_CARS": "Delete {{number}} cars"
+  "BULK_ACTION_DELETE_MANY_CARS": "Delete {{number}} cars",
+  "LOCATION_SPECIAL_HOURS": "Special hours",
+  "LOCATION_PROFILE_DESCRIPTION": "The location contact details.",
+  "LOCATION_POSTCODES_DESCRIPTION": "The postcodes this location operates in.",
+  "LOCATOIN_BUFFER_DESCRIPTION": "Delivery time and fleet availability.",
+  "LOCATION_OPENING_HOURS_DES": "Your opening and closing times.",
+  "LOCATION_SPECIAL_HOUR_DES": "Opening hours which are different to your normal hours.",
+  "LOCATION_RESTRICTION_DES": "Any times or dates that aren't available.",
+  "LOCATION_EXTRA_CODE_DES": "Any extra costs for locations outside of normal operating areas.",
+  "LOCATION_CARS_DES": "All of the manufacturers, models and cars that are based in this location.",
+  "LOCATION_DISABLE_DES": "Disable or delete this location.",
+  "LOCATION_TIME_PICKUP": "ime needed to prepare for a pick-u",
+  "LOCATION_TIME_DROP_OFF": "Time needed to prepare for a drop-off",
+  "MINUTE_LABEL": "minutes",
+  "LOCATION_ADD_POSTCOD_NEW_LINE": "Add each postcode on a new line",
+  "LOCATION_RESERVERATION_EMAIL": "Reserveration email address",
+  "LOCATION_AGENT_TEAM": "Agent team"
 }
