@@ -263,5 +263,8 @@
   "LOCATION_ADD_POSTCOD_NEW_LINE": "Add each postcode on a new line",
   "LOCATION_RESERVERATION_EMAIL": "Reserveration email address",
   "LOCATION_AGENT_TEAM": "Agent team",
-  "SAVE_LABEL": "Save"
+  "SAVE_LABEL": "Save",
+  "LOCATION_REPORT_EMAIL": "Condition report email address",
+  "LOCATION_SELECT_AGENT_TEAM": "Select a agent team",
+  "LOCATION_PLS_ENTER_ADDRESS": "Please enter a address"
 }
