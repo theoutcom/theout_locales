@@ -262,5 +262,6 @@
   "MINUTE_LABEL": "minutes",
   "LOCATION_ADD_POSTCOD_NEW_LINE": "Add each postcode on a new line",
   "LOCATION_RESERVERATION_EMAIL": "Reserveration email address",
-  "LOCATION_AGENT_TEAM": "Agent team"
+  "LOCATION_AGENT_TEAM": "Agent team",
+  "SAVE_LABEL": "Save"
 }
