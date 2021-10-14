@@ -198,7 +198,7 @@
   "ERR_CAR_MODEL_ADD_CARS_DUPLICATED_VIN": "Duplicated VIN found",
   "ERR_CAR_VIN_EXISTS": "VIN already exists",
   "ERR_CAR_REGISTRATION_NUMBER_EXISTS": "Registration number already exists",
-  "SEARCH_BY_REGISTRATION": "Search by registration",
+  "SEARCH_BY_REGISTRATION": "Search by registration number",
   "SAVE_SUCCESS_LABEL": "Save success",
   "EDIT_CAR_LABEL": "Edit car",
   "EDIT_MODEL_LABEL": "Edit model",
@@ -266,5 +266,6 @@
   "SAVE_LABEL": "Save",
   "LOCATION_REPORT_EMAIL": "Condition report email address",
   "LOCATION_SELECT_AGENT_TEAM": "Select a agent team",
-  "LOCATION_PLS_ENTER_ADDRESS": "Please enter a address"
+  "LOCATION_PLS_ENTER_ADDRESS": "Please enter a address",
+  "PLEASE_ENTER_A_NAME": "Please enter a name"
 }
