@@ -270,5 +270,6 @@
   "PLEASE_ENTER_A_NAME": "Please enter a name",
   "SPECIAL_HOURS_LABEL": "Special hours",
   "LOCATION_MARK_AS_CLOSED": "Mark location as closed",
-  "CLOSED_LABEL": "Closed"
+  "CLOSED_LABEL": "Closed",
+  "ADD_SPECIAL_HOURS_LABEL": "Add special hours"
 }
