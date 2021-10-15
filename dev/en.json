@@ -267,5 +267,8 @@
   "LOCATION_REPORT_EMAIL": "Condition report email address",
   "LOCATION_SELECT_AGENT_TEAM": "Select a agent team",
   "LOCATION_PLS_ENTER_ADDRESS": "Please enter a address",
-  "PLEASE_ENTER_A_NAME": "Please enter a name"
+  "PLEASE_ENTER_A_NAME": "Please enter a name",
+  "SPECIAL_HOURS_LABEL": "Special hours",
+  "LOCATION_MARK_AS_CLOSED": "Mark location as closed",
+  "CLOSED_LABEL": "Closed"
 }
