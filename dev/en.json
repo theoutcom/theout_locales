@@ -271,5 +271,6 @@
   "SPECIAL_HOURS_LABEL": "Special hours",
   "LOCATION_MARK_AS_CLOSED": "Mark location as closed",
   "CLOSED_LABEL": "Closed",
-  "ADD_SPECIAL_HOURS_LABEL": "Add special hours"
+  "ADD_SPECIAL_HOURS_LABEL": "Add special hours",
+  "DELETE_BUTTON": "Delete"
 }
