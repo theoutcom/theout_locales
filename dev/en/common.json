@@ -542,5 +542,6 @@
     "SET_COOKIE_POLICY": "COOKIE POLICY\nWe use cookies to enhance your user experience and improve the quality of our site. If you continue browsing, we’ll assume that you consent to receiving all cookies.\nFind out more\nACCEPT & CLOSE",
     "SAVE_PAYMENT_METHOD": "SAVE PAYMENT METHOD",
     "BOOKING_INSURANCE": "INSURANCE",
-    "_BOOKINGWIDGET_AIRPORT_FEE_DELIVERY_2": "This postcode is outside of our free delivery zone. It will require an extra fee of £{{fee}}."
+    "_BOOKINGWIDGET_AIRPORT_FEE_DELIVERY_2": "This postcode is outside of our free delivery zone. It will require an extra fee of £{{fee}}.",
+    "_BOOKINGWIDGET_AIRPORT_FEE_COLLECTION_2": "This postcode is outside of our free collection zone. It will require an extra fee of £{{fee}}."
 }
