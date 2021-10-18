@@ -272,5 +272,12 @@
   "LOCATION_MARK_AS_CLOSED": "Mark location as closed",
   "CLOSED_LABEL": "Closed",
   "ADD_SPECIAL_HOURS_LABEL": "Add special hours",
-  "DELETE_BUTTON": "Delete"
+  "DELETE_BUTTON": "Delete",
+  "MONDAY_LABEL": "Monday",
+  "TUESDAY_LABEL": "Tuesday",
+  "WEDNESDAY_LABEL": "Wednesday",
+  "THURSDAY_LABEL": "Thursday",
+  "FRIDAY_LABEL": "Friday",
+  "SATURDAY_LABEL": "Saturday",
+  "SUNDAY_LABEL": "Sunday"
 }
