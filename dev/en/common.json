@@ -541,5 +541,6 @@
     "EXTRAS_CONTANER": "EXTRAS\nWe have the essentials to ensure you are kitted out for your adventure. Just let us know what you need.",
     "SET_COOKIE_POLICY": "COOKIE POLICY\nWe use cookies to enhance your user experience and improve the quality of our site. If you continue browsing, we’ll assume that you consent to receiving all cookies.\nFind out more\nACCEPT & CLOSE",
     "SAVE_PAYMENT_METHOD": "SAVE PAYMENT METHOD",
-    "BOOKING_INSURANCE": "INSURANCE"
+    "BOOKING_INSURANCE": "INSURANCE",
+    "_BOOKINGWIDGET_AIRPORT_FEE_DELIVERY_2": "This postcode is outside of our free delivery zone. It will require an extra fee of £{{fee}}."
 }
