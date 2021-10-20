@@ -301,5 +301,6 @@
   "AMOUNT_LABEL": "Amount",
   "LOCATION_POSTCODE_NEW_LINE": "Add each postcode on a new line",
   "LOCATION_CARS_NOT_ASSIGN": "No cars have been assigned to this location yet.",
-  "LOCATION_ERR_BOOKING_DURATION": "Please enter a booking duration"
+  "LOCATION_ERR_BOOKING_DURATION": "Please enter a booking duration",
+  "LOCATION_MINIMUM_BOOKING": "Minimum booking duration"
 }
