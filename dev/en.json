@@ -304,5 +304,8 @@
   "LOCATION_ERR_BOOKING_DURATION": "Please enter a booking duration",
   "LOCATION_MINIMUM_BOOKING": "Minimum booking duration",
   "ACTION_DISABLE_LOCATION_BUTTON": "Disable location",
-  "ACTION_DELETE_LOCATION_BUTTON": "Delete location"
+  "ACTION_DELETE_LOCATION_BUTTON": "Delete location",
+  "KYC_STATUS_LABEL": "KYC status",
+  "DATE_CREATE_LABEL": "Date created",
+  "ADD_CUSTOMER": "Add customer"
 }
