@@ -309,5 +309,13 @@
   "DATE_CREATE_LABEL": "Date created",
   "ADD_CUSTOMER": "Add customer",
   "CARS_DERIVATIVE_GROUP_TOOLTIP": "Before you can assign this car to an order, you need to add a registration number and VIN.",
-  "CARS_DERIVATIVE_ISSUE_TOOLTIP": "Some cars require a registration number and VIN before you can assign them to an order."
+  "CARS_DERIVATIVE_ISSUE_TOOLTIP": "Some cars require a registration number and VIN before you can assign them to an order.",
+  "NO_LABEL": "No",
+  "FOUND_LABEL": "found",
+  "WE_CAN_FIND_ANY": "We can't find any",
+  "THAT_MATCH_YOUR": "that match your",
+  "TRY_DIFFERENT": "Try different",
+  "OR_FILTERS": "or filters",
+  "CHECK_THE": "Check the",
+  "AND_TRY_AGAIN": "and try again"
 }
