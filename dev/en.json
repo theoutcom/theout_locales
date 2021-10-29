@@ -137,7 +137,7 @@
   "ACTION_DELETE_MODEL_BUTTON": "Delete model",
   "MODEL_LABEL": "Models",
   "MODEL_BUTTON_CREATE": "Add model",
-  "PLACEHODER_SELECT": "Select {{field_name}}",
+  "PLACEHOLDER_SELECT": "Select {{field_name}}",
   "ERR_ITEM_NOT_FOUND": "Item not found",
   "SOMETHING_WRONG": "Something wrong",
   "CAR_DERIVATIVE_SUMMARY_SECTION": "Summary",
