@@ -165,7 +165,6 @@
   "PLEASE_SELECT_AN": "Please select an {{field_name}}",
   "LOCATION_LABEL": "Location",
   "CONTINUE_LABEL": "Continue",
-  "RATE_SETUP_LABEL": "Setup rates for",
   "PEAK_RATE_LABEL": "Peak rates",
   "DISCOUNT_RATE_LABEL": "Discount rates",
   "DELETE_RATE": "Delete rates",
@@ -318,5 +317,11 @@
   "OR_FILTERS": "or filters",
   "CHECK_THE": "Check the",
   "AND_TRY_AGAIN": "and try again",
-  "CAR_MODEL_ADD_DERIVATIVE_LABEL": "Add derivative"
+  "CAR_MODEL_ADD_DERIVATIVE_LABEL": "Add derivative",
+  "LOCATION_RATE_SUMMARY_SECTION": "Summary",
+  "LOCATION_RATE_SUMMARY_DESCRIPTION": "Choose the day rate for each car model.",
+  "LOCATION_RATE_PEAK_RATE_SECTION": "Peak rates",
+  "LOCATION_RATE_PEAK_RATE_DESCRIPTION": "Create price ranges for specific times and dates.",
+  "LOCATION_RATE_ACTIONS_SECTION": "Actions",
+  "LOCATION_RATE_ACTIONS_DESCRIPTION": "Duplicate or delete rates."
 }
