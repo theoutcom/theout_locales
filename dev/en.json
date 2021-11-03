@@ -324,6 +324,6 @@
   "LOCATION_RATE_PEAK_RATE_DESCRIPTION": "Create price ranges for specific times and dates.",
   "LOCATION_RATE_ACTIONS_SECTION": "Actions",
   "LOCATION_RATE_ACTIONS_DESCRIPTION": "Duplicate or delete rates.",
-  "CARS_DERIVATIVE_GROUP_TOOLTIP_WITHOUT_VIN": "Before you can assign this car to an order, you need to add a registration number.",
-  "CARS_DERIVATIVE_GROUP_TOOLTIP_WITHOUT_REG": "Before you can assign this car to an order, you need to add a VIN."
+  "CARS_DERIVATIVE_GROUP_TOOLTIP_WITHOUT_VIN": "Before you can assign this car to an order, you need to add a VIN.",
+  "CARS_DERIVATIVE_GROUP_TOOLTIP_WITHOUT_REG": "Before you can assign this car to an order, you need to add a registration number."
 }
