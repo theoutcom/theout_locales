@@ -149,7 +149,7 @@
   "CAR_DERIVATIVE_EXTRAS_DESCRIPTION": "Insurance, additional driver, car seats and more.",
   "CAR_DERIVATIVE_CARS_DESCRIPTION": "Choose a car and add it here.",
   "CAR_DERIVATIVE_RATES_DESCRIPTION": "Choose a rate and add it here.",
-  "CAR_DERIVATIVE_ACTIONS_DESCRIPTION": "Duplicate, disable or delete models from the fleet.",
+  "CAR_DERIVATIVE_ACTIONS_DESCRIPTION": "Duplicate, disable or delete derivative from the fleet.",
   "ACTION_DUPLICATE_DERIVATIVE_BUTTON": "Duplicate derivative",
   "ACTION_DISABLE_DERIVATIVE_BUTTON": "Disable derivative",
   "ACTION_DELETE_DERIVATIVE_BUTTON": "Delete derivative",
