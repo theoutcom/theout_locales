@@ -117,7 +117,7 @@
   "ERR_BILLING_CARD_NUMBER_EMPTY_FIELD": "Please check your card details",
   "ERR_USER_SETUP_CREDIT_CARD": "Failed to add your card",
   "CUSTOMERS_ORDERS_SECTION": "Orders",
-  "CUSTOMERS_ACTIONS_SECTION": "Actions",
+  "CUSTOMERS_ACTIONS_SECTION": "Account",
   "CUSTOMERS_ACTIVITY_SECTION": "Activity",
   "CUSTOMERS_ORDERS_DESCRIPTION": "Create or view customers' orders.",
   "ORDERS_CREATE_BUTTON": "Create order",
