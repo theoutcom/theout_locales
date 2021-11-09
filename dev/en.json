@@ -63,7 +63,7 @@
   "CUSTOMERS_PROFILE_DESCRIPTION": "Personal information about the customer.",
   "CUSTOMERS_KYC_DESCRIPTION": "Verify the customer's identity.",
   "CUSTOMERS_BILLING_DESCRIPTION": "Payment details.",
-  "KYC_DRIVING_LICENSE_LABEL": "Driving licence",
+  "KYC_DRIVING_LICENSE_LABEL": "Driving license",
   "KYC_SELFIE_LABEL": "Selfie",
   "KYC_PASSPORT_LABEL": "Passport",
   "KYC_UPLOAD_BUTTON": "Upload",
