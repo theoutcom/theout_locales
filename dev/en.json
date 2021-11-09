@@ -104,7 +104,7 @@
   "CUSTOMERS_NOT_FOUND_FILTER_CONTENT": "We couldn’t find any customers matching your filters",
   "CLEAR_FILTER_BUTTON": "Clear filter",
   "CLEAR_SEARCH_BUTTON": "Clear search",
-  "ERR_CREATE_CUSTOMERS_NOT_FILL_REQUIRED_FIELDS": "Please check the issues and try again.",
+  "ERR_CREATE_CUSTOMERS_NOT_FILL_REQUIRED_FIELDS": "Please check the issues and try again",
   "ERR_CREATE_CUSTOMERS_EMPTY_FIELD": "Please enter a {{field_name}}",
   "ERR_CREATE_CUSTOMERS_EMPTY_FIELD_INVALID": "Please enter a valid {{field_name}}",
   "ERR_USER_EMAIL_EXISTS": "Customer Email already exists",
@@ -321,5 +321,6 @@
   "FILTER_SEARCH_RESULT_EMPTY": "We can't find any {{name}} that match your filters",
   "FILTER_RESULT_CHECK_AND_TRY": "Try different {{name}} or filters.",
   "SEARCH_RESULT_CHECK_AND_TRY": "Check the {{name}} and try again.",
-  "CHECK_FIELD_AND_TRY_AGAIN": "Please check your {{field_name}} and try again."
+  "CHECK_FIELD_AND_TRY_AGAIN": "Please check your {{field_name}} and try again",
+  "PLEASE_START_TYPING_LABEL": "Please start typing"
 }
