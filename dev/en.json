@@ -323,5 +323,7 @@
   "SEARCH_RESULT_CHECK_AND_TRY": "Check the {{name}} and try again.",
   "CHECK_FIELD_AND_TRY_AGAIN": "Please check your {{field_name}} and try again",
   "PLEASE_START_TYPING_LABEL": "Please start typing",
-  "CUSTOMER_LABEL": "Customer"
+  "CUSTOMER_LABEL": "Customer",
+  "SAVED_NOTIFICATION": "Saved",
+  "NO_ADDRESSES_TO_SHOW_LABEL": "No addresses to show"
 }
