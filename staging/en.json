@@ -244,8 +244,8 @@
   "LOCATION_ADD_LOCATION": "Add location",
   "CARS_LOCATION_LABEL": "Cars",
   "CARS_LOCATION_DESCRIPTION": "All of the manufacturers, models and cars that are based in this location.",
-  "BULK_ACTION_DELETE_ONE_CAR": "Delete {{number}} car",
-  "BULK_ACTION_DELETE_MANY_CARS": "Delete {{number}} cars",
+  "BULK_ACTION_DELETE_ONE_ITEM": "Delete {{number}} {{label}}",
+  "BULK_ACTION_DELETE_MANY_ITEMS": "Delete {{number}} {{label}}",
   "LOCATION_SPECIAL_HOURS": "Special hours",
   "LOCATION_PROFILE_DESCRIPTION": "The location contact details.",
   "LOCATION_POSTCODES_DESCRIPTION": "The postcodes this location operates in.",
@@ -322,5 +322,8 @@
   "FILTER_RESULT_CHECK_AND_TRY": "Try different {{name}} or filters.",
   "SEARCH_RESULT_CHECK_AND_TRY": "Check the {{name}} and try again.",
   "CHECK_FIELD_AND_TRY_AGAIN": "Please check your {{field_name}} and try again",
-  "PLEASE_START_TYPING_LABEL": "Please start typing"
+  "PLEASE_START_TYPING_LABEL": "Please start typing",
+  "CUSTOMER_LABEL": "Customer",
+  "SAVED_NOTIFICATION": "Saved",
+  "NO_ADDRESSES_TO_SHOW_LABEL": "No addresses to show"
 }
