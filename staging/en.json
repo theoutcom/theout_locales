@@ -325,5 +325,7 @@
   "PLEASE_START_TYPING_LABEL": "Please start typing",
   "CUSTOMER_LABEL": "Customer",
   "SAVED_NOTIFICATION": "Saved",
-  "NO_ADDRESSES_TO_SHOW_LABEL": "No addresses to show"
+  "NO_ADDRESSES_TO_SHOW_LABEL": "No addresses to show",
+  "ERROR_LOGIN_EMAIL_EXISTS": "This email already exists, please try another",
+  "ERROR_LOGIN_PHONE_NUMBER_EXISTS": "This phone number already exists, please try another"
 }
