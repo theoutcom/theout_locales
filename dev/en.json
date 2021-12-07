@@ -329,5 +329,6 @@
   "ERROR_LOGIN_EMAIL_EXISTS": "This email already exists, please try another",
   "ERROR_LOGIN_PHONE_NUMBER_EXISTS": "This phone number already exists, please try another",
   "UserNotFound": "Customers not found",
-  "VIEW_ALL_ORDERS_BUTTON": "View all orders"
+  "VIEW_ALL_ORDERS_BUTTON": "View all orders",
+  "PLEASE_ENTER_VALID_FIELD_NAME": "Please enter a valid {{field_name}}"
 }
