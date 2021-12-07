@@ -1573,5 +1573,6 @@
     "REFERRAL_CODE_MIN_DURATION": "You must rent at least {minDuration} days to apply this promo code",
     "VERIFICATION_PHONE_NUMBER": "Phone number is required\nInvalid phone number\nPhone number is already registered\nTo continue with your booking please enter your phone number. We’ll send you a code to verify your identity.\nPHONE NUMBER\nCONTINUE\nVERIFY PHONE NUMBER\nToo many request. Please try another!",
     "PAYMENT_CARD_REQUIRED": "Payment card required\nWe need to hold your payment card on file until your booking is completed.",
-    "INSURANCE_ITEM": "Excess Insurance (UK & EU)\nExcess Insurance (UK only)\nStandard Insurance\nINSURANCE"
+    "INSURANCE_ITEM": "Excess Insurance (UK & EU)\nExcess Insurance (UK only)\nStandard Insurance\nINSURANCE",
+    "NOCAR_AVAILABLE_MODAL": "NO CARS AVAILABLE\\bEDIT BOOKING CRITERIA\nSorry, there aren’t any cars available\\nto book that match your criteria. Try adjusting\\nyour delivery and collection criteria."
 }
