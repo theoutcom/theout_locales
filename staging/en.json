@@ -183,7 +183,7 @@
   "CAR_DERIVATIVE_RATES_BASE_RATE_PER_DAY": "Base rate per day",
   "CAR_DERIVATIVE_RATES_TYPE_BASE_RATE": "Type here or paste multiple day rates seperated by a new line",
   "CAR_DERIVATIVE_RATES_LAST_DAY": "What is the day rate after the last day above?",
-  "PLEASE_ENTER_VALID_FIELD_NAME": "Please enter a valid {{field_name}}",
+  "CREDIT_BALANCE_LABEL": "Credit balance",
   "ADD_RATE_LABEL": "Add rate",
   "REGISTRATION_NUMBER_LABEL": "Registration number",
   "VIN_LABEL": "VIN",
@@ -328,5 +328,7 @@
   "NO_ADDRESSES_TO_SHOW_LABEL": "No addresses to show",
   "ERROR_LOGIN_EMAIL_EXISTS": "This email already exists, please try another",
   "ERROR_LOGIN_PHONE_NUMBER_EXISTS": "This phone number already exists, please try another",
-  "UserNotFound": "Customers not found"
+  "UserNotFound": "Customers not found",
+  "VIEW_ALL_ORDERS_BUTTON": "View all orders",
+  "PLEASE_ENTER_VALID_FIELD_NAME": "Please enter a valid {{field_name}}"
 }
