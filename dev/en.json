@@ -330,5 +330,11 @@
   "ERROR_LOGIN_PHONE_NUMBER_EXISTS": "This phone number already exists, please try another",
   "UserNotFound": "Customers not found",
   "VIEW_ALL_ORDERS_BUTTON": "View all orders",
-  "PLEASE_ENTER_VALID_FIELD_NAME": "Please enter a valid {{field_name}}"
+  "PLEASE_ENTER_VALID_FIELD_NAME": "Please enter a valid {{field_name}}",
+  "ID_LABEL": "ID",
+  "NAME_LABEL": "Name",
+  "RENTAL_PERIOD": "Rental period",
+  "EDIT_ORDER_LABEL": "Edit order",
+  "DUPLICATE_ORDER_LABEL": "Duplicate order",
+  "CANCEL_ORDER_LABEL": "Cancel order"
 }
