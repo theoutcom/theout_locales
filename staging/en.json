@@ -343,5 +343,17 @@
   "AUTOMATIC_VERIFICATION": "Automatic Verification",
   "MANUAL_VERIFICATION": "Manual Verification",
   "VERIFIED_MANUALLY": "Verified Manually",
-  "VERIFIED_AUTOMATICALLY": "Verified Automatically"
+  "VERIFIED_AUTOMATICALLY": "Verified Automatically",
+  "ORDERS_TABLE_ID_LABEL": "ID",
+  "ORDERS_TABLE_NAME_LABEL": "Name",
+  "ORDERS_TABLE_CAR_LABEL": "Car",
+  "ORDERS_TABLE_LOCATION_LABEL": "Location",
+  "ORDERS_TABLE_RENTAL_PERIOD": "Rental period",
+  "ORDERS_TABLE_STATUS_LABEL": "Status",
+  "ORDERS_ACTION_EDIT_ORDER_LABEL": "Edit order",
+  "ORDERS_ACTION_DUPLICATE_ORDER_LABEL": "Duplicate order",
+  "ORDERS_ACTION_CANCEL_ORDER_LABEL": "Cancel order",
+  "ADD_ORDER_BUTTON": "Add order",
+  "ORDERS_SEARCH_PLACEHOLDER": "Search by ID, customer name, car registration number or VIN",
+  "Unauthorized": "You are either not authorized to perform this action or logged out of system. Please login again and retry."
 }
