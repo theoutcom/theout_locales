@@ -8,7 +8,6 @@
   "CUSTOMERS_CREATE_BUTTON": "Create",
   "CUSTOMERS_IMPORT_SVG_BUTTON": "Import",
   "CUSTOMERS_HEADER": "Customers",
-  "CUSTOMERS_SEARCH": "Search",
   "CUSTOMERS_FILTERS_BUTTON": "Filters",
   "TABLE_FIRST_NAME": "First Name",
   "TABLE_LAST_NAME": "Last Name",
@@ -89,7 +88,7 @@
   "COUNTRY_LABEL": "Country",
   "POST_CODE_LABEL": "Postcode",
   "CUSTOMER_ADDRESS_PLACE_HOLDER": "Town, City, Postcode or Address",
-  "CUSTOMERS_SEARCH_PLACE_HOLDER": "Quick search by name...",
+  "CUSTOMERS_SEARCH_PLACE_HOLDER": "Search by customer name or ID",
   "FILTERS_LABEL": "Filters",
   "CUSTOMERS_FILTER_FIELD_NAME": "Name",
   "CUSTOMERS_FILTER_FIELD_EMAIL": "Email",
@@ -373,5 +372,7 @@
   "CAR_FILTER_DERIVATIVE_LABEL": "Derivative",
   "CAR_FILTER_COLOUR_LABEL": "Colour",
   "CAR_FILTER_LOCATION_LABEL": "Location",
-  "CAR_FILTER_RENTAL_PRICE_LABEL": "Rental price"
+  "CAR_FILTER_RENTAL_PRICE_LABEL": "Rental price",
+  "CUSTOMER_PROFILE_ID_LABEL": "ID",
+  "CUSTOMER_SEARCH_FIELD": "customer name or ID"
 }
