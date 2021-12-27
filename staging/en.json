@@ -374,5 +374,6 @@
   "CAR_FILTER_LOCATION_LABEL": "Location",	
   "CAR_FILTER_RENTAL_PRICE_LABEL": "Rental price",	
   "CUSTOMER_PROFILE_ID_LABEL": "ID",	
-  "CUSTOMER_SEARCH_FIELD": "customer name or ID"
+  "CUSTOMER_SEARCH_FIELD": "customer name or ID",
+  "COUNTRY_STATE_LABEL": "County/State"
 }
