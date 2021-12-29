@@ -8,6 +8,7 @@
   "CUSTOMERS_CREATE_BUTTON": "Create",
   "CUSTOMERS_IMPORT_SVG_BUTTON": "Import",
   "CUSTOMERS_HEADER": "Customers",
+  "CUSTOMERS_SEARCH": "Search",
   "CUSTOMERS_FILTERS_BUTTON": "Filters",
   "TABLE_FIRST_NAME": "First Name",
   "TABLE_LAST_NAME": "Last Name",
@@ -88,7 +89,7 @@
   "COUNTRY_LABEL": "Country",
   "POST_CODE_LABEL": "Postcode",
   "CUSTOMER_ADDRESS_PLACE_HOLDER": "Town, City, Postcode or Address",
-  "CUSTOMERS_SEARCH_PLACE_HOLDER": "Search by customer name or ID",
+  "CUSTOMERS_SEARCH_PLACE_HOLDER": "Quick search by name...",
   "FILTERS_LABEL": "Filters",
   "CUSTOMERS_FILTER_FIELD_NAME": "Name",
   "CUSTOMERS_FILTER_FIELD_EMAIL": "Email",
@@ -354,6 +355,7 @@
   "ORDERS_ACTION_CANCEL_ORDER_LABEL": "Cancel order",
   "ADD_ORDER_BUTTON": "Add order",
   "ORDERS_SEARCH_PLACEHOLDER": "Search by ID, customer name, car registration number or VIN",
+  "Unauthorized": "You are either not authorized to perform this action or logged out of system. Please login again and retry.",
   "unauthorised": "You are either not authorised to perform this action or logged out of system. Please login again and retry.",
   "NEW_ORDER_SELECT_CAR_LABEL": "Select a car",
   "NEW_ORDER_RENTAL_START_LABEL": "Rental start",
@@ -372,8 +374,8 @@
   "CAR_FILTER_DERIVATIVE_LABEL": "Derivative",
   "CAR_FILTER_COLOUR_LABEL": "Colour",
   "CAR_FILTER_LOCATION_LABEL": "Location",
-  "CAR_FILTER_RENTAL_PRICE_LABEL": "Rental price",
+  "CAR_FILTER_RENTAL_PRICE_LABEL": "Rental price test",
   "CUSTOMER_PROFILE_ID_LABEL": "ID",
   "CUSTOMER_SEARCH_FIELD": "customer name or ID",
-  "COUNTRY_STATE_LABEL": "County/State"
+  "COUNTRY_STATE_LABEL": "County\/State"
 }
