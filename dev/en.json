@@ -8,6 +8,7 @@
   "CUSTOMERS_CREATE_BUTTON": "Create",
   "CUSTOMERS_IMPORT_SVG_BUTTON": "Import",
   "CUSTOMERS_HEADER": "Customers",
+  "CUSTOMERS_SEARCH": "Search",
   "CUSTOMERS_FILTERS_BUTTON": "Filters",
   "TABLE_FIRST_NAME": "First Name",
   "TABLE_LAST_NAME": "Last Name",
@@ -375,5 +376,5 @@
   "CAR_FILTER_RENTAL_PRICE_LABEL": "Rental price",
   "CUSTOMER_PROFILE_ID_LABEL": "ID",
   "CUSTOMER_SEARCH_FIELD": "customer name or ID",
-  "COUNTRY_STATE_LABEL": "County/State"
+  "COUNTRY_STATE_LABEL": "County\/State"
 }
