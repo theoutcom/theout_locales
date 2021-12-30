@@ -1575,5 +1575,6 @@
     "PAYMENT_CARD_REQUIRED": "Payment card required\nWe need to hold your payment card on file until your booking is completed.",
     "INSURANCE_ITEM": "Excess Insurance (UK & EU)\nExcess Insurance (UK only)\nStandard Insurance\nINSURANCE",
     "NOCAR_AVAILABLE_MODAL": "NO CARS AVAILABLE\\bEDIT BOOKING CRITERIA\\bSorry, there aren’t any cars available\\ntobook that match your criteria. Try adjusting\\nyour delivery and collection criteria.",
-    "test": "check "
+    "test": "check ",
+    "EV_PAGE": "JAGUAR\nI-PACE\nRENT THIS CAR\n100%\\bELECTRIC\nUP TO 292 MILES\\bOF RANGE\nCHARGE AT OVER\\b28K LOCATIONS\nSEATS UP TO\\b5 PEOPLE\nURBAN ONLY\\bMOTORWAY ONLY\\bBIT OF BOTH\n292\\b197\\b252\nRANGE\nGo anywhere with up to 292 miles of range (WLTP) on a single charge. The maximum range you get will depend on lots of different factors, notably the speed you’re driving and how smooth you are with the accerelator. We’ve listed some real world examples below.\nTry our range calculator\nmiles"
 }
