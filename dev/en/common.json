@@ -1584,6 +1584,5 @@
     "ACCOUNT_FILTER_UPCOMING_BUTTON": "Upcoming",
     "ACCOUNT_FILTER_PAST_BUTTON": "Past",
     "ACCOUNT_FILTER_CANCELLED_BUTTON": "Cancelled",
-    "ACCOUNT_FILTER_ON_GOING_BUTTON": "On going",
-    "test_lokalise": ""
+    "ACCOUNT_FILTER_ON_GOING_BUTTON": "On going"
 }
