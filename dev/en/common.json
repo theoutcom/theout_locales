@@ -1587,5 +1587,5 @@
     "ACCOUNT_FILTER_ON_GOING_BUTTON": "Ongoing",
     "ACCOUNT_PROFILE_TITLE": "Profile",
     "ACCOUNT_PROFILE_SAVE_BUTTON": "save profile",
-    "CONFIRM_PASSWORD_MODAL": ""
+    "CONFIRM_PASSWORD_MODAL": "confirm password\nIn order for us to update your profile you must confirm your current password.\nPassword is required\nPassword is invalid"
 }
