@@ -1587,5 +1587,6 @@
     "ACCOUNT_FILTER_ON_GOING_BUTTON": "Ongoing",
     "ACCOUNT_PROFILE_TITLE": "Profile",
     "ACCOUNT_PROFILE_SAVE_BUTTON": "save profile",
-    "CONFIRM_PASSWORD_MODAL": "confirm password\nIn order for us to update your profile you must confirm your current password.\nPassword is required\nPassword is invalid"
+    "CONFIRM_PASSWORD_MODAL": "confirm password\nIn order for us to update your profile you must confirm your current password.\nPassword is required\nPassword is invalid",
+    "CANCEL_ORDER_MODAL": "Are you sure to cancel this booking?\nIf you cancel now you will incur a £100 cancellation fee.\nIf you do, you won't be charged for the cancellation. But you will miss out on some seriously good fun.\nGO BACK\nCONTINUE"
 }
