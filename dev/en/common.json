@@ -952,7 +952,7 @@
     "REFER_FRIEND_BODY_TEXT": "Are you ready to shout your love for THE OUT from the rooftops? Great, because we are ready to give you £50 credit for you and for every friend who books a car with us.",
     "REFER_FRIEND_CODE_TITLE": "Your personal code",
     "REFER_FRIEND_INVITE_BUTTON_TITLE": "Invite friends",
-    "REFER_FRIEND_SHARE_TEXT_FORMAT": "To get £50 off your first booking, simply go to https:\/\/www.theout.com and use my referral code {referralCode} at checkout.",
+    "REFER_FRIEND_SHARE_TEXT_FORMAT": "To get £50 off your first booking, simply go to https:\/\/www.theout.com and use my referral code {{referralCode}} at checkout.",
     "PROFILE_FREE_RIDES": "REFER A FRIEND",
     "REFER_FRIEND_THANKS_TITLE": "Thanks for sharing",
     "REFER_FRIEND_THANKS_BODY": "Thanks for sharing your love for THE OUT.\nNow just wait until your friend makes a booking and get that £50 credit in your account.",
