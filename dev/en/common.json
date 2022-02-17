@@ -1591,5 +1591,6 @@
     "CANCEL_ORDER_MODAL": "CANCEL BOOKING\nAre you sure to cancel this booking?\nIf you cancel now you will incur a £100 cancellation fee.\nIf you do, you won't be charged for the cancellation. But you will miss out on some seriously good fun.\nGO BACK\nCONTINUE",
     "ACCOUNT_MARKETING_PREFERENCE": "marketing preferences\nNews & Offers\nWe’ll send you an email when we have a key update or seasonal offer available.\nsave preferences",
     "ACCOUNT_CHANGE_PASSWORD": "change password\nCurrent Password\nNew Password\nMust be at least 8 characters\nMust include a symbol\nchange password\nThe password is required\nThe password is invalid\nThe password doesn’t match",
-    "ACCOUNT_REFER_FRIEND": "refer a friend\nAre you ready to shout your love for THE OUT from the rooftops? Great, because we are ready to give you £50 credit for you and for every friend who books a car with us.\ncopy code\ncode copied!\nOther ways to share your referral code:"
+    "ACCOUNT_REFER_FRIEND": "refer a friend\nAre you ready to shout your love for THE OUT from the rooftops? Great, because we are ready to give you £50 credit for you and for every friend who books a car with us.\ncopy code\ncode copied!\nOther ways to share your referral code:",
+    "ACCOUNT_PAYMENT_METHOD": "payment methods\nAdd Payment Method\nYou haven’t setup any payment methods yet. You’ll need \nto do this before you can book a car with us."
 }
