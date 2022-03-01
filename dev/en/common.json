@@ -1598,5 +1598,8 @@
     "LOCATION_EDIT_MODAL": "LOCATION UNAVAILABLE\nSorry, we’re unable to deliver any of our cars to this location at the moment.\nADDITIONAL FEE REQUIRED",
     "INSURANCE_MODAL_UPDATE": "INSURANCE\nEvery rental comes with our standard insurance. Add our excess insurance to cover the cost if you need to make a claim. T&Cs apply.\nStandard Insurance\nIncluded\nComes with a {deposit} damage excess\nInsurance in partnership with Flock\nExcess Insurance\nReduce your damage excess to {price}\nProvided by Riverside Underwriting\nTerms & Conditions\nSAVE CHANGES",
     "UPDATE_ORDER": "UPDATE ORDER",
-    "ISSUING_FEE": "ISSUING FEE"
+    "ISSUING_FEE": "ISSUING FEE",
+    "UNAVAILABLE_LOCATION_MODAL": "location unavailable\nSorry, we’re unable to deliver any of our cars to this location at the moment.\nclose",
+    "ADDITIONAL_FEE_MODAL": "additional fee required\nThis location is outside of our free delivery zone. An additional fee of £{price} is required.\ncontinue",
+    "MANUAL_INPUT_ADDRESS_FIELDS": "deliver to\ncollection on\naddress line 1\naddress line 2\ncity\npostcode\ncountry\nSave changes"
 }
