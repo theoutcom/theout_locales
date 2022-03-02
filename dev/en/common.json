@@ -1601,5 +1601,6 @@
     "ISSUING_FEE": "ISSUING FEE",
     "UNAVAILABLE_LOCATION_MODAL": "location unavailable\nSorry, we’re unable to deliver any of our cars to this location at the moment.\nclose",
     "ADDITIONAL_FEE_MODAL": "additional fee required\nThis location is outside of our free delivery zone. An additional fee of £{price} is required.\ncontinue",
-    "MANUAL_INPUT_ADDRESS_FIELDS": "deliver to\ncollection on\naddress line 1\naddress line 2\ncity\npostcode\ncountry\nSave changes\nAddress line 1 is required\nCity is required\nPostcode is required"
+    "MANUAL_INPUT_ADDRESS_FIELDS": "deliver to\ncollection on\naddress line 1\naddress line 2\ncity\npostcode\ncountry\nSave changes\nAddress line 1 is required\nCity is required\nPostcode is required",
+    "EDIT": "EDIT"
 }
