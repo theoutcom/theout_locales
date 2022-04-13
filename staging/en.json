@@ -375,5 +375,18 @@
   "CAR_FILTER_RENTAL_PRICE_LABEL": "Rental price",
   "CUSTOMER_PROFILE_ID_LABEL": "ID",
   "CUSTOMER_SEARCH_FIELD": "customer name or ID",
-  "COUNTRY_STATE_LABEL": "County\/State"
+  "COUNTRY_STATE_LABEL": "County\/State",
+  "OF_MODAL_EXCEED_SEND_TITLE": "limit exceeded",
+  "OF_MODAL_EXCEED_SEND_BODY": "You have exceeded the maximum number of attempts to request a code. Please wait 10 minutes before trying again.",
+  "OF_MODAL_EXCEED_SEND_CANCEL_BUTTON": "close",
+  "OF_MODAL_EXCEED_CONFIRM_TITLE": "limit exceeded",
+  "OF_MODAL_EXCEED_CONFIRM_BODY": "You have exceeded the maximum number of attempts to enter the correct code. Please wait 10 minutes before requesting a new verification code.",
+  "OF_MODAL_EXCEED_CONFIRM_CANCEL_BUTTON": "close",
+  "OF_MODAL_INVALID_CODE_TITLE": "code not valid",
+  "OF_MODAL_INVALID_CODE_BODY": "The code you entered is not valid or has expired. Please try again.",
+  "OF_MODAL_INVALID_CODE_EDIT_BUTTON": "edit code",
+  "OF_MODAL_INVALID_CODE_RESEND_BUTTON": "resend code",
+  "OF_TOAST_SEND_CODE_SUCCESS": "Code sent",
+  "OF_TOAST_SEND_CODE_FAIL": "Fail",
+  "OF_VERIFY_CODE_DESCRIPTION": "Please enter the 6 digit code we just sent to number ending"
 }
