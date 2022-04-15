@@ -388,7 +388,7 @@
   "OF_MODAL_INVALID_CODE_RESEND_BUTTON": "resend code",
   "OF_TOAST_SEND_CODE_SUCCESS": "Code sent",
   "OF_TOAST_SEND_CODE_FAIL": "Fail",
-  "OF_VERIFY_CODE_DESCRIPTION": "Please enter the 6 digit code we just sent to number ending.",
+  "OF_VERIFY_CODE_DESCRIPTION": "Please enter the 6 digit code we just sent to number ending",
   "OF_HTML_TITLE": "The OUT - Upload service",
   "OF_ERROR_HTML_SORRY": "SORRY",
   "OF_ERROR_HTML_TRY_AGAIN": "TRY AGAIN",
