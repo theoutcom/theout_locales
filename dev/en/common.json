@@ -1645,5 +1645,7 @@
     "ERROR_PHONE_NUMBER_EXISTED": "Phone number is already registered",
     "ERROR_PHONE_NUMBER_INVALID": "Invalid Phone number",
     "ERROR_CODE_VERIFICATION_INVALID": "Invalid verification code, please try again",
-    "BACK_BTN": "BACK"
+    "BACK_BTN": "BACK",
+    "ERR_MSG_DESC": "Please try again. If the issue continues, please contact customer support.",
+    "ERR_MSG_TITLE": "SOMETHING WENT WRONG"
 }
