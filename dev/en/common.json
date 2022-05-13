@@ -1649,5 +1649,6 @@
     "ERR_MSG_DESC": "Please try again. If the issue continues, please contact customer support.",
     "ERR_MSG_TITLE": "SOMETHING WENT WRONG",
     "SUBSCRIBED_EMAIL_ERRORS": "YOUR EMAIL ADDRESS IS INVALID\nOops! Something went wrong while submitting the form.\nTHIS EMAIL IS INVALID, PLEASE TRY ANOTHER",
-    "GO_TO_ACCOUNT_BTN": "GO TO ACCOUNT"
+    "GO_TO_ACCOUNT_BTN": "GO TO ACCOUNT",
+    "VERIFICATION_CODE_VERIFY_PHONE_NUMBER": "VERIFY PHONE NUMBER"
 }
