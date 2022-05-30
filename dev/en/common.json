@@ -1235,7 +1235,7 @@
     "BOOKING_WIDGET_COLLECTION_ADDRESS_IS_REQUIRED": "Collection address is required",
     "BOOKING_WIDGET_DELIVERY_COLLECTION_ADDRESS_IS_REQUIRED": "Delivery and collection address is required",
     "BOOKING_WIDGET_DATE_AND_TIME_REQUIRED": "Date and time is required",
-    "ERROR_INVALID_EMAIL_ADDRESS": "Invalid email address",
+    "ERROR_INVALID_EMAIL_ADDRESS": "Invalid email address\nSpecial characters is not allowed\nEmail must less than {length} characters long",
     "ERROR_EMAIL_ALREADY_EXISTS": "THIS EMAIL ALREADY EXISTS, PLEASE TRY ANOTHER",
     "ERROR_PHONE_NUMBER_IS_REQUIRED": "Phone number is required",
     "ERROR_INVALID_VERIFICATION_CODE": "Invalid verification code. Please try again.",
