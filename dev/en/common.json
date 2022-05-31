@@ -1235,7 +1235,7 @@
     "BOOKING_WIDGET_COLLECTION_ADDRESS_IS_REQUIRED": "Collection address is required",
     "BOOKING_WIDGET_DELIVERY_COLLECTION_ADDRESS_IS_REQUIRED": "Delivery and collection address is required",
     "BOOKING_WIDGET_DATE_AND_TIME_REQUIRED": "Date and time is required",
-    "ERROR_INVALID_EMAIL_ADDRESS": "Invalid email address\nSpecial characters is not allowed\nEmail must less than {length} characters long",
+    "ERROR_INVALID_EMAIL_ADDRESS": "Invalid email address",
     "ERROR_EMAIL_ALREADY_EXISTS": "THIS EMAIL ALREADY EXISTS, PLEASE TRY ANOTHER",
     "ERROR_PHONE_NUMBER_IS_REQUIRED": "Phone number is required",
     "ERROR_INVALID_VERIFICATION_CODE": "Invalid verification code. Please try again.",
@@ -1682,5 +1682,6 @@
     "ERROR_MESSAGE_TOO_MANY_REQUEST": "Too many request. Please try another!",
     "PASSWORD_POLICY": "10 or more characters\nMix of upper & lowercase letters\nAt least one number and one symbol",
     "RESET_PASSWORD": "FORGOT PASSWORD\nEnter your email address and we'll send you a link to reset your password.\nEMAIL ADDRESS\nCHECK YOUR INBOX\nIf we have an account for {email} we’ll send you a link to reset your password.\nCLOSE\nPASSWORD RESET\nYour password has been reset. Please sign in to continue.\nSIGN IN\nYour request to reset your password has expired or the link has already been used.\nRESET MY PASSWORD\nSAVE PASSWORD\nNEW PASSWORD",
-    "ERROR_MAX_LENGTH_EMAIL_ADDRESS": "Email must less than {length} characters long"
+    "ERROR_MAX_LENGTH_EMAIL_ADDRESS": "Email must less than {length} characters long",
+    "ERROR_SPECIAL_CHARACTER_EMAIL": "Special characters is not allowed"
 }
