@@ -1685,6 +1685,5 @@
     "ERROR_MAX_LENGTH_EMAIL_ADDRESS": "Email must less than 64 characters long",
     "ERROR_SPECIAL_CHARACTER_EMAIL": "Special characters is not allowed",
     "ERROR_PASSWORD_INCLUDE_EMAIL": "Cannot include your name\/email",
-    "ERROR_EMAIL_ADDRESS": "Special characters is not allowed\nThis email is invalid, please try another\nEmail must less than 64 characters long",
-    "_HELLO": "Hi Theout 7"
+    "ERROR_EMAIL_ADDRESS": "Special characters is not allowed\nThis email is invalid, please try another\nEmail must less than 64 characters long"
 }
