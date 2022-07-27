@@ -849,7 +849,7 @@
     "PROMO_CODE_NOT_FOUND": "Code not recognised ",
     "PROMO_CODE_DISABLED": "Promo code no longer available ",
     "PROMO_CODE_ALREADY_USED": "Code already used ",
-    "PROMO_CODE_LIMIT_REACHED": "Promo code expired",
+    "PROMO_CODE_LIMIT_REACHED": "Promo code has expired",
     "PROMO_CODE_INVALID": "Code invalid ",
     "PROMO_CODE_GENERIC_ERROR": "Code not applied ",
     "CHANGED_TERMS_CONFIRM": "Confirm",
