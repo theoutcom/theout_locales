@@ -1520,7 +1520,7 @@
     "PROMOCODE_ORDER_MUSTBE_WITHIN": "Promo code order must be with in",
     "PROMOCODE_ORDER_MUSTBE_ BEFORE": "Your booking must start before",
     "PROMOCODE_ORDER_MUSTBE_AFTER": "Your booking must start after",
-    "PROMOCODE_NOTFOUND": "Code not recognised.",
+    "PROMOCODE_NOTFOUND": "Promo code not recognised.",
     "PROMOCODE_DISABLED": "Promo code no longer available.",
     "PROMOCODE_ALREADY_USED": "Promo code already use.",
     "PROMOCODE_INVALID": "Code invalid",
