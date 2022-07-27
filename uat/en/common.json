@@ -1520,7 +1520,7 @@
     "PROMOCODE_ORDER_MUSTBE_WITHIN": "Promo code order must be with in",
     "PROMOCODE_ORDER_MUSTBE_ BEFORE": "Your booking must start before",
     "PROMOCODE_ORDER_MUSTBE_AFTER": "Your booking must start after",
-    "PROMOCODE_NOTFOUND": "Code not recognised.",
+    "PROMOCODE_NOTFOUND": "Promo code not recognised.",
     "PROMOCODE_DISABLED": "Promo code no longer available.",
     "PROMOCODE_ALREADY_USED": "Promo code already use.",
     "PROMOCODE_INVALID": "Code invalid",
@@ -1689,6 +1689,6 @@
     "VERIFY_SELFIE_ONFIDO_CHECK": "video",
     "PROMOCODE_OUT_OF_PERIOD": "Promo code not valid for this order.",
     "PROMOCODE_OUT_OF_RANGE_TIME": "Promo code not valid for selected dates.",
-    "BANNER_JOURNAL_JULY_AUGUST_2022": "ROAD TRIP INSPIRATION\nTHE LOST ART OF LOSING YOURSELF: NORTH NORFOLK\n\/post\/the-lost-art-of-losing-yourself-cley-kippers\nhttps:\/\/static.theout.com\/website\/blog\/images\/cley-kippers\/homepage.jpg\ntrue",
+    "BANNER_JOURNAL_JULY_AUGUST_2022": "ROAD TRIP INSPIRATION\nTHE LOST ART OF LOSING YOURSELF: NORTH NORFOLK\n\/post\/the-lost-art-of-losing-yourself-greg-anderson\nhttps:\/\/static.theout.com\/website\/blog\/images\/cley-kippers\/homepage.jpg\ntrue",
     "QUICK_LINKS_CONDITION_REPORT": "Condition report"
 }
