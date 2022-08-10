@@ -1686,9 +1686,10 @@
     "ERROR_SPECIAL_CHARACTER_EMAIL": "Special characters is not allowed",
     "ERROR_PASSWORD_INCLUDE_EMAIL": "Cannot include your name\/email",
     "ERROR_EMAIL_ADDRESS": "Special characters is not allowed\nThis email is invalid, please try another\nEmail must less than 64 characters long",
-    "VERIFY_SELFIE_ONFIDO_CHECK": "image",
+    "VERIFY_SELFIE_ONFIDO_CHECK": "video",
     "PROMOCODE_OUT_OF_PERIOD": "Promo code not valid for this order.",
     "PROMOCODE_OUT_OF_RANGE_TIME": "Promo code not valid for selected dates.",
     "BANNER_JOURNAL_JULY_AUGUST_2022": "ROAD TRIP INSPIRATION\nTHE LOST ART OF LOSING YOURSELF: NORTH NORFOLK\n\/post\/the-lost-art-of-losing-yourself-fred-ingrams\nhttps:\/\/static.theout.com\/website\/blog\/images\/cley-kippers\/homepage.jpg\ntrue",
-    "QUICK_LINKS_CONDITION_REPORT": "Condition report"
+    "QUICK_LINKS_CONDITION_REPORT": "Condition report",
+    "BANNER_JOURNAL_JULY_AUGUST_2022_4": "ROAD TRIP INSPIRATION\nTHE LOST ART OF LOSING YOURSELF: NORTH NORFOLK\n\/post\/the-lost-art-of-losing-yourself-galton-blackiston\nhttps:\/\/static.theout.com\/website\/blog\/images\/cley-kippers\/homepage.jpg\ntrue"
 }
