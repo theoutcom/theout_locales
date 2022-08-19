@@ -981,8 +981,8 @@
     "EXTRAS_OPTIONAL_ITEM_EU_TRAVEL_SHORT": "Travel to the EU",
     "EXTRAS_OPTIONAL_ADDITIONAL_DRIVER_SHORT": "Additional driver",
     "EXTRAS_OPTIONAL_BOOSTER_SEAT_SHORT": "Child Booster seat",
-    "EXTRAS_OPTIONAL_FRONT_FACING_SEAT_SHORT": "Front facing baby seat",
-    "EXTRAS_OPTIONAL_REAR_FACING_SEAT_SHORT": "Rear facing baby seat",
+    "EXTRAS_OPTIONAL_FRONT_FACING_SEAT_SHORT": "FRONT FACING SEAT",
+    "EXTRAS_OPTIONAL_REAR_FACING_SEAT_SHORT": "REAR FACING SEAT",
     "EXTRAS_OPTIONAL_DOG_BOOT_SEPARATOR_SHORT": "Dog boot separator",
     "EXTRAS_OPTIONAL_BIKE_RACK_SHORT": "Bike rack",
     "EXTRAS_OPTIONAL_SNOW_CHAINS_SHORT": "Snow chains",
@@ -1444,7 +1444,7 @@
     "CHOOSE_CAR_LABLE": "choose a car",
     "CHOOSE_CAR_LABLE_NOTE": "Vestibulum viverra mollis tellus, ut dignissim justo. Nunc sollicitudin ornare eleme ntum. Sed pulvinar feugiat nibh, nec vestibulum neque dapibus vitae.",
     "EXTRA_LABLE": "essentials",
-    "EXTRA_ITEMS_BOOTER": "CHILD BOOSTER SEAT",
+    "EXTRA_ITEMS_BOOTER": "BOOSTER SEAT",
     "BABY_SEAT_FRONT_NOTE": "(1 + YEARS)",
     "BABY_SEAT_REAR_NOTE": "(0 - 1 YEARS)",
     "BOOSTER_SEAT_NOTE": "(4 - 12 YEARS)",
@@ -1692,5 +1692,8 @@
     "BANNER_JOURNAL_JULY_AUGUST_2022": "ROAD TRIP INSPIRATION\nTHE LOST ART OF LOSING YOURSELF: NORTH NORFOLK\n\/post\/the-lost-art-of-losing-yourself-fred-ingrams\nhttps:\/\/static.theout.com\/website\/blog\/images\/cley-kippers\/homepage.jpg\ntrue",
     "QUICK_LINKS_CONDITION_REPORT": "Condition report",
     "BANNER_JOURNAL_JULY_AUGUST_2022_4": "ROAD TRIP INSPIRATION\nTHE LOST ART OF LOSING YOURSELF: NORTH NORFOLK\n\/post\/the-lost-art-of-losing-yourself-galton-blackiston\nhttps:\/\/static.theout.com\/website\/blog\/images\/cley-kippers\/homepage.jpg\ntrue",
-    "BANNER_JOURNAL_AUGUST_16_2022": "ROAD TRIP INSPIRATION\nTHE LOST ART OF LOSING YOURSELF: WALES\n\/post\/the-lost-art-of-losing-yourself-david-hieatt-hiut-denim\nhttps:\/\/static.theout.com\/website\/blog\/images\/david-hieatt-hiut-denim\/banner.jpg\ntrue"
+    "BANNER_JOURNAL_AUGUST_16_2022": "ROAD TRIP INSPIRATION\nTHE LOST ART OF LOSING YOURSELF: WALES\n\/post\/the-lost-art-of-losing-yourself-gareth-ward-ynyshir\nhttps:\/\/static.theout.com\/website\/blog\/images\/david-hieatt-hiut-denim\/banner.jpg\ntrue",
+    "EXTRAS_OPTIONAL_REAR_FACING_SEAT_AGE": "0-15 MONTHS",
+    "EXTRAS_OPTIONAL_FRONT_FACING_SEAT_AGE": "15 MONTHS - 4 YEARS",
+    "EXTRA_ITEMS_BOOTER_AGE": "4-12 YEARS"
 }
