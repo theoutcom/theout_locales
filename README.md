@@ -1,1 +1,0 @@
-# theout_locales
