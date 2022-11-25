@@ -221,5 +221,9 @@
     "MINUTES": "minutes -",
     "GENERATE_NEW_LINK": "Generate new link",
     "HOUR_AND": "hour and",
-    "MINUTE": "minute -"
+    "MINUTE": "minute -",
+    "THIS_LINK_HAS_EXPIRED_TITLE": "This link has expired",
+    "THIS_LINK_HAS_EXPIRED_CONTENT": "If you still want to reset your password you must request a new link below.",
+    "BAD_REQUEST": "Unexpected error occurred",
+    "TOO_MANY_REQUESTS": "Too many request. Please try another!"
 }
