@@ -21,7 +21,7 @@
     "PASSWORD": "Password",
     "PASSWORD_CHECK_POLICY_TEXT": "10 or more characters\nMix of upper & lowercase letters\nAt least one number and one symbol",
     "KEEP_ME_UPDATED_NEW": "Keep me updated with news & offers",
-    "ACCEPT_TERM_AND_POLICY": "I accept the <link1>Term<\/link1> and <link2>Privacy Policy<\/link2>",
+    "ACCEPT_TERM_AND_POLICY": "I accept the <link1>Term<\/link1> & <link2>Privacy Policy<\/link2>",
     "VERIFY_YOUR_PHONE_NUMBER": "Verify your phone number",
     "VERIFY_YOUR_PHONE_NUMBER_SUBTITLE": "Our drivers might need to contact you during delivery and collection. Please provide a phone number they can contact you on if they need to speak with you.",
     "CONTINUE": "Continue",
