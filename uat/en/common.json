@@ -1527,7 +1527,7 @@
     "REFERRAL_CODE_INVALID": "You can not use your own referral code.",
     "PROMOCODE_REJECTED_NEED_USER": "Promo code rejected need user.",
     "PROMOCODE_CAR_MODEL": "Promo code can't be used with chosen car model.",
-    "REFERRAL_CODE_NOT_FIRSTBOOKING": "Opps, that code only works for your first booking.",
+    "REFERRAL_CODE_NOT_FIRSTBOOKING": "Oops, that code only works for your first booking.",
     "PROMO_CODE_NOTED": "Promotional codes and\/or credit cannot be used against insurance.",
     "PROMO_CODE_SUCESS": "successfully applied.",
     "PAYMENT_FAIL_TITLE": "PAYMENT FAILED",
@@ -1686,7 +1686,7 @@
     "ERROR_SPECIAL_CHARACTER_EMAIL": "Special characters is not allowed",
     "ERROR_PASSWORD_INCLUDE_EMAIL": "Cannot include your name\/email",
     "ERROR_EMAIL_ADDRESS": "Special characters is not allowed\nThis email is invalid, please try another\nEmail must less than 64 characters long",
-    "VERIFY_SELFIE_ONFIDO_CHECK": "video",
+    "VERIFY_SELFIE_ONFIDO_CHECK": "selfie",
     "PROMOCODE_OUT_OF_PERIOD": "Promo code not valid for this order.",
     "PROMOCODE_OUT_OF_RANGE_TIME": "Promo code not valid for selected dates.",
     "BANNER_JOURNAL_JULY_AUGUST_2022": "ROAD TRIP INSPIRATION\nTHE LOST ART OF LOSING YOURSELF: NORTH NORFOLK\n\/post\/the-lost-art-of-losing-yourself-fred-ingrams\nhttps:\/\/static.theout.com\/website\/blog\/images\/cley-kippers\/homepage.jpg\ntrue",
@@ -1745,5 +1745,6 @@
     "BANNER_JOURNAL_NOV_03_2022": "ROAD TRIP INSPIRATION\nTHE LOST ART OF LOSING YOURSELF: CORNWALL\n\/post\/the-lost-art-of-losing-yourself-cornwall\nhttps:\/\/static.theout.com\/website\/blog\/images\/the-lost-art-of-losing-yourself-cornwall\/banner.jpg\ntrue",
     "CHECK_INBOX_MODAL_CONTENT": "We’ve emailed you a link to sign in at {{email}}",
     "SIGNIN_AGAIN_WHEN_EXPIRED_LINK": "The link is expired or has already been used. Please sign in again to have new link.",
-    "BANNER_JOURNAL_NOV_09_2022": "ROAD TRIP INSPIRATION\nTHE OUT'S 5 OF THE BEST PLACES TO SEE, WALK, EAT AND DRINK IN WEST CORNWALL\n\/post\/five-of-the-best-places-in-cornwall\nhttps:\/\/static.theout.com\/website\/blog\/images\/top-five-places-in-cornwall\/banner.jpg\ntrue"
+    "BANNER_JOURNAL_NOV_09_2022": "ROAD TRIP INSPIRATION\nTHE OUT'S 5 OF THE BEST PLACES TO SEE, WALK, EAT AND DRINK IN WEST CORNWALL\n\/post\/five-of-the-best-places-in-cornwall\nhttps:\/\/static.theout.com\/website\/blog\/images\/top-five-places-in-cornwall\/banner.jpg\ntrue",
+    "BANNER_JOURNAL_DEC_14_2022": "ROAD TRIP INSPIRATION\nTHE PERFECT RECHARGE WEEKEND WITH KSENIJA SELIVANOVA\n\/post\/the-perfect-recharge-weekend\nhttps:\/\/static.theout.com\/website\/blog\/images\/the-perfect-recharge-weekend\/image.jpg\ntrue"
 }
