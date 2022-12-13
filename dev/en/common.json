@@ -1747,5 +1747,6 @@
     "SIGNIN_AGAIN_WHEN_EXPIRED_LINK": "The link is expired or has already been used. Please sign in again to have new link.",
     "BANNER_JOURNAL_NOV_09_2022": "ROAD TRIP INSPIRATION\nTHE OUT'S 5 OF THE BEST PLACES TO SEE, WALK, EAT AND DRINK IN WEST CORNWALL\n\/post\/five-of-the-best-places-in-cornwall\nhttps:\/\/static.theout.com\/website\/blog\/images\/top-five-places-in-cornwall\/banner.jpg\ntrue",
     "BANNER_JOURNAL_DEC_14_2022": "ROAD TRIP INSPIRATION\nANGLESEY: THE PERFECT RECHARGE WEEKEND\n\/post\/the-perfect-recharge-weekend\nhttps:\/\/static.theout.com\/website\/blog\/images\/the-perfect-recharge-weekend\/image.jpg\ntrue",
-    "BANNER_JOURNAL_DEC_28_2022": "ROAD TRIP INSPIRATION\nINVEST IN YOUR FUTURE SELF\n\/post\/invest-in-yourself\nhttps:\/\/static.theout.com\/website\/blog\/images\/invest-in-yourself\/image.jpg\ntrue"
+    "BANNER_JOURNAL_DEC_28_2022": "ROAD TRIP INSPIRATION\nINVEST IN YOUR FUTURE SELF\n\/post\/invest-in-yourself\nhttps:\/\/static.theout.com\/website\/blog\/images\/invest-in-yourself\/image.jpg\ntrue",
+    "_MENU_ACCOUNT_HI_PROPS": "HI <name>{{name}}<\/name>!"
 }
