@@ -239,5 +239,7 @@
     "USER_PROFILE_COMPANY_NAME": "Company name",
     "USER_PROFILE_JOB_TITLE": "Job title",
     "USER_PROFILE_SUMMARY": "Summary",
-    "USER_PROFILE_SUMMARY_CONTENT": "Manage your personal profile."
+    "USER_PROFILE_SUMMARY_CONTENT": "Manage your personal profile.",
+    "PICTURE": "Picture",
+    "PROFILE_PICTURE_LABEL_MODAL": "Change profile picture"
 }
