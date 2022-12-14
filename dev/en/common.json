@@ -233,5 +233,11 @@
     "MAX_SIZE_JPG_PNG": "File must be a JPG or PNG with a max size of 10MB",
     "PROFILE_PICTURE_LABLE": "Profile picture",
     "REMOVE_IMAGE": "Remove image",
-    "UPLOAD_A_FILE": "Upload a file"
+    "UPLOAD_A_FILE": "Upload a file",
+    "USER_PROFILE": "Profile",
+    "USER_PROFILE_EMAIL": "Email address",
+    "USER_PROFILE_COMPANY_NAME": "Company name",
+    "USER_PROFILE_JOB_TITLE": "Job title",
+    "USER_PROFILE_SUMMARY": "Summary",
+    "USER_PROFILE_SUMMARY_CONTENT": "Manage your personal profile."
 }
