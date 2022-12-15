@@ -1750,5 +1750,6 @@
     "BANNER_JOURNAL_DEC_28_2022": "ROAD TRIP INSPIRATION\nINVEST IN YOUR FUTURE SELF\n\/post\/invest-in-yourself\nhttps:\/\/static.theout.com\/website\/blog\/images\/invest-in-yourself\/image.jpg\ntrue",
     "_MENU_ACCOUNT_HI_PROPS": "HI <name>{{name}}<\/name>!",
     "VERICATION_CODE_PROPS": "To confirm your identity you’ll need to enter the 6 digit code we just sent to number ending <digit>{{last3Digit}}<\/digit>. It should arrive within a minute.",
-    "RESET_PASSWORD_CONTENT": "If we have an account for <email>{{email}}<\/email> we’ll send you a link to reset your password."
+    "RESET_PASSWORD_CONTENT": "If we have an account for <email>{{email}}<\/email> we’ll send you a link to reset your password.",
+    "CHECK_INBOX_MODAL_CONTENT_PROPS": "We’ve emailed you a link to sign in at <email>{{email}}<\/email>"
 }
