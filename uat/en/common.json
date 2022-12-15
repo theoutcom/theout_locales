@@ -1749,5 +1749,5 @@
     "BANNER_JOURNAL_DEC_14_2022": "ROAD TRIP INSPIRATION\nANGLESEY: THE PERFECT RECHARGE WEEKEND\n\/post\/the-perfect-recharge-weekend\nhttps:\/\/static.theout.com\/website\/blog\/images\/the-perfect-recharge-weekend\/image.jpg\ntrue",
     "BANNER_JOURNAL_DEC_28_2022": "ROAD TRIP INSPIRATION\nINVEST IN YOUR FUTURE SELF\n\/post\/invest-in-yourself\nhttps:\/\/static.theout.com\/website\/blog\/images\/invest-in-yourself\/image.jpg\ntrue",
     "_MENU_ACCOUNT_HI_PROPS": "HI <name>{{name}}<\/name>!",
-    "VERICATION_CODE_PROPS": "Invalid verification code, please try again\nVerification code has expired, please try again\n2-Step Verification\nTo confirm your identity you’ll need to enter the 6 digit code we just sent to number ending <digit>{{last3Digit}}<\/digit>. It should arrive within a minute.\nVERIFY NUMBER\nDIDN’T RECEIVE IT?\nSEND IT AGAIN"
+    "VERICATION_CODE_PROPS": "To confirm your identity you’ll need to enter the 6 digit code we just sent to number ending <digit>{{last3Digit}}<\/digit>. It should arrive within a minute."
 }
