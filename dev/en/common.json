@@ -105,5 +105,7 @@
     "ERROR_LINK_TITLE": "sorry, this link\nis not valid",
     "ERROR_LINK_CONTENT": "This link has expired or already been used. Please contact us at THE OUT to request a new link.",
     "ERROR_PHONE_TITLE": "sorry, this phone\nis not valid",
-    "ERROR_PHONE_CONTENT": "This phone is not valid. Please contact us at THE OUT to change your phone number."
+    "ERROR_PHONE_CONTENT": "This phone is not valid. Please contact us at THE OUT to change your phone number.",
+    "ERROR_MESSAGE_INVALID_PASSWORD": "Password too weak",
+    "ERROR_MESSAGE_INVALID_POLICY": "Please accept term and privacy"
 }
