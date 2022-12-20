@@ -242,5 +242,6 @@
     "USER_PROFILE_SUMMARY_CONTENT": "Manage your personal profile.",
     "PICTURE": "Picture",
     "PROFILE_PICTURE_LABEL_MODAL": "Change profile picture",
-    "SEND_EMAIL_VERIFICATION_PASSWORD_SUCCESS": "Check your email, we've sent you a link to sign in to your account."
+    "SEND_EMAIL_VERIFICATION_PASSWORD_SUCCESS": "Check your email, we've sent you a link to sign in to your account.",
+    "EMAIL_LINK_INVALID": "The link is not valid. Please sign in again to have new link."
 }
