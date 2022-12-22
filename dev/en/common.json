@@ -243,5 +243,9 @@
     "PICTURE": "Picture",
     "PROFILE_PICTURE_LABEL_MODAL": "Change profile picture",
     "SEND_EMAIL_VERIFICATION_PASSWORD_SUCCESS": "Check your email, we've sent you a link to sign in to your account.",
-    "EMAIL_LINK_INVALID": "The link is not valid. Please sign in again to have new link."
+    "EMAIL_LINK_INVALID": "The link is not valid. Please sign in again to have new link.",
+    "USER_PROFILE_SECURITY": "Security",
+    "USER_PROFILE_SECURITY_CONTENT": "Change your email address or password if you think it has been compromised.",
+    "USER_PROFILE_CHANGE_EMAIL": "Change email address",
+    "USER_PROFILE_CHANGE_PASSWORD": "Change password"
 }
