@@ -215,7 +215,7 @@
     "SEARCH_ID": "Search ID...",
     "NO_UPCOMING_ORDERS_CONTENT": "This customer does not have any orders that are upcoming or in-progress.",
     "INVITE_KYC_EXPIRED_TIME": "This link expires in 6 hours",
-    "KYC_LINK_EXPRIRED": "This link has expired -",
+    "KYC_LINK_EXPIRED": "This link has expired -",
     "THIS_LINK_EXPIRES_IN": "This link expires in",
     "HOURS_AND": "hours and",
     "MINUTES": "minutes -",
@@ -247,5 +247,10 @@
     "USER_PROFILE_SECURITY": "Security",
     "USER_PROFILE_SECURITY_CONTENT": "Change your email address or password if you think it has been compromised.",
     "USER_PROFILE_CHANGE_EMAIL": "Change email address",
-    "USER_PROFILE_CHANGE_PASSWORD": "Change password"
+    "USER_PROFILE_CHANGE_PASSWORD": "Change password",
+    "CHANGE_EMAIL_SUCCESS": "Your email address has been changed.",
+    "CONFIRM_PASSWORD_LABEL": "Confirm password",
+    "BUTTON_CONTINUE": "Continue",
+    "INVALID_VERIFY_PASSWORD": "Password is invalid",
+    "USER_LOGGED_OUT": "You have been logged out. Please log in again if want to continue."
 }
