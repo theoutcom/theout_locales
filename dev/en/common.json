@@ -66,7 +66,7 @@
     "ADD_CUSTOMER_TITLE": "Add customer",
     "INVALID_EMAIL": "This email is invalid, please try another",
     "REQUIRED_FIELD": "This field is required",
-    "THE_NEW_PASSWORD_DIFFERENCE_WITH_THE_CURRENT_ONE": "The new password must be difference with the current one",
+    "THE_NEW_PASSWORD_DIFFERENCE_WITH_THE_CURRENT_ONE": "The new password must be different with the current one",
     "SPECIAL_CHARACTERS_IS_NOT_ALLOWED": "Special characters is not allowed",
     "INVALID_PHONE_NUMBER": "This phone is invalid, please try another",
     "INVALID_DATA_INPUT": "Save failed, please resolve the errors below",
