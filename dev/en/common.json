@@ -252,5 +252,8 @@
     "CONFIRM_PASSWORD_LABEL": "Confirm password",
     "BUTTON_CONTINUE": "Continue",
     "INVALID_VERIFY_PASSWORD": "Password is invalid",
-    "USER_LOGGED_OUT": "You have been logged out. Please log in again if want to continue."
+    "USER_LOGGED_OUT": "You have been logged out. Please log in again if want to continue.",
+    "CUSTOMER_LIST_NAME": "Name",
+    "CREATE_ORDER": "Create order",
+    "SELECT_A_CUSTOMER_HEADER": "Select a customer"
 }
