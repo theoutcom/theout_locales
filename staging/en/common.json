@@ -252,5 +252,19 @@
     "CONFIRM_PASSWORD_LABEL": "Confirm password",
     "BUTTON_CONTINUE": "Continue",
     "INVALID_VERIFY_PASSWORD": "Password is invalid",
-    "USER_LOGGED_OUT": "You have been logged out. Please log in again if want to continue."
+    "USER_LOGGED_OUT": "You have been logged out. Please log in again if want to continue.",
+    "CUSTOMER_LIST_NAME": "Name",
+    "CREATE_ORDER": "Create order",
+    "SELECT_A_CUSTOMER_HEADER": "Select a customer",
+    "ACCOUNT_MANAGER": "Account manager",
+    "CHANGE_ACCOUNT_MANAGER_LABEL": "Change account manager",
+    "SEARCH": "Search",
+    "NO_RESULTS_FOUND": "No results found",
+    "CHANGE_CONFIRMATION": "Change confirmation",
+    "BODY_CONFIRMATION": "You are about to change the account manager for {{name}}. Do you want to continue?",
+    "FROM": "From",
+    "TO": "To",
+    "CLOSE": "Close",
+    "CHANGE_ACCOUNT_MANAGER_SUCCESS": "The account manager has been changed. We've sent you an email to confirm this.",
+    "MESSAGE_SEARCH_ACCOUNT_MANAGER": "We cannot find any results for \"{{name}}\", try another search term."
 }
