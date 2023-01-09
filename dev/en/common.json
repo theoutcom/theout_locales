@@ -107,5 +107,6 @@
     "ERROR_PHONE_TITLE": "sorry, this phone\nis not valid",
     "ERROR_PHONE_CONTENT": "This phone is not valid. Please contact us at THE OUT to change your phone number.",
     "ERROR_MESSAGE_INVALID_PASSWORD": "Password too weak",
-    "ERROR_MESSAGE_INVALID_POLICY": "Please accept term and privacy"
+    "ERROR_MESSAGE_INVALID_POLICY": "Please accept term and privacy",
+    "PARTNER_QUINTESSENTIALLY": "In partnership with Quintessentially"
 }
