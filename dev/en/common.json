@@ -261,12 +261,10 @@
     "SEARCH": "Search",
     "NO_RESULTS_FOUND": "No results found",
     "CHANGE_CONFIRMATION": "Change confirmation",
-    "BODY_CONFIRMATION": "You are about to change the lifestyle manager for",
-    "MESSAGE_SEARCH_ACCOUNT_MANAGER_ONE": "We cannot find any results for \"",
-    "MESSAGE_SEARCH_ACCOUNT_MANAGER_TWO": "\", try another search term.",
-    "BODY_CONFIRMATION_QUESTION": ". Do you want to continue?",
+    "BODY_CONFIRMATION": "You are about to change the account manager for {{name}}. Do you want to continue?",
     "FROM": "From",
     "TO": "To",
     "CLOSE": "Close",
-    "CHANGE_ACCOUNT_MANAGER_SUCCESS": "The account manager has been changed. We've sent you an email to confirm this."
+    "CHANGE_ACCOUNT_MANAGER_SUCCESS": "The account manager has been changed. We've sent you an email to confirm this.",
+    "MESSAGE_SEARCH_ACCOUNT_MANAGER": "We cannot find any results for \"{{name}}\", try another search term."
 }
