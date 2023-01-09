@@ -1,5 +1,4 @@
 {
-    "HELLO": "hello 2",
     "HOMEPAGE_WELCOME_TEXT": "Welcome to THE OUT\nIn partnership with THE OUT\nIn partnership with Rentalcars.com",
     "HOMEPAGE_TITLE_AD": "You’ve been invited to drive with us",
     "HOMEPAGE_TITLE_CP": "hi <name>{{name}}<\/name>, welcome to the out",
@@ -107,5 +106,8 @@
     "ERROR_PHONE_TITLE": "sorry, this phone\nis not valid",
     "ERROR_PHONE_CONTENT": "This phone is not valid. Please contact us at THE OUT to change your phone number.",
     "ERROR_MESSAGE_INVALID_PASSWORD": "Password too weak",
-    "ERROR_MESSAGE_INVALID_POLICY": "Please accept term and privacy"
+    "ERROR_MESSAGE_INVALID_POLICY": "Please accept term and privacy",
+    "PARTNER_QUINTESSENTIALLY": "In partnership with Quintessentially",
+    "PARTNER_LUXURYCOTSWOLDRENTALS": "In partnership with Luxury Cotswold Rentals",
+    "PARTNER_LUXURYCOTTAGES": "In partnership with Luxury Cottages"
 }
