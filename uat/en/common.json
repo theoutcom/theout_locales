@@ -1754,5 +1754,6 @@
     "CHECK_INBOX_MODAL_CONTENT_PROPS": "We’ve emailed you a link to sign in at <email>{{email}}<\/email>",
     "_BOOKING_WIDGET_ADDRESS_POSTCODE_NOTFOUND_PROPS": "No addresses found for <code>{{code}}<\/code>.\nPlease check the postcode and try again.",
     "ERROR_MESSAGE_INVALID_PASSWORD": "Invalid Password",
-    "ERROR_MESSAGE_INVALID_POLICY": "Please accept term and privacy"
+    "ERROR_MESSAGE_INVALID_POLICY": "Please accept term and privacy",
+    "BANNER_JOURNAL_JAN_18_2023": "ROAD TRIP INSPIRATION\nLANDSCAPE PHOTOGRAPHY\n\/post\/the-art-of-looking-with-andrew-shaylor\nhttps:\/\/static.theout.com\/website\/blog\/images\/the-art-of-looking-with-andrew-shaylor\/banner.jpg\ntrue"
 }
