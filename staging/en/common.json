@@ -125,7 +125,7 @@
     "BUTTON_APPLY": "Apply",
     "BUTTON_CANCEL": "Cancel",
     "CARD_NOT_FOUND": "The card credit is not found",
-    "CUSTOMER_ACTIONS_CONTENT": "Change the account manager for this client or archive them if they are no longer a quintessentially customer.",
+    "CUSTOMER_ACTIONS_CONTENT": "Transfer ownership of this customer to another account manager.",
     "CUSTOMER_ACTIONS_TITLE": "Actions",
     "CUSTOMER_DETAIL_BILLING_CONTENT": "Customers must have a billing method before they can rent a car.",
     "CUSTOMER_DETAIL_BILLING_TITLE": "Billing",
