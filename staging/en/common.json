@@ -261,7 +261,7 @@
     "SEARCH": "Search",
     "NO_RESULTS_FOUND": "No results found",
     "CHANGE_CONFIRMATION": "Change confirmation",
-    "BODY_CONFIRMATION": "You are about to change the lifestyle manager for <name>{{name}}<\/name>. Do you want to continue?",
+    "BODY_CONFIRMATION": "You are about to change the account manager for <name>{{name}}<\/name>. Do you want to continue?",
     "FROM": "From",
     "TO": "To",
     "CLOSE": "Close",
