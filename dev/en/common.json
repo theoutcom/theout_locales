@@ -1760,5 +1760,6 @@
     "WAIVER_BODY_TEXT_V2": "Protect your deposit from accidental damage or theft by reducing your excess to £0",
     "BOOKING_DETAIL_WAIVER": "EXCESS WAIVER",
     "WAIVER_ITEM": "Excess Waiver (UK & EU)\nExcess Waiver (UK only)\nStandard Insurance\nINSURANCE",
-    "LINK_TERM_AND_CONDITION_WAIVER": "https:\/\/static.theout.com\/assets\/pdf\/terms_excess_waiver.pdf"
+    "LINK_TERM_AND_CONDITION_WAIVER": "https:\/\/static.theout.com\/assets\/pdf\/terms_excess_waiver.pdf",
+    "WAIVER_MODAL_UPDATE": "INSURANCE\nEvery rental comes with our standard insurance. Add our excess insurance to cover the cost if you need to make a claim. T&Cs apply.\nStandard Insurance\nIncluded\nComes with a {deposit} damage excess\nInsurance in partnership with Flock\nExcess Waiver\nReduce your damage excess to {price}\nProvided by Riverside Underwriting\nTerms & Conditions\nSAVE CHANGES"
 }
