@@ -1755,5 +1755,10 @@
     "_BOOKING_WIDGET_ADDRESS_POSTCODE_NOTFOUND_PROPS": "No addresses found for <code>{{code}}<\/code>.\nPlease check the postcode and try again.",
     "ERROR_MESSAGE_INVALID_PASSWORD": "Invalid Password",
     "ERROR_MESSAGE_INVALID_POLICY": "Please accept term and privacy",
-    "BANNER_JOURNAL_JAN_18_2023": "ROAD TRIP INSPIRATION\nLANDSCAPE PHOTOGRAPHY\n\/post\/the-art-of-looking-with-andrew-shaylor\nhttps:\/\/static.theout.com\/website\/blog\/images\/the-art-of-looking-with-andrew-shaylor\/banner.jpg\ntrue"
+    "BANNER_JOURNAL_JAN_18_2023": "ROAD TRIP INSPIRATION\nLANDSCAPE PHOTOGRAPHY\n\/post\/the-art-of-looking-with-andrew-shaylor\nhttps:\/\/static.theout.com\/website\/blog\/images\/the-art-of-looking-with-andrew-shaylor\/banner.jpg\ntrue",
+    "EXTRAS_EXCESS_WAIVER_TITLE": "excess waiver",
+    "WAIVER_BODY_TEXT_V2": "Protect your deposit from accidental damage or theft by reducing your excess to £0",
+    "BOOKING_DETAIL_WAIVER": "EXCESS WAIVER",
+    "WAIVER_ITEM": "Excess Waiver (UK & EU)\nExcess Waiver (UK only)\nStandard Insurance\nINSURANCE",
+    "LINK_TERM_AND_CONDITION_WAIVER": "https:\/\/static.theout.com\/assets\/pdf\/terms_excess_waiver.pdf"
 }
