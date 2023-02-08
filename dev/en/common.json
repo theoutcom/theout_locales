@@ -317,5 +317,15 @@
     "ADDRESS_ITEM_RECENT_LOCATION": "Recent locations",
     "CREATE_ORDER_ERROR_TITLE": "Sorry, you can't make this order",
     "CREATE_ORDER_ERROR_NOT_VERIFIED_MESSAGE": "This customer has not been verified. We cannot take any orders for unverified customers if the delivery time is within 36 hours.",
-    "CREATE_ORDER_EXTRAS_DOG_BOOT_SEPARATOR": "Dog boot separator"
+    "CREATE_ORDER_EXTRAS_DOG_BOOT_SEPARATOR": "Dog boot separator",
+    "CONFIRM_CHECKOUT_LABEL": "I have consent to place orders for <name>{{name}}<\/name>",
+    "ORDER_KYC_WARNING_TITLE": "This customer must verify their identity",
+    "ORDER_SUCCESS_CONTENT": "Your customer will get a confirmation email soon confirming all of the details.",
+    "ORDER_SUCCESS_ID": "Order #{{id}} placed!",
+    "VIEW_ORDER": "View order",
+    "ORDER_KYC_WARNING": "Please share the link below with your customer so we can verify their identity. They must verify their identity by {{date}} or the order will be cancelled.",
+    "ORDER_WARNING_MESSAGE_TITLE": "This customers identity is still being verified",
+    "ORDER_MESSAGE_WARNING": "We're still verifying this customers identity. If we cannot verify their identity by {{date}} the order will be cancelled.",
+    "ORDER_CONTACT_US": "If you have any concerns please ",
+    "ORDER_CONTACT_US_LINK": "contact us."
 }
