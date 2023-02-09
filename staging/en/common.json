@@ -327,5 +327,12 @@
     "ORDER_WARNING_MESSAGE_TITLE": "This customers identity is still being verified",
     "ORDER_MESSAGE_WARNING": "We're still verifying this customers identity. If we cannot verify their identity by {{date}} the order will be cancelled.",
     "ORDER_CONTACT_US": "If you have any concerns please ",
-    "ORDER_CONTACT_US_LINK": "contact us."
+    "ORDER_CONTACT_US_LINK": "contact us.",
+    "DEPOSIT": "Deposit",
+    "VEHICLE_RENTAL": "Vehicle rental",
+    "EXCESS_INSURANCE": "Excess insurance",
+    "ISSUING_FEE": "Issuing fee",
+    "COLLECTION_FEE": "Collection fee",
+    "PREFERNTIAL_AMOUNT": "Preferential amount",
+    "TOTAL_TO_PAY": "Total to pay"
 }
