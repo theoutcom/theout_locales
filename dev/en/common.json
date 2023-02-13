@@ -321,8 +321,8 @@
     "CONFIRM_CHECKOUT_LABEL": "I have consent to place orders for <name>{{name}}<\/name>",
     "ORDER_KYC_WARNING_TITLE": "This customer must verify their identity",
     "ORDER_SUCCESS_CONTENT": "Your customer will get a confirmation email soon confirming all of the details.",
-    "ORDER_SUCCESS_ID": "Order #{{id}} placed!",
-    "VIEW_ORDER": "View order",
+    "ORDER_SUCCESS_ID": "Order #{{id}} booked!",
+    "VIEW_ORDER": "View booking",
     "ORDER_KYC_WARNING": "Please share the link below with your customer so we can verify their identity. They must verify their identity by {{date}} or the order will be cancelled.",
     "ORDER_WARNING_MESSAGE_TITLE": "This customers identity is still being verified",
     "ORDER_MESSAGE_WARNING": "We're still verifying this customers identity. If we cannot verify their identity by {{date}} the order will be cancelled.",
@@ -360,5 +360,6 @@
     "INSURANCE_PROVIDER_NOT_FOUND": "Something went wrong",
     "INSURANCE_PROVIDER_NOT_FOUND_CONTENT": "Please try again. If the issue continues, please contact customer support.",
     "REDUCE_EXCESS_NOT_POSSIBLE": "Something went wrong",
-    "REDUCE_EXCESS_NOT_POSSIBLE_CONTENT": "Please try again. If the issue continues, please contact customer support."
+    "REDUCE_EXCESS_NOT_POSSIBLE_CONTENT": "Please try again. If the issue continues, please contact customer support.",
+    "PAY_NOW": "Pay now"
 }
