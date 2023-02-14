@@ -348,7 +348,7 @@
     "AGE_NOT_ALLOW_CONTENT": "Unfortunately, customer do not meet our criteria for driving this car. <strong><u>Please see How do we verify customer licence and identity?<\/u><\/strong> for more information.",
     "MIN_BOOKING_TIME": "Outside of Business Hour",
     "MIN_BOOKING_TIME_CONTENT": "The booking duration must be at least 3 hours. Please extend the collection date to continue.",
-    "MIN_DELIVERY_TIME": "Unfortunately, the selected delivery time does not meet our minimum delivery time. Please go back and select another time.",
+    "MIN_DELIVERY_TIME": "Outside of Business Hour",
     "NO_AGENTS_AVAILABLE": "Outside of Business Hour",
     "NO_AGENTS_AVAILABLE_CONTENT": "Unfortunately, the selected delivery or collection time is outside of our business hour. Please go back and select another time.",
     "PAYMENT_NOT_VERIFIED_EXCEPTION": "Payment Failed",
@@ -361,5 +361,6 @@
     "INSURANCE_PROVIDER_NOT_FOUND_CONTENT": "Please try again. If the issue continues, please contact customer support.",
     "REDUCE_EXCESS_NOT_POSSIBLE": "Something went wrong",
     "REDUCE_EXCESS_NOT_POSSIBLE_CONTENT": "Please try again. If the issue continues, please contact customer support.",
-    "PAY_NOW": "Pay now"
+    "PAY_NOW": "Pay now",
+    "MIN_DELIVERY_TIME_CONTENT": "Unfortunately, the selected delivery time does not meet our minimum delivery time. Please go back and select another time."
 }
