@@ -333,7 +333,7 @@
     "EXCESS_INSURANCE": "Excess insurance",
     "ISSUING_FEE": "Issuing fee",
     "COLLECTION_FEE": "Collection fee",
-    "PREFERENTIAL_AMOUNT": "Preferential amount to {{name}} discount",
+    "PREFERENTIAL_AMOUNT": "{{name}} discount",
     "TOTAL_TO_PAY": "Total to pay",
     "DELIVERY_FEE": "Delivery fee",
     "CAR_NOT_AVAILABLE": "Car no longer available",
