@@ -97,7 +97,7 @@
     "ORDER_NOT_FOUND": "Unexpected error occurred",
     "ORDER_NAV_SUMMARY_LABEL": "Summary",
     "ORDER_NAV_EXTRAS_LABEL": "Extras",
-    "ORDER_NAV_CUSTOMER_LABEL": "Customer",
+    "ORDER_NAV_CUSTOMER_LABEL": "Drivers",
     "ORDER_NAV_PAYMENTS_LABEL": "Payments",
     "ORDER_NAV_DOCUMENTS_LABEL": "Documents",
     "ORDER_EXTRAS_EU_TRAVEL_LABEL": "Travel to the EU",
@@ -116,7 +116,7 @@
     "ORDER_CAR_MODEL_LABEL": "Car",
     "ORDER_EXTRAS_TITLE": "Extras",
     "ORDER_EXTRAS_CONTENT": "Extras included for this order.",
-    "ORDER_CUSTOMER_CONTENT": "Customer verification details.",
+    "ORDER_CUSTOMER_CONTENT": "The main driver and additional driver details.",
     "ORDER_DOCUMENTS_CONTENT": "Receipts, condition reports and insurance documents for the order.",
     "ORDER_EXTRAS_NO_ADDED": "No extra added",
     "ORDER_LIST_NOT_FOUND_MESSAGE": "Orders will appear here once you have created them.",
@@ -362,5 +362,13 @@
     "REDUCE_EXCESS_NOT_POSSIBLE": "Something went wrong",
     "REDUCE_EXCESS_NOT_POSSIBLE_CONTENT": "Please try again. If the issue continues, please contact customer support.",
     "PAY_NOW": "Pay now",
-    "MIN_DELIVERY_TIME_CONTENT": "Unfortunately, the selected delivery time does not meet our minimum delivery time. Please go back and select another time."
+    "MIN_DELIVERY_TIME_CONTENT": "Unfortunately, the selected delivery time does not meet our minimum delivery time. Please go back and select another time.",
+    "INSURANCE": "Insurance",
+    "INSURANCE_DESC": "The insurance policy and excess waiver.",
+    "PAYMENT_DESC": "The card details and total cost.",
+    "PAYMENT": "Payment",
+    "ACTIONS_DESC": "Duplicate or cancel the booking.",
+    "ACTIONS": "Actions",
+    "PROMO_APPLIED": "Promo applied",
+    "CREDIT_APPLIED": "Credit applied"
 }
