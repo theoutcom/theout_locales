@@ -386,5 +386,8 @@
     "ORDER_POPUP_EXCESS_INSURANCE_CONTENT_2": "Provided by <u><a>{{partnership}}<\/a><\/u>",
     "ORDER_POPUP_EXCESS_INSURANCE_PARTNERSHIP": "Riverside Underwriting",
     "ORDER_POPUP_EXCESS_INSURANCE_TERMS_AND_CONDITION_LABEL": "Terms & Conditions",
-    "ORDER_POPUP_EXCESS_INSURANCE_INSURANCE_DOCUMENT_LABEL": "Insurance Product Information Document"
+    "ORDER_POPUP_EXCESS_INSURANCE_INSURANCE_DOCUMENT_LABEL": "Insurance Product Information Document",
+    "CANCEL_BOOKING": "Cancel booking",
+    "CANCEL_BOOKING_MESSAGE_WITH_FEE": "As the booking starts in {{time}} hours, if you cancel now you'll need to pay a {{currency_unit}}{{fee}} fee, which we'll charge to the payment method below.",
+    "CANCEL_BOOKING_MESSAGE": "If you cancel well refund the cost to the payment method below."
 }
