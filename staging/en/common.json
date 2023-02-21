@@ -382,7 +382,7 @@
     "ORDER_POPUP_DEPOSIT_CONTENT_2": "When we collect the car and confirm the condition is as delivered, the deposit is released in full. If there’s new damage when the car is returned, this will be communicated clearly to you, and the fair market-rate cost for repairing the car will be passed on to you, up to a maximum of £{{deposit}}*. There are no administration or additional fees.",
     "ORDER_POPUP_DEPOSIT_SUBCONTENT": "This amount is reduced if you opt for excess insurance.",
     "ORDER_POPUP_EXCESS_INSURANCE_TITLE": "Excess insurance",
-    "ORDER_POPUP_EXCESS_INSURANCE_CONTENT_1": "Every rental comes with our standard insurance. You can also add our excess waiver which covers your cost if you need to make a claim. T&Cs apply.",
+    "ORDER_POPUP_EXCESS_INSURANCE_CONTENT_1": "Every rental comes with our standard insurance. You can also add our excess insurance which covers your cost if you need to make a claim. T&Cs apply.",
     "ORDER_POPUP_EXCESS_INSURANCE_CONTENT_2": "Provided by <u><a>{{partnership}}<\/a><\/u>",
     "ORDER_POPUP_EXCESS_INSURANCE_PARTNERSHIP": "Riverside Underwriting",
     "ORDER_POPUP_EXCESS_INSURANCE_TERMS_AND_CONDITION_LABEL": "Terms & Conditions",
