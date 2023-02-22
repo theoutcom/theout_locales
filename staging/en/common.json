@@ -399,5 +399,7 @@
     "EXISTING_ORDER_SUCCESS_UPDATED_TITLE_PAYMENT_DIALOG": "Payment successful",
     "TOTAL_TO_REFUND": "Total to refund",
     "AMOUNT_PAID": "Amount paid",
-    "BOOKING_UPDATED": "Booking updated"
+    "BOOKING_UPDATED": "Booking updated",
+    "RENTAL_PERIOD_LABEL": "Rental Period",
+    "BUTTON_SAVE": "Save"
 }
