@@ -389,5 +389,15 @@
     "ORDER_POPUP_EXCESS_INSURANCE_INSURANCE_DOCUMENT_LABEL": "Insurance Product Information Document",
     "CANCEL_BOOKING": "Cancel booking",
     "CANCEL_BOOKING_MESSAGE_WITH_FEE": "As the booking starts in {{time}} hours, if you cancel now you'll need to pay a {{currency_unit}}{{fee}} fee, which we'll charge to the payment method below.",
-    "CANCEL_BOOKING_MESSAGE": "If you cancel well refund the cost to the payment method below."
+    "CANCEL_BOOKING_MESSAGE": "If you cancel well refund the cost to the payment method below.",
+    "EXISTING_ORDER_GO_TO_CHECKOUT": "Go to Checkout",
+    "EXISTING_ORDER_PAYMENT_CHECKOUT_NOTI": "A payment of <strong>{{value}}<\/strong> is needed",
+    "EXISTING_ORDER_REFUND_CHECKOUT_NOTI": "A refund of <strong>{{value}}<\/strong> is due",
+    "EXISTING_ORDER_UNSAVED_CHECKOUT_NOTI": "You have unsaved changes",
+    "EXISTING_ORDER_SUCCESS_UPDATED_DESC_DIALOG": "We’ll send an email confirmation to your customer with the updated booking details.",
+    "EXISTING_ORDER_SUCCESS_UPDATED_TITLE_REFUND_DIALOG": "Refund successful",
+    "EXISTING_ORDER_SUCCESS_UPDATED_TITLE_PAYMENT_DIALOG": "Payment successful",
+    "TOTAL_TO_REFUND": "Total to refund",
+    "AMOUNT_PAID": "Amount paid",
+    "BOOKING_UPDATED": "Booking updated"
 }
