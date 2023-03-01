@@ -214,7 +214,7 @@
     "CONDITION_REPORTS_LABEL": "Condition reports",
     "SEARCH_ID": "Search ID...",
     "NO_UPCOMING_ORDERS_CONTENT": "This customer does not have any orders that are upcoming or in-progress.",
-    "INVITE_KYC_EXPIRED_TIME": "This link expires in 6 hours",
+    "INVITE_KYC_EXPIRED_TIME": "This link expires in 48 hours",
     "KYC_LINK_EXPIRED": "This link has expired -",
     "THIS_LINK_EXPIRES_IN": "This link expires in",
     "HOURS_AND": "hours and",
