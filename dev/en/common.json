@@ -278,7 +278,7 @@
     "COLLECTION_ADDRESS": "Collection address",
     "LABEL_CHECKBOX_DELIVERY_ADDRESS": "Use for collection address also",
     "LABEL_CHECKBOX_COLLECTION_ADDRESS": "Use for delivery address also",
-    "ERROR_MESSAGE_NOT_FOUND_ADDRESS": "We haven't reached your area yet, but we're expanding!",
+    "ERROR_MESSAGE_NOT_FOUND_ADDRESS": "Unfortunately we can’t deliver or collect at this address yet:",
     "ERROR_MESSAGE_NOT_FOUND_SEARCH_ADDRESS": "No addresses found for {{value}}. Please check the address and try again.",
     "FEE_BOTH_DELIVERY_COLLECTION_ADDRESS": "There will be an additional fee of <strong>£{{value}}<\/strong> as both addresses are outside of our free delivery and collection zone.",
     "FEE_DELIVERY_ADDRESS": "There will be an additional fee of <strong>£{{value}}<\/strong> as the delivery address is outside of our free delivery zone.",
