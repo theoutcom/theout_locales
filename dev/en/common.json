@@ -401,5 +401,6 @@
     "AMOUNT_PAID": "Amount paid",
     "BOOKING_UPDATED": "Booking updated",
     "RENTAL_PERIOD_LABEL": "Rental period",
-    "BUTTON_SAVE": "Save"
+    "BUTTON_SAVE": "Save",
+    "ERROR_MESSAGE_NOT_FOUND_ADDRESS_MODAL": "We haven't reached your area yet, but we're expanding!"
 }
