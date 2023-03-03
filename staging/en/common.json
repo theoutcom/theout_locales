@@ -255,7 +255,7 @@
     "USER_LOGGED_OUT": "You have been logged out. Please log in again if want to continue.",
     "CUSTOMER_LIST_NAME": "Name",
     "CREATE_ORDER": "Create order",
-    "SELECT_A_CUSTOMER_HEADER": "Select a customer",
+    "SELECT_A_CUSTOMER_HEADER": "Choose a customer",
     "ACCOUNT_MANAGER": "Account manager",
     "CHANGE_ACCOUNT_MANAGER_LABEL": "Change account manager",
     "SEARCH": "Search",
@@ -278,7 +278,7 @@
     "COLLECTION_ADDRESS": "Collection address",
     "LABEL_CHECKBOX_DELIVERY_ADDRESS": "Use for collection address also",
     "LABEL_CHECKBOX_COLLECTION_ADDRESS": "Use for delivery address also",
-    "ERROR_MESSAGE_NOT_FOUND_ADDRESS": "We haven't reached your area yet, but we're expanding!",
+    "ERROR_MESSAGE_NOT_FOUND_ADDRESS": "Unfortunately we can’t deliver or collect at this address yet:",
     "ERROR_MESSAGE_NOT_FOUND_SEARCH_ADDRESS": "No addresses found for {{value}}. Please check the address and try again.",
     "FEE_BOTH_DELIVERY_COLLECTION_ADDRESS": "There will be an additional fee of <strong>£{{value}}<\/strong> as both addresses are outside of our free delivery and collection zone.",
     "FEE_DELIVERY_ADDRESS": "There will be an additional fee of <strong>£{{value}}<\/strong> as the delivery address is outside of our free delivery zone.",
@@ -401,5 +401,6 @@
     "AMOUNT_PAID": "Amount paid",
     "BOOKING_UPDATED": "Booking updated",
     "RENTAL_PERIOD_LABEL": "Rental period",
-    "BUTTON_SAVE": "Save"
+    "BUTTON_SAVE": "Save",
+    "ERROR_MESSAGE_NOT_FOUND_ADDRESS_MODAL": "We haven't reached your area yet, but we're expanding!"
 }
