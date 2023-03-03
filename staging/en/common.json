@@ -402,5 +402,9 @@
     "BOOKING_UPDATED": "Booking updated",
     "RENTAL_PERIOD_LABEL": "Rental period",
     "BUTTON_SAVE": "Save",
-    "ERROR_MESSAGE_NOT_FOUND_ADDRESS_MODAL": "We haven't reached your area yet, but we're expanding!"
+    "ERROR_MESSAGE_NOT_FOUND_ADDRESS_MODAL": "We haven't reached your area yet, but we're expanding!",
+    "ALERT_UNCHANGE_TITLE": "Unsaved changes",
+    "ALERT_UNCHANGE_DESCRIPTION": "Are you sure you want to leave this page? Any changes you have made will not be saved.",
+    "ALERT_UNCHANGE_CLOSE_BUTTON": "Stay on this page",
+    "ALERT_UNCHANGE_SAVE_BUTTON": "Leave this page"
 }
