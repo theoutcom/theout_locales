@@ -18,7 +18,7 @@
     "CREATE_ACCOUNT": "Create account",
     "EMAIL_ADDRESS": "Email address",
     "PASSWORD": "Password",
-    "PASSWORD_CHECK_POLICY_TEXT": "10 or more characters\nMix of upper & lowercase letters\nAt least one number and one symbol (@#+)",
+    "PASSWORD_CHECK_POLICY_TEXT": "10 or more characters\nMix of upper & lowercase letters\nAt least one number and one symbol",
     "KEEP_ME_UPDATED_NEW": "Keep me updated with news & offers",
     "ACCEPT_TERM_AND_POLICY": "I accept the <link1>Terms<\/link1> & <link2>Privacy Policy<\/link2>",
     "VERIFY_YOUR_PHONE_NUMBER": "Verify your phone number",
@@ -118,5 +118,6 @@
     "PARTNER_NCCGROUP": "In partnership with NCC Group",
     "PARTNER_MCKINLAYKIDD": "In partnership with McKinlay Kidd",
     "PARTNER_GOLDENTICKETLONDON": "In partnership with Golden Ticket",
-    "PARTNER_MUSKANTRAVELS": "In partnership with Muskan Travels"
+    "PARTNER_MUSKANTRAVELS": "In partnership with Muskan Travels",
+    "PARTNER_ROSEWOODHOTELS": "In partnership with Rosewood London"
 }
