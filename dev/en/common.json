@@ -411,5 +411,17 @@
     "EMPTY_CARS_MESSAGE": "Add a delivery and collection address to see available cars in the area.",
     "MAKE_SECURE_PAYMENT": "Make secure payment",
     "REFUND_NOW": "Refund now",
-    "BUTTON_OK": "OK"
+    "BUTTON_OK": "OK",
+    "USER_NOT_FOUND_CANCLE_ORDER_TITLE": "Something went wrong",
+    "USER_NOT_FOUND_CANCLE_ORDER_BODY": "Customer not found",
+    "ORDER_NOT_FOUND_CANCLE_ORDER_TITLE": "Something went wrong",
+    "ORDER_NOT_FOUND_CANCLE_ORDER_BODY": "Order not found",
+    "ORDER_IS_ACTIVE_CANCLE_ORDER_TITLE": "Cannot cancel booking",
+    "ORDER_IS_ACTIVE_CANCLE_ORDER_BODY": "Booking is in progress",
+    "ORDER_IS_EXPIRED_CANCLE_ORDER_TITLE": "Cannot cancel booking",
+    "ORDER_IS_EXPIRED_CANCLE_ORDER_BODY": "Booking is completed",
+    "ORDER_CANCELLED_CANCLE_ORDER_TITLE": "Booking cancelled",
+    "ORDER_CANCELLED_CANCLE_ORDER_BODY": "Booking is already been cancelled.",
+    "DEPOSIT_CAPTURED_CANCLE_ORDER_TITLE": "Cannot cancel booking",
+    "DEPOSIT_CAPTURED_CANCLE_ORDER_BODY": "Booking has been captured deposit"
 }
