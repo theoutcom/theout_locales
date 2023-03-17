@@ -423,5 +423,9 @@
     "ORDER_CANCELLED_CANCLE_ORDER_TITLE": "Booking cancelled",
     "ORDER_CANCELLED_CANCLE_ORDER_BODY": "Booking is already been cancelled.",
     "DEPOSIT_CAPTURED_CANCLE_ORDER_TITLE": "Cannot cancel booking",
-    "DEPOSIT_CAPTURED_CANCLE_ORDER_BODY": "Booking has been captured deposit"
+    "DEPOSIT_CAPTURED_CANCLE_ORDER_BODY": "Booking has been captured deposit",
+    "FIREBASE_UPDATE_CUSTOMER_EXCEPTIONS": "Invalid email address or phone number. Please check and try again.",
+    "AUTHENTICATION_FAILED_TITLE": "Authentication failed",
+    "AUTHENTICATION_FAILED_BODY": "We couldn't authenticate the payment for this order. Please try again or contact the card issuer.",
+    "TRY_AGAIN": "Try again"
 }
