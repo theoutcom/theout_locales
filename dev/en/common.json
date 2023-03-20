@@ -429,5 +429,7 @@
     "AUTHENTICATION_FAILED_BODY": "We couldn't authenticate the payment for this order. Please try again or contact the card issuer.",
     "TRY_AGAIN": "Try again",
     "AUTHENTICATION_SCA_CONTENT": "A payment for this order requires authentication",
-    "AUTHENTICATION_SCA_BUTTON": "Authenticate payment"
+    "AUTHENTICATION_SCA_BUTTON": "Authenticate payment",
+    "AUTHENTICATION_SUCCESS_TITLE": "Payment authenticated",
+    "AUTHENTICATION_SUCCESS_BODY": "We've successfully authenticated the payment for this order using the card ending {{number}}."
 }
