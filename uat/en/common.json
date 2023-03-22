@@ -316,7 +316,7 @@
     "CREATE_ORDER_INSURANCE_STANDARD_EXCESS_DESC": "Reduce liability to £{{value}} in case of damage",
     "ADDRESS_ITEM_RECENT_LOCATION": "Recent locations",
     "CREATE_ORDER_ERROR_TITLE": "We're sorry you're unable to complete this booking",
-    "CREATE_ORDER_ERROR_NOT_VERIFIED_MESSAGE": "Your customer has not verified their identity yet. We cannot complete bookings for unverified customers if the delivery time is within 36 hours.",
+    "CREATE_ORDER_ERROR_NOT_VERIFIED_MESSAGE": "We are unable to process this booking as your customer has not verified their identity yet. We cannot complete bookings for unverified customers if the delivery time is within 36 hours. Please contact our customer service team if required.",
     "CREATE_ORDER_EXTRAS_DOG_BOOT_SEPARATOR": "Dog boot separator",
     "CONFIRM_CHECKOUT_LABEL": "I have consent to place orders for <name>{{name}}<\/name>",
     "ORDER_KYC_WARNING_TITLE": "This customer must verify their identity",
@@ -337,9 +337,9 @@
     "TOTAL_TO_PAY": "Total to pay",
     "DELIVERY_FEE": "Delivery fee",
     "CAR_NOT_AVAILABLE": "We're sorry your car is no longer available",
-    "CAR_NOT_AVAILABLE_CONTENT": "Unfortunately your car is no longer available to book. Try changing your dates to see when it's available, or choose a different car.",
+    "CAR_NOT_AVAILABLE_CONTENT": "Unfortunately your selected car is no longer available on your chosen dates. Try changing your dates to see when it's available.",
     "CAR_NOT_FOUND": "We're sorry your car is no longer available",
-    "CAR_NOT_FOUND_CONTENT": "Unfortunately your car is no longer available to book. Try changing your dates to see when it's available, or choose a different car.",
+    "CAR_NOT_FOUND_CONTENT": "Unfortunately your selected car is no longer available on your chosen dates. Try changing your dates to see when it's available.",
     "EXPIRING_LICENCE": "Customer do not meet our Insurance requirements",
     "EXPIRING_LICENCE_CONTENT": "Customer driving licence has expired",
     "ISSUEING_NOT_ALLOW": "Customer do not meet our Insurance requirements",
@@ -427,5 +427,10 @@
     "FIREBASE_UPDATE_CUSTOMER_EXCEPTIONS": "Invalid email address or phone number. Please check and try again.",
     "AUTHENTICATION_FAILED_TITLE": "Authentication failed",
     "AUTHENTICATION_FAILED_BODY": "We couldn't authenticate the payment for this order. Please try again or contact the card issuer.",
-    "TRY_AGAIN": "Try again"
+    "TRY_AGAIN": "Try again",
+    "AUTHENTICATION_SCA_CONTENT": "A payment of {{price}} for this order requires authentication",
+    "AUTHENTICATION_SCA_BUTTON": "Authenticate payment",
+    "AUTHENTICATION_SUCCESS_TITLE": "Payment authenticated",
+    "AUTHENTICATION_SUCCESS_BODY": "We've successfully authenticated the payment for this order using the card ending {{number}}.",
+    "USER_NOT_VERIFIED": "Unverified customer"
 }
