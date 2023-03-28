@@ -432,5 +432,6 @@
     "AUTHENTICATION_SCA_BUTTON": "Authenticate payment",
     "AUTHENTICATION_SUCCESS_TITLE": "Payment authenticated",
     "AUTHENTICATION_SUCCESS_BODY": "We've successfully authenticated the payment for this order using the card ending {{number}}.",
-    "USER_NOT_VERIFIED": "Unverified customer"
+    "USER_NOT_VERIFIED": "Unverified customer",
+    "CHECKOUT": "Checkout"
 }
