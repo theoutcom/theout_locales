@@ -133,5 +133,7 @@
     "SAVE_PAYMENT_METHOD": "save payment method",
     "PAYMENT_METHOD_SAVED": "payment method saved",
     "NO_PAYMENT": "Payment methods will appear here once you add them.",
-    "PAYMENT_METHOD_SUBTITLE": "Before bookings can be placed on your behalf, we require that a payment method is added to your account. Payment methods can be added using the option below or through your account manager.\nThis card will be used for any costs associated with your rentals and for security deposits. Deposits are fully refundable if there is no new damage to vehicles on collection."
+    "PAYMENT_METHOD_SUBTITLE": "Before bookings can be placed on your behalf, we require that a payment method is added to your account. Payment methods can be added using the option below or through your account manager.\nThis card will be used for any costs associated with your rentals and for security deposits. Deposits are fully refundable if there is no new damage to vehicles on collection.",
+    "PAYMENT_METHOD_SUBTITLE_1": "Before bookings can be placed on your behalf, we require that a payment method is added to your account. Payment methods can be added using the option below or through your account manager.",
+    "PAYMENT_METHOD_SUBTITLE_2": "This card will be used for any costs associated with your rentals and for security deposits. Deposits are fully refundable if there is no new damage to vehicles on collection."
 }
