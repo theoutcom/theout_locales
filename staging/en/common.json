@@ -135,5 +135,13 @@
     "NO_PAYMENT": "Payment methods will appear here once you add them.",
     "PAYMENT_METHOD_SUBTITLE": "Before bookings can be placed on your behalf, we require that a payment method is added to your account. Payment methods can be added using the option below or through your account manager.\nThis card will be used for any costs associated with your rentals and for security deposits. Deposits are fully refundable if there is no new damage to vehicles on collection.",
     "PAYMENT_METHOD_SUBTITLE_1": "Before bookings can be placed on your behalf, we require that a payment method is added to your account. Payment methods can be added using the option below or through your account manager.",
-    "PAYMENT_METHOD_SUBTITLE_2": "This card will be used for any costs associated with your rentals and for security deposits. Deposits are fully refundable if there is no new damage to vehicles on collection."
+    "PAYMENT_METHOD_SUBTITLE_2": "This card will be used for any costs associated with your rentals and for security deposits. Deposits are fully refundable if there is no new damage to vehicles on collection.",
+    "PARTNER_THEKENSINGTON": "In partnership with The Kensington",
+    "PARTNER_VRSH": "In partnership with VRSH Ltd",
+    "SOMETHING_WENT_WRONG_CONTENT_FOR_STRIPE": "Please try again. If the issue continues, please <strong>contact customer support<\/strong>",
+    "CARD_DECLINED_TITLE": "card declined",
+    "CARD_DECLINED_CONTENT": "The card used was declined, please try again",
+    "SOMETHING_WENT_WRONG_TITLE_FOR_STRIPE": "Something went wrong",
+    "PAYMENT_POSTCODE_CONTENT": "The zip code you supplied failed validation.",
+    "PAYMENT_POSTCODE_TITLE": "card declined"
 }
