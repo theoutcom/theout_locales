@@ -125,7 +125,7 @@
     "PAYMENT_METHOD": "Payment method",
     "ADD_PAYMENT_METHOD": "Add payment method",
     "REMOVE_PAYMENT_METHOD": "remove payment method",
-    "REMOVE_PAYMENT_METHOD_CONTENT": "Are you sure you want to remove the payment method below? It cannot be undone.",
+    "REMOVE_PAYMENT_METHOD_CONTENT": "Are you sure you want to remove this payment method? It cannot be undone.",
     "PAYMENT_METHOD_REMOVED": "payment method removed",
     "STILL_HAVE_ORDER_IN_PROCESS_TITLE": "this payment method is still required",
     "STILL_HAVE_ORDER_IN_PROCESS_CONTENT": "We need to keep this payment method on file until your booking is complete.",
