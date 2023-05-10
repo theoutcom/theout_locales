@@ -433,5 +433,7 @@
     "AUTHENTICATION_SUCCESS_TITLE": "Payment authenticated",
     "AUTHENTICATION_SUCCESS_BODY": "We've successfully authenticated the payment for this order using the card ending {{number}}.",
     "USER_NOT_VERIFIED": "Unverified customer",
-    "CHECKOUT": "Checkout"
+    "CHECKOUT": "Checkout",
+    "CHOOSE_A_CUSTOMER": "Choose a customer",
+    "SKIP": "Skip"
 }
