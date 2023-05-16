@@ -345,7 +345,7 @@
     "ISSUEING_NOT_ALLOW": "Customer does not meet our Insurance requirements",
     "ISSUEING_NOT_ALLOW_CONTENT": "Unfortunately, your customer does not meet our criteria for driving this car. Please see <strong><u>How do we verify customer licence and identity?<\/u><\/strong> for more information.",
     "AGE_NOT_ALLOW": "Customer does not meet our Insurance requirements",
-    "AGE_NOT_ALLOW_CONTENT": "Unfortunately, your customer does not meet our criteria for driving this car. Please see <strong><u>How do we verify customer licence and identity?<\/u><\/strong> for more information.",
+    "AGE_NOT_ALLOW_CONTENT": "Unfortunately, customer do not meet our criteria for driving this car. <strong href='https:\/\/theout.zendesk.com\/hc\/en-gb\/articles\/9924342200733-Who-is-eligible-to-rent' target='_blank' rel='noreferrer'><u>Please see How do we verify customer licence and identity?<\/u><\/strong> for more information.\"",
     "MIN_BOOKING_TIME": "Rental does not meet minimum duration",
     "MIN_BOOKING_TIME_CONTENT": "The booking duration must be at least 3 hours. Please extend the collection date or time to continue.",
     "MIN_DELIVERY_TIME": "Time of delivery not possible",
