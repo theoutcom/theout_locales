@@ -148,5 +148,10 @@
     "PARTNER_REDSAVANNAH": "In partnership with Red Savannah",
     "PARTNER_THESAVOY": "In partnership with The Savoy",
     "PARTNER_GUMBALL3000": "In partnership with Gumball 3000",
-    "PARTNER_THEBLOOMSBURY": "In partnership with The Bloomsbury"
+    "PARTNER_THEBLOOMSBURY": "In partnership with The Bloomsbury",
+    "NOT_ELIGIBLE_TO_DRIVE_TITLE": "SORRY, YOU ARE NOT ELIGIBLE TO DRIVE",
+    "NOT_ELIGIBLE_TO_DRIVE_MESSAGE": "You do not meet the necessary insurance requirements to drive this car with THE OUT. For more information on how we verify customer licenses and identities, please see <a>{link}<\/a>.",
+    "NOT_ELIGIBLE_TO_DRIVE_POLICY": "https:\/\/theout.zendesk.com\/hc\/en-gb\/articles\/9927821737629-How-do-we-verify-your-licence-and-identity",
+    "SOMETHING_WENT_WRONG_TITLE": "SOMETHING WENT WRONG",
+    "SOMETHING_WENT_WRONG_MESSAGE": "Please try again. If the issue continues, please contact customer support"
 }
