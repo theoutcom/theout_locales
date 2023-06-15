@@ -435,5 +435,8 @@
     "USER_NOT_VERIFIED": "Unverified customer",
     "CHECKOUT": "Checkout",
     "CHOOSE_A_CUSTOMER": "Choose a customer",
-    "SKIP": "Skip"
+    "SKIP": "Skip",
+    "CARS": "Cars",
+    "NET_PRICE": "Net price",
+    "NET_PRICE_CONTENT": "The net price will include the delivery & collection fee outside free zone and minus the discount value (if applied)"
 }
