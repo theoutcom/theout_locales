@@ -438,5 +438,5 @@
     "SKIP": "Skip",
     "CARS": "Cars",
     "NET_PRICE": "Net price",
-    "NET_PRICE_CONTENT": "The net price will include the delivery & collection fee outside free zone and minus the discount value (if applied)"
+    "NET_PRICE_CONTENT": "This is the total price to be paid by the customer. It is inclusive of any delivery or collection fees, as well as any applicable partner discount. Any extras such as excess insurance may incur additional charges."
 }
