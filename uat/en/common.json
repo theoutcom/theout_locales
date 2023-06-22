@@ -132,7 +132,7 @@
     "CUSTOMER_KYC_CONTENT": "Customers must pass identity verification before they can rent a car.",
     "CUSTOMER_KYC_TITLE": "KYC",
     "CUSTOMER_LIST_BUTTON_ADD_LABEL": "Add",
-    "CUSTOMER_LIST_BUTTON_LABEL": "Add customer",
+    "CUSTOMER_LIST_BUTTON_LABEL": "New Customer",
     "CUSTOMER_LIST_CREATED_DATE": "Created date",
     "CUSTOMER_LIST_EMAIL_ADDRESS": "Email address",
     "CUSTOMER_LIST_FIRST_NAME": "First name",
