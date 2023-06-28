@@ -132,7 +132,7 @@
     "CUSTOMER_KYC_CONTENT": "Customers must pass identity verification before they can rent a car.",
     "CUSTOMER_KYC_TITLE": "KYC",
     "CUSTOMER_LIST_BUTTON_ADD_LABEL": "Add",
-    "CUSTOMER_LIST_BUTTON_LABEL": "Add customer",
+    "CUSTOMER_LIST_BUTTON_LABEL": "New Customer",
     "CUSTOMER_LIST_CREATED_DATE": "Created date",
     "CUSTOMER_LIST_EMAIL_ADDRESS": "Email address",
     "CUSTOMER_LIST_FIRST_NAME": "First name",
@@ -254,7 +254,7 @@
     "INVALID_VERIFY_PASSWORD": "Password is invalid",
     "USER_LOGGED_OUT": "You have been logged out. Please log in again if want to continue.",
     "CUSTOMER_LIST_NAME": "Customer name",
-    "CREATE_ORDER": "New booking",
+    "CREATE_ORDER": "New Booking",
     "SELECT_A_CUSTOMER_HEADER": "Choose a customer",
     "ACCOUNT_MANAGER": "Account manager",
     "CHANGE_ACCOUNT_MANAGER_LABEL": "Change account manager",
@@ -435,5 +435,8 @@
     "USER_NOT_VERIFIED": "Unverified customer",
     "CHECKOUT": "Checkout",
     "CHOOSE_A_CUSTOMER": "Choose a customer",
-    "SKIP": "Skip"
+    "SKIP": "Skip",
+    "CARS": "Cars",
+    "NET_PRICE": "Net price",
+    "NET_PRICE_CONTENT": "This is the total price to be paid by the customer. It is inclusive of any delivery or collection fees, as well as any applicable partner discount. Any extras such as excess insurance may incur additional charges."
 }
