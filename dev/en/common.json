@@ -1764,5 +1764,7 @@
     "WAIVER_MODAL_UPDATE": "INSURANCE\nEvery rental comes with our standard insurance. Add our excess insurance to cover the cost if you need to make a claim. T&Cs apply.\nStandard Insurance\nIncluded\nComes with a {deposit} damage excess\nInsurance in partnership with Flock\nExcess Waiver\nReduce your damage excess to {price}\nProvided by Riverside Underwriting\nTerms & Conditions\nSAVE CHANGES",
     "WAIVER_BODY_TEXT": "Every rental comes with our standard insurance. You can also add our excess waiver which covers your cost if you need to make a claim. T&Cs apply.",
     "FOOTER_PRESS": "PRESS",
-    "_BOOKINGWIDGET_DELIVERY_TITLE_TRIP_PAGE": "delivery address"
+    "_BOOKINGWIDGET_DELIVERY_TITLE_TRIP_PAGE": "delivery address",
+    "INCLUSIVE_PRICING": "INCLUSIVE PRICING\nExperience a seamless and stress-free booking with our all-inclusive displayed price. This includes any fees for delivery and collection from Central London, our daily rental charge, as well as our standard extras such as additional drivers and unlimited mileage.",
+    "INCLUSIVE_PRICING_MODAL": "INCLUSIVE PRICING\nAll bookings include delivery, collection, fees & standard extras.\nLearn more"
 }
