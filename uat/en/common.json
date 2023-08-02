@@ -1766,5 +1766,6 @@
     "FOOTER_PRESS": "PRESS",
     "_BOOKINGWIDGET_DELIVERY_TITLE_TRIP_PAGE": "delivery address",
     "INCLUSIVE_PRICING_MODAL": "INCLUSIVE PRICING\nExperience a seamless and stress-free booking with our all-inclusive displayed price. This includes any fees for delivery and collection from Central London, our daily rental charge, as well as our standard extras such as additional drivers and unlimited mileage.",
-    "INCLUSIVE_PRICING": "INCLUSIVE PRICING\nAll bookings include delivery, collection, fees & standard extras.\nLearn more"
+    "INCLUSIVE_PRICING": "INCLUSIVE PRICING\nAll bookings include delivery, collection, fees & standard extras.\nLearn more",
+    "VIEW_ACCOUNT": "View Account"
 }
