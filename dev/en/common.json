@@ -58,7 +58,7 @@
     "ADD_CUSTOMER_LAST_NAME_FIELD_LABEL": "Main Driver Last Name",
     "ADD_CUSTOMER_PHONE_NUMBER_FIELD_LABEL": "Main Driver Phone Number",
     "ADD_CUSTOMER_PASSWORD_FIELD_LABEL": "Password",
-    "ADD_CUSTOMER_EMAIL_FIELD_LABEL": "Send to...",
+    "ADD_CUSTOMER_EMAIL_FIELD_LABEL": "Customer’s email address",
     "ADD_CUSTOMER_NAME_ON_CARD": "Name on card",
     "ADD_CUSTOMER_CARD_NUMBER": "Card number",
     "ADD_CUSTOMER_BUTTON_SAVE": "Save",
