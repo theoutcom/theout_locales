@@ -51,7 +51,7 @@
     "ADD_CUSTOMER_ACOUNT_TITLE": "Account",
     "ADD_CUSTOMER_ACCOUNT_CONTENT": "Customers must have an account with THE OUT before they can rent a car.",
     "ADD_CUSTOMER_NOTIFICATIONS_TITLE": "Email communication",
-    "ADD_CUSTOMER_NOTIFICATIONS_CONTENT": "Enter your customer's email address. This is where we will send all notifications and invoices related to this customer's orders.\\n\nThis email address must be unique and not associated with any other customer account.",
+    "ADD_CUSTOMER_NOTIFICATIONS_CONTENT": "Enter your customer's email address. This is where we will send all notifications and invoices related to this customer's orders.\nThis email address must be unique and not associated with any other customer account.",
     "ADD_CUSTOMER_BILLING_TITLE": "Billing (optional)",
     "ADD_CUSTOMER_BILLING_CONTENT": "Customers must have a billing method added before they can rent a car.",
     "ADD_CUSTOMER_FIRST_NAME_FIELD_LABEL": "Main Driver First Name",
