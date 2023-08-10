@@ -438,5 +438,10 @@
     "SKIP": "Skip",
     "CARS": "Cars",
     "NET_PRICE": "Net price",
-    "NET_PRICE_CONTENT": "This is the total price to be paid by the customer. It is inclusive of any delivery or collection fees, as well as any applicable partner discount. Any extras such as excess insurance may incur additional charges."
+    "NET_PRICE_CONTENT": "This is the total price to be paid by the customer. It is inclusive of any delivery or collection fees, as well as any applicable partner discount. Any extras such as excess insurance may incur additional charges.",
+    "ADD_CUSTOMER_EMAIL_GUIDE_FORMAT": "If you would prefer to receive all email communication on your customer's behalf, please enter your own email in the following format:",
+    "ADD_CUSTOMER_EMAIL_GUIDE_FIRST": "your email",
+    "ADD_CUSTOMER_EMAIL_GUIDE_SECOND": "customer name",
+    "ADD_CUSTOMER_EMAIL_GUIDE_DOMAIN": "@company.com",
+    "ADD_CUSTOMER_EMAIL_GUIDE_EXAMPLE": "e.g. joe.bloggs+samsmith@lifestyletravel.com"
 }
