@@ -443,5 +443,5 @@
     "ADD_CUSTOMER_EMAIL_GUIDE_FIRST": "your email",
     "ADD_CUSTOMER_EMAIL_GUIDE_SECOND": "customer name",
     "ADD_CUSTOMER_EMAIL_GUIDE_DOMAIN": "@company.com",
-    "ADD_CUSTOMER_EMAIL_GUIDE_EXAMPLE": "e.g. joe.bloggs+samsmith@lifestyletravel.com"
+    "ADD_CUSTOMER_EMAIL_GUIDE_EXAMPLE": "e.g. joe.bloggs+samsmith@company.com"
 }
