@@ -1769,5 +1769,20 @@
     "INCLUSIVE_PRICING": "INCLUSIVE PRICING\nAll bookings include delivery, collection, fees & standard extras.\nLearn more",
     "VIEW_ACCOUNT": "View Account",
     "HEADER_SIGN_IN": "Sign in",
-    "HEADER_SIGN_UP": "Create an account"
+    "HEADER_SIGN_UP": "Create an account",
+    "SAME_DELIVERY_AND_COLLECTION_TOGGLE": "Same delivery & collection address",
+    "BW_SEARCH_BUTTON": "Search",
+    "BW_LABEL_LOCATION": "Location",
+    "BW_PLACEHOLDER_LOCATION_INPUT": "Airport, station or postcode",
+    "SAME_DELIVERY_TOGGLE": "Same delivery address",
+    "SAME_COLLECTION_TOGGLE": "Same collection address",
+    "BW_RESULT_FOR": "Results for",
+    "STATION": "Station",
+    "AIRPORT": "Airport",
+    "BW_DATETIME_PLACEHOLDER": "Choose a date...",
+    "BW_DATETIME_COLLECTION_TITLE": "Collection time",
+    "BW_DATETIME_DELIVERY_TITLE": "Delivery time",
+    "BW_NOT_FOUND_ADDRESS_DESCRIPTION": "No addresses found. Please check the postcode and try again.",
+    "BW_NOT_FOUND_ADDRESS_BUTTON": "Enter manually",
+    "NOT_IN_SERVICE_AREA_BUTTON": "Change address"
 }
