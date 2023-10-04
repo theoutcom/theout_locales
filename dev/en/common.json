@@ -1784,5 +1784,6 @@
     "BW_DATETIME_DELIVERY_TITLE": "Delivery time",
     "BW_NOT_FOUND_ADDRESS_DESCRIPTION": "No addresses found. Please check the postcode and try again.",
     "BW_NOT_FOUND_ADDRESS_BUTTON": "Enter manually",
-    "NOT_IN_SERVICE_AREA_BUTTON": "Change address"
+    "NOT_IN_SERVICE_AREA_BUTTON": "Change address",
+    "HOMEPAGE_SLOGAN": "Luxury cars.<br \/>Premium service."
 }
