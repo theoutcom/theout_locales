@@ -1251,8 +1251,8 @@
     "AIRPORT_NOTE_ONLY_DELIVERY": "Please note: {deliveryAirportName} deliveries require an extra £{deliveryAirportFee} fee",
     "AIRPORT_NOTE_ONLY_COLLECTION": "Please note: {collectionAirportName} collections require an extra £{collectionAirportFee} fee",
     "DELIVERY_FEE_CONFIRM_BUTTON": "Save address",
-    "NEW_LETTER_SIGNUP_TITLE": "THE OUT IN YOUR INBOX",
-    "NEW_LETTER_SIGNUP_DESCRIPTION": "Sign up for the latest information, fleet updates and road trip inspiration from THE JOURNAL.",
+    "NEW_LETTER_SIGNUP_TITLE": "THE OUT in your inbox",
+    "NEW_LETTER_SIGNUP_DESCRIPTION": "We're not your average car rental. Expect exclusive updates, offers and road trip inspiration as captivating as our cars. Get involved!",
     "NEW_LETTER_SIGNUP_TERMS_CONDITIONS": "BY SIGNING UP TO OUR MARKETING EMAILS, YOU ARE ACCEPTING OUR TERMS AND CONDITIONS AND HAVE READ AND UNDERSTOOD OUR PRIVACY AND COOKIE POLICIES",
     "NEW_LETTER_SIGNUP_CTA": "Sign me up",
     "NEW_LETTER_SIGNUP_FIRST_NAME_LABEL": "First name",
@@ -1785,5 +1785,6 @@
     "BW_NOT_FOUND_ADDRESS_DESCRIPTION": "No addresses found. Please check the postcode and try again.",
     "BW_NOT_FOUND_ADDRESS_BUTTON": "Enter manually",
     "NOT_IN_SERVICE_AREA_BUTTON": "Change address",
-    "HOMEPAGE_SLOGAN": "Luxury cars.<br \/>Premium service."
+    "HOMEPAGE_SLOGAN": "Luxury cars.<br \/>Premium service.",
+    "NEW_LETTER_SIGNUP_SUCCESS": "Thank you. You’re on the mailing list!"
 }
