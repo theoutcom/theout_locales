@@ -1619,7 +1619,7 @@
     "FOOTER_FOLLOW_FB": "Follow Us on Facebook",
     "FOOTER_TRUSTPILOT": "Trustpilot",
     "FOOTER_INSURANCE_PARTNERSHIP": "Insurance in partnership with Flock",
-    "FOOTER_PAYMENT_METHOD": "PAYMENT METHODS ACCEPTED",
+    "FOOTER_PAYMENT_METHOD": "[\n    {\n      name: 'Master Card',\n      image:\n        'https:\/\/images.ctfassets.net\/7tzcd1442qcg\/41MS3gUyi0TykFqaIBl2Fs\/a7f3705b759ee644151607b1a5d35ba2\/Mastercard.svg',\n    },\n    {\n      name: 'Amex',\n      image:\n        'https:\/\/images.ctfassets.net\/7tzcd1442qcg\/4FUdGGW0SGFJNxkTZkltI5\/026c375ca90b976a217f407542fdf1ea\/Amex.svg',\n    },\n\n    {\n      name: 'Visa',\n      image:\n        'https:\/\/images.ctfassets.net\/7tzcd1442qcg\/43i5PYZZsFdmlDdabWHYmg\/721623857b8137ff46100483ac5217f1\/Visa.svg',\n    },\n    {\n      name: 'Apple Pay',\n      image:\n        'https:\/\/images.ctfassets.net\/7tzcd1442qcg\/1N3JLidrcD5EuWPo3Hui1l\/687d241bf8b800bc8ccd2e83b1ad5400\/ApplePay.svg',\n    },\n  ]",
     "ACCEPT_AND_CLOSE": "Accept and close",
     "CAMPAIGN_BANNER_FIND_OUT_MORE": "FIND OUT MORE",
     "PREV_BUTTON": "prev",
