@@ -1820,5 +1820,14 @@
     "COMPANY_ITEM_3_LINK": "\/journal",
     "COMPANY_ITEM_4_LINK": "mailto:marketing@theout.com",
     "COMPANY_ITEM_5_LINK": "mailto:partnerships@theout.com",
-    "EXTRAS_OPTIONAL_ADDITIONAL_DRIVERS": "All additional drivers are required to pass verification checks"
+    "EXTRAS_OPTIONAL_ADDITIONAL_DRIVERS": "All additional drivers are required to pass verification checks",
+    "AD_LINK_COPIED": "LINK COPIED",
+    "AD_TITLE": "ADDITIONAL DRIVERS",
+    "AD_DESCRIPTION": "Share the link below with any additional drivers you want to add to your rental. They will be asked to verify their identity.",
+    "AD_DRIVER_LINK": "ADDITIONAL DRIVER LINK",
+    "AD_BUTTON_NAME": "COPY LINK",
+    "REFER_LINK_COPIED": "CODE COPIED",
+    "REFER_MODAL_TITLE": "REFER A FRIEND",
+    "REFER_DESCRIPTION": "Share your code with anyone to give them £50 off their first booking. When they complete their booking, you'll receive £50 in credit.",
+    "REFER_LINK": "REFERRAL CODE"
 }
