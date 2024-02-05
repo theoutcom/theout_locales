@@ -1,5 +1,5 @@
 {
-    "HOMEPAGE_WELCOME_TEXT": "Welcome to THE OUT\nIn partnership with THE OUT\nIn partnership with Rentalcars.com",
+    "HOMEPAGE_WELCOME_TEXT": "Welcome to THE OUT\nIn partnership with THE OUT\nIn partnership with Rentalcars.com\nIn partnership with http:\/\/autoeurope.com",
     "HOMEPAGE_TITLE_AD": "You’ve been invited to drive with us",
     "HOMEPAGE_TITLE_CP": "hi <name>{{name}}<\/name>, welcome to the out",
     "HOMEPAGE_TITLE_RC": "thanks for booking with the out",
@@ -158,5 +158,22 @@
     "PARTNER_MAKAI": "In partnership with MAKAI",
     "PARTNER_IMG": "In partnership with IMG",
     "PARTNER_ESTELLEMANOR": "In partnership with Estelle Manor",
-    "PARTNER_SIGNATURE-VOYAGES": "In partnership with Signature Voyages"
+    "PARTNER_SIGNATURE-VOYAGES": "In partnership with Signature Voyages",
+    "PARTNER_THE22": "In partnership with The Twenty Two",
+    "PARTNER_THEOUT": "In partnership with THE OUT",
+    "PARTNER_CHERRYTRAVEL": "In partnership with Cherry Travel",
+    "PARTNER_DALEELTRAVEL": "In partnership with Daleel Travel",
+    "PARTNER_BMOTORS": "In partnership with B Motors",
+    "PARTNER_EMBERLIFESTYLE": "In partnership with Ember Lifestyle",
+    "PARTNER_TTBUK": "In partnership with Tourists Travel Bureau UK LTD",
+    "PARTNER_TRAVELUIS-UK": "In partnership with Traveluis UK",
+    "PARTNER_ANTHONYKINGSLEYTRAVEL": "In partnership with Anthony Kingsley Travel",
+    "PARTNER_CALDER-CO": "In partnership with Calder & Co.",
+    "PARTNER_UPPERCLASSTRAVEL": "In partnership with Upper Class Travel",
+    "PARTNER_INMOTIONVENTURES": "In partnership with InMotion Ventures Limited",
+    "PARTNER_AGBGROUPLIMITED": "In partnership with AGB Group Limited",
+    "PARTNER_RMGPERFORMANCE": "In partnership with RMG Performance LTD",
+    "PARTNER_AGBGROUPLIMITED-2": "In partnership with AGB Group Limited",
+    "AE_CREATE_AN_ACCOUNT_SUBTITLE": "Before we can process your order on <link1>autoeurope.com<\/link1> we need to link your order with an account at THE OUT.",
+    "PARTNER_PRESTIGECARSANDCOURIERS": "In partnership with Prestige Group"
 }
