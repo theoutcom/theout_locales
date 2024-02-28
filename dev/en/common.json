@@ -1841,5 +1841,7 @@
     "EW_TERM1": "Reduce your excess to £0",
     "EW_TERM2": "Reduce your security deposit to £0 (normally {{deposit}})",
     "EW_TERM3": "No liability for damage",
-    "EW_NOTE": "Please read the <link1>Terms and Conditions<\/link1> to ensure it meets your needs."
+    "EW_NOTE": "Please read the <link1>Terms and Conditions<\/link1> to ensure it meets your needs.",
+    "EW_BOOKING_STANDARD": "Comes with a {{deposit}} excess held as a refundable deposit on your card.",
+    "EW_BOOKING_EW": "Reduces your excess to £0, with no deposit required. <link1>T&Cs<\/link1> apply"
 }
