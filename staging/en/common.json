@@ -444,7 +444,7 @@
     "ADD_CUSTOMER_EMAIL_GUIDE_SECOND": "customer name",
     "ADD_CUSTOMER_EMAIL_GUIDE_DOMAIN": "@company.com",
     "ADD_CUSTOMER_EMAIL_GUIDE_EXAMPLE": "e.g. joe.bloggs+samsmith@company.com",
-    "EXCESS_WAIVER": "Excess Waiver",
+    "EXCESS_WAIVER": "Excess waiver",
     "EXCESS_WAIVER_FEE": "£35\/day",
-    "ORDER_POPUP_EXCESS_WAIVER_TITLE": "Excess Waiver"
+    "ORDER_POPUP_EXCESS_WAIVER_TITLE": "Excess waiver"
 }
