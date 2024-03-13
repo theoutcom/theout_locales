@@ -378,7 +378,7 @@
     "ORDER_EXTRAS_BABY_SEAT_FRONT_DESCRIBE": "15 months to 4 years",
     "ORDER_EXTRAS_BOOSTER_SEAT_DESCRIBE": "4–12 years",
     "ORDER_POPUP_DEPOSIT_TITLE": "How deposits work",
-    "ORDER_POPUP_DEPOSIT_CONTENT_1": "We authorise a £{{deposit}} deposit on your payment card 24 hours before the start of your rental, even if you opt for excess insurance. The amount is held on your account for the length of your rental.",
+    "ORDER_POPUP_DEPOSIT_CONTENT_1": "If you opt out for excess waiver, we authorise a £{{deposit}} deposit on your payment card 24 hours before the start of your rental. The amount is held on your account for the length of your rental.",
     "ORDER_POPUP_DEPOSIT_CONTENT_2": "When we collect the car and confirm the condition is as delivered, the deposit is released in full. If there’s new damage when the car is returned, this will be communicated clearly to you, and the fair market-rate cost for repairing the car will be passed on to you, up to a maximum of £{{deposit}}*. There are no administration or additional fees.",
     "ORDER_POPUP_DEPOSIT_SUBCONTENT": "This amount is reduced to £0 if you opt for excess waiver",
     "ORDER_POPUP_EXCESS_INSURANCE_TITLE": "Excess insurance",
