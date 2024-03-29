@@ -1662,8 +1662,8 @@
     "CHOOSE_A_DELIVERY_TIME": "CHOOSE A DELIVERY TIME",
     "ENTER_ADDRESS_MANUALLY": "Enter address manually",
     "_VEHICLE_RENT_CAR": "RENT CAR",
-    "HEADER_ACCOUNT_TITLE": "Rent a Range Rover | THE OUT",
-    "HEADER_TITLE": "Rent a Range Rover | THE OUT",
+    "HEADER_ACCOUNT_TITLE": "Luxury Car Rental - Premium Car Hire | THE OUT",
+    "HEADER_TITLE": "Luxury Car Rental - Premium Car Hire | THE OUT",
     "HEADER_ABOUT_TITLE": "What is THE OUT?",
     "HEADER_BOOKING_SECURE_CHECKOUT": "secure checkout",
     "HEADER_BOOKING_SECURE": "secure",
@@ -1790,7 +1790,7 @@
     "FOOTER_TEXT": "InMotion Ventures 2 Limited is registered in England and Wales company number 10444740. Registered office at Abbey Road, Whitley, Coventry, England, CV3 4LF. Insurance distributed and administered by Lloyd’s Syndicate 4444 who are authorised and regulated by the Financial Conduct Authority. Financial Services Register No. 204847.",
     "DOWNLOAD_APP": "Download the app",
     "DOWNLOAD_DESCRIPTION": "Luxury car rental with THE OUT. Powered by Jaguar Land Rover. Available for iOS.",
-    "HEADER_HOMEPAGE_META_DESCRIPTION": "THE OUT by Jaguar Land Rover delivers luxury car rental in the UK. Delivery & collection to your door with all-inclusive pricing.",
+    "HEADER_HOMEPAGE_META_DESCRIPTION": "THE OUT delivers luxury car rental in the UK with uncompromising service. Delivery & collection to your door with all-inclusive pricing.",
     "HEADER_REFER_META_DESCRIPTION": "THE OUT by Jaguar Land Rover delivers luxury car rental in the UK. Delivery & collection to your door with all-inclusive pricing.",
     "EXPLORE_ITEM_1_TITLE": "London",
     "EXPLORE_ITEM_2_TITLE": "Manchester",
@@ -1845,5 +1845,6 @@
     "EW_BOOKING_STANDARD": "Comes with a {{deposit}} excess held as a refundable deposit on your card.",
     "EW_BOOKING_EW": "Reduces your excess to £0, with no deposit required. <link1>T&Cs apply<\/link1>",
     "EW_EDIT_BOOKING_TITLE": "Standard incl. Excess Waiver",
-    "_EXTRAS_TRAVEL_TO_THE_EU_LOWER": "Travel to the EU "
+    "_EXTRAS_TRAVEL_TO_THE_EU_LOWER": "Travel to the EU ",
+    "PROMOCODE_CAR_PARK_INVALID": "The selected delivery area is not eligible for the promo code."
 }
