@@ -1566,7 +1566,7 @@
     "BOOKING_INSURANCE": "INSURANCE",
     "_BOOKINGWIDGET_AIRPORT_FEE_DELIVERY_2": "This postcode is outside of our free delivery zone. It will require an extra fee of £{{fee}}.",
     "_BOOKINGWIDGET_AIRPORT_FEE_COLLECTION_2": "This postcode is outside of our free collection zone. It will require an extra fee of £{{fee}}.",
-    "ABOUT_TITLE": "the out is car rental \nreimagined.",
+    "ABOUT_TITLE": "THE OUT is car rental \nreimagined.",
     "PASSPORT_ACCOUNT_MESSAGE": "YOUR LICENCE IS NOT RECOGNIZED AS A GB ISSUED LICENCE. PLEASE CONTINUE TO PROCEED TO MANUAL CHECK.",
     "PASSPORT_TITLE_ONFIDO": "4. SUBMIT PASSPORT",
     "LICENSE_INTERNATIONAL_KYC": "WE NEED A FEW MORE THINGS\nAs you don’t have a UK driving licence, we need you to provide some more information before we can verify your identity.\nREQUIRED\nProof of Address\nPassport\nSkip for now\n(You must remember to complete your licence check by {dateBefore24} or your booking will be cancelled.)\n\/images\/multicity\/Icon_Menu_Passport.svg",
