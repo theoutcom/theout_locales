@@ -446,5 +446,14 @@
     "ADD_CUSTOMER_EMAIL_GUIDE_EXAMPLE": "e.g. joe.bloggs+samsmith@company.com",
     "EXCESS_WAIVER": "Excess waiver",
     "EXCESS_WAIVER_FEE": "£35\/day",
-    "ORDER_POPUP_EXCESS_WAIVER_TITLE": "Excess waiver"
+    "ORDER_POPUP_EXCESS_WAIVER_TITLE": "Excess waiver",
+    "YOUR_AGREEMENT_WITH_TO": "Your agreement with THE OUT",
+    "GET_STARTED": "Get started",
+    "COMMISION_PER_BOOKING": "commission per booking",
+    "DISCOUNT_PER_BOOKING": "discount per booking",
+    "TELL_US_ABOUT_COMPANY": "Tell us about your company",
+    "TERM_OF_USE": "Terms of use",
+    "TERM_OF_USE_AGREE": "I agree to the terms of use",
+    "HAVE_WRITTEN_CONSENT": "I have written consent to place orders for customers",
+    "SUBMIT_BUTTON": "Submit"
 }
