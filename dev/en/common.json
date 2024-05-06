@@ -1849,5 +1849,6 @@
     "PROMOCODE_CAR_PARK_INVALID": "The selected delivery area is not eligible for the promo code.",
     "EW_PRICE": "40",
     "CJ_PERIOD_DAY": "30",
-    "EW_BLOCK_CAR_LIST": "NewRangeRover,NewRangeRoverPHEV,RangeRoverAutobiographyPHEV,RangeRoverAutobiography-diesel,RangeRoverSport,RangeRoverSportPHEV,RangeRover7SeatLWB,DefenderPHEV,Defender,Defender90"
+    "EW_BLOCK_CAR_LIST": "NewRangeRover,NewRangeRoverPHEV,RangeRoverAutobiographyPHEV,RangeRoverAutobiography-diesel,RangeRoverSport,RangeRoverSportPHEV,RangeRover7SeatLWB,DefenderPHEV,Defender,Defender90",
+    "EW_BLOCK_TOGGLE": "ENABLE"
 }
