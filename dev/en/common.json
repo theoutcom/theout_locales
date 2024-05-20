@@ -1853,5 +1853,6 @@
     "EW_BLOCK_TOGGLE": "ENABLE",
     "EW_BLOCK_MODAL_SUBTITLE": "Due to increased security measures, Excess Waiver is currently unavailable for this booking. This can be requested via live chat, alternatively proceed with Standard Insurance.",
     "EW_BLOCK_MODAL_TITLE": "EXCESS WAIVER REMOVED",
-    "NUMBER_OF_EXTRAS": "of 7 added"
+    "NUMBER_OF_EXTRAS": "of 7 added",
+    "ERROR_SOMETHING_WENT_WRONG": "Something went wrong. Please try later!"
 }
