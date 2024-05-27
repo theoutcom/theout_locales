@@ -184,5 +184,7 @@
     "PARTNER_ZELOCONCIERGE": "In partnership with The Zelo Concierge",
     "PARTNER_4X4VEHICLEHIRE": "In partnership with 4x4 VEHICLE HIRE UK LIMITED",
     "PARTNER_DPRESTIGEHIRE": "In partnership with D Prestige Hire",
-    "PARTNER_4DVRENTALS": "In partnership with 4DV Rentals"
+    "PARTNER_4DVRENTALS": "In partnership with 4DV Rentals",
+    "ERROR_MESSAGE_SOMETHING_WENT_WRONG": "Something went wrong. Please try later!",
+    "PRETIUMMANAGEMENT": "In partnership with Pretium Management LTD"
 }
