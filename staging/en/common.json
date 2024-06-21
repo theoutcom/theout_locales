@@ -1854,5 +1854,6 @@
     "EW_BLOCK_MODAL_SUBTITLE": "Due to increased security measures, Excess Waiver is currently unavailable for this booking. This can be requested via live chat, alternatively proceed with Standard Insurance.",
     "EW_BLOCK_MODAL_TITLE": "EXCESS WAIVER REMOVED",
     "NUMBER_OF_EXTRAS": "of 7 added",
-    "ERROR_SOMETHING_WENT_WRONG": "Something went wrong. Please try later!"
+    "ERROR_SOMETHING_WENT_WRONG": "Something went wrong. Please try later!",
+    "HEADER_HOMEPAGE_META_IMAGE": "https:\/\/static.theout.com\/website\/release_5.13.4\/homepage_hero_1024.webp"
 }
