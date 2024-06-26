@@ -1864,5 +1864,6 @@
     "BOOKING_SUCCESS_REFER_TITLE": "Refer a friend",
     "BOOKING_SUCCESS_REFER_SUBTITLE": "Get £50 in credit when you refer a friend and they book",
     "BOOKING_SUCCESS_MANAGE_SUBTITLE": "Make changes to your booking up to 24 hours before it starts",
-    "BOOKING_SUCCESS_MANAGE_TITLE": "Manage booking"
+    "BOOKING_SUCCESS_MANAGE_TITLE": "Manage booking",
+    "BOOKING_DETAIL_EMAIL_FOOTER_NOTE": "Sign up for exclusive updates, offers and more"
 }
