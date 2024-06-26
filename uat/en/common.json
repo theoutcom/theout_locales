@@ -1560,7 +1560,7 @@
     "BOOKING_DETAIL_DEPOSITS": "HOW DEPOSITS WORK\nIf you opt out for excess waiver, we authorise a {depositsPrice} deposit on your payment card 24 hours before the start of your rental. The amount is held on your account for the duration of your rental.\nWhen we collect the car and confirm the condition is as delivered, the deposit is released in full. If there’s new damage when the car is returned, this will be communicated clearly to you, and the fair market-rate cost for repairing the car will be passed on to you, up to a maximum of {depositsPrice}. There are no administration or additional fees.\nOK, I GOT IT\n* This amount is reduced to £0 if you opt for excess waiver.",
     "MODAL_REJECT_LICENCE": "YOUR APPLICATION WAS REJECTED\nThis may be due to your profile not meeting our insurance requirements. We are here to help, so please feel free to get in touch\nOK GOT IT",
     "MESSAGE_FAILURE_PAYMENT": "NEW CAR REQUIRED\nYour original car is not available on these dates. If you wish to continue, you will need to choose a new car.\nOUTSIDE OF BUSINESS HOUR\nYour booking duration must be at least 3 hours. Please extend the collection date to continue.\nUnfortunately, the selected delivery time does not meet our minimum delivery time. Please go back and select another time.\nUnfortunately, your selected delivery or collection time is outside of our business hour. Please go back and select another time.\nYOU DO NOT MEET OUR INSURANCE REQUIREMENTS\nUnfortunately, you do not meet our criteria for renting this car. Please see <a target=\"_blank\" href=\"https:\/\/theout.zendesk.com\/hc\/en-gb\/articles\/9924342200733-Who-is-eligible-to-rent \">Who is eligible to rent?<\/a> for more information.\nSOMETHING WENT WRONG\nPlease try again. If the issue continues, please contact customer support\nPAYMENT FAIL\nWe could not process your payment. Please try again or update your card details.\nRETURN TO CALENDAR\nYour driving licence has expired\nYour original car is not available on these dates. If you wish to continue, you will need to adjust the date and time.",
-    "EXTRAS_CONTANER": "EXTRAS\nWe have the essentials to ensure you are kitted out for your adventure. Just let us know what you need.",
+    "EXTRAS_CONTANER": "EXTRAS\nWe provide the essentials you need for your journey, with extras included at no cost. Just let us know what you need, and we'll ensure it's included when we deliver your car.",
     "SET_COOKIE_POLICY": "COOKIE POLICY\nWe use cookies to enhance your user experience and improve the quality of our site. If you continue browsing, we’ll assume that you consent to receiving all cookies.\nFind out more\nACCEPT & CLOSE",
     "SAVE_PAYMENT_METHOD": "SAVE PAYMENT METHOD",
     "BOOKING_INSURANCE": "INSURANCE",
@@ -1855,5 +1855,14 @@
     "EW_BLOCK_MODAL_TITLE": "EXCESS WAIVER REMOVED",
     "NUMBER_OF_EXTRAS": "of 7 added",
     "ERROR_SOMETHING_WENT_WRONG": "Something went wrong. Please try later!",
-    "HEADER_HOMEPAGE_META_IMAGE": "https:\/\/static.theout.com\/website\/release_p3.9.1\/homepage_hero.jpg"
+    "HEADER_HOMEPAGE_META_IMAGE": "https:\/\/static.theout.com\/website\/release_p3.9.1\/homepage_hero.jpg",
+    "BOOKING_SUCCESS_PASS_KYC": "Great news, you’re already verified with THE OUT.",
+    "BOOKING_SUCCESS_MANUAL_KYC": "Your identity is being verified and will be confirmed via email shortly",
+    "BOOKING_SUCCESS_NOT_KYC": "You must verify your identity before you can drive",
+    "BOOKING_SUCCESS_AD_TITLE": "Invite additional drivers",
+    "BOOKING_SUCCESS_AD_SUBTITLE": "All drivers must pass identity verification before they can drive",
+    "BOOKING_SUCCESS_REFER_TITLE": "Refer a friend",
+    "BOOKING_SUCCESS_REFER_SUBTITLE": "Get £50 in credit when you refer a friend and they book",
+    "BOOKING_SUCCESS_MANAGE_SUBTITLE": "Make changes to your booking up to 24 hours before it starts",
+    "BOOKING_SUCCESS_MANAGE_TITLE": "Manage booking"
 }
