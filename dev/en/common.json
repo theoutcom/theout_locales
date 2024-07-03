@@ -1842,7 +1842,7 @@
     "EW_TERM2": "Reduce your security deposit to £0 (normally {{deposit}})",
     "EW_TERM3": "No liability for damage",
     "EW_NOTE": "Please read the <link1>Terms and Conditions<\/link1> to ensure it meets your needs.",
-    "EW_BOOKING_STANDARD": "Comes with a {{deposit}} excess held as a refundable deposit on your card.",
+    "EW_BOOKING_STANDARD": "{{deposit}} excess held as a refundable security deposit on your card. Liability up to {{deposit}} in case of damage.",
     "EW_BOOKING_EW": "Reduce excess to £0 and protect your £5,000 security deposit. No liability for accidental damage. <link1>T&Cs apply<\/link1>",
     "EW_EDIT_BOOKING_TITLE": "Standard incl. Excess Waiver",
     "_EXTRAS_TRAVEL_TO_THE_EU_LOWER": "Travel to the EU ",
