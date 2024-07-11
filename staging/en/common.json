@@ -1830,7 +1830,7 @@
     "REFER_MODAL_TITLE": "REFER A FRIEND",
     "REFER_DESCRIPTION": "Share your code with anyone to give them £50 off their first booking. When they complete their booking, you'll receive £50 in credit.",
     "REFER_LINK": "REFERRAL CODE",
-    "EW_DAMAGE_EXCESS": "Damage excess",
+    "EW_DAMAGE_EXCESS": "Security Deposit",
     "EW_DAMAGE_EXCESS_WIZARD_NOTE": "Protect your security deposit when you add Damage Waiver to your rental.",
     "EW": "Excess Waiver",
     "EW_INSURANCE_SUBTITLE": "Your rental has a {{deposit}} standard excess, held as a refundable deposit on your card. Adding Damage Waiver to your booking reduces your excess to £0 and protects your security deposit, otherwise you are liable for up to {{deposit}}  in the event of any damage or loss of the vehicle.",
