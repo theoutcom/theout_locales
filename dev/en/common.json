@@ -1870,5 +1870,6 @@
     "DW_BOOKING_STANDARD": "{{deposit}} excess held as a refundable security deposit on your card. Liability up to {{deposit}} in case of damage.",
     "DW_BOOKING_DW": "Reduce excess to £0. Protect your £5,000 security deposit. No liability for accidental damage.  <link1>T&Cs apply<\/link1>",
     "DW_TC": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/19793552062749-Damage-Waiver",
-    "EW_TC": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/17243827821981-Excess-Waiver-T-C-s"
+    "EW_TC": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/17243827821981-Excess-Waiver-T-C-s",
+    "USER_DISABLED_ERROR_MESSAGE": "Something went wrong with your account. Please contact our customer service."
 }
