@@ -195,5 +195,6 @@
     "PARTNER_SYTNER": "In partnership with Sytner Group Limited",
     "PARTNER_HARRODSAVIATION": "In partnership with Harrods Aviation Limited",
     "PARTNER_SUNNAMUSK": "In partnership with Sunnamusk",
-    "ACCEPT_DATA_SHARING_CONSENT": "I agree to THE OUT <link1>data sharing policy<\/link1>"
+    "ACCEPT_DATA_SHARING_CONSENT": "I agree to THE OUT <link1>data sharing policy<\/link1>",
+    "USER_DISABLED_ERROR_MESSAGE": "Something went wrong with your account. Please contact our customer service."
 }
