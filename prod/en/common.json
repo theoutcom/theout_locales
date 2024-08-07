@@ -194,5 +194,8 @@
     "PARTNER_YOUTRAVELOREWA": "In partnership with YOU Travel Orewa",
     "PARTNER_SYTNER": "In partnership with Sytner Group Limited",
     "PARTNER_HARRODSAVIATION": "In partnership with Harrods Aviation Limited",
-    "PARTNER_SUNNAMUSK": "In partnership with Sunnamusk"
+    "PARTNER_SUNNAMUSK": "In partnership with Sunnamusk",
+    "ACCEPT_DATA_SHARING_CONSENT": "I have read and consent to the <link1>KYC Data Sharing Terms<\/link1>",
+    "USER_DISABLED_ERROR_MESSAGE": "Something went wrong with your account. Please contact our customer service.",
+    "DATA_SHARING_LINK": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/20666994042781-KYC-Data-Sharing-Terms"
 }
