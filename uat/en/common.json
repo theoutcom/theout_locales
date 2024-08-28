@@ -1,6 +1,5 @@
 {
     "YOUR_BOOKING": "Your bookings",
-    "EXPERIENCES_TITLE": "EXPERIENCES",
     "REFER_A_FRIEND": "REFER_A_FRIEND",
     "SETTINGS_TITLE": "Marketing preferences",
     "LAND_ROVER": "Land Rover",
@@ -1807,7 +1806,7 @@
     "SUPPORT_ITEM_3_TITLE": "Privacy policy",
     "SUPPORT_ITEM_4_TITLE": "Terms & conditions",
     "SUPPORT_ITEM_1_LINK": "https:\/\/help.theout.com\/hc\/en-gb",
-    "SUPPORT_ITEM_2_LINK": "mailto:hello@theout.com",
+    "SUPPORT_ITEM_2_LINK": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/20886862862749-Contact-Us",
     "SUPPORT_ITEM_3_LINK": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/9949036554141-Privacy-Policy",
     "SUPPORT_ITEM_4_LINK": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/9948882884125-Terms-and-Conditions-for-renting-a-vehicle",
     "COMPANY_ITEM_1_TITLE": "About us",
@@ -1873,5 +1872,10 @@
     "EW_TC": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/17243827821981-Excess-Waiver-T-C-s",
     "USER_DISABLED_ERROR_MESSAGE": "Something went wrong with your account. Please contact our customer service.",
     "KYC_CONSENT_CHECKBOX": "I have read and consent to the <link1>KYC Data Sharing Terms<\/link1>",
-    "DATA_SHARING_LINK": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/20666994042781-KYC-Data-Sharing-Terms"
+    "DATA_SHARING_LINK": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/20666994042781-KYC-Data-Sharing-Terms",
+    "DECLARATION_PAGE_TITLE": "Important declaration",
+    "DECLARATION_PAGE_DESCRIPTION": "In order to be covered by our insurance and before you can drive with THE OUT, you must confirm that you and any additional drivers meet the following criteria:",
+    "DECLARATION_PAGE_AGREEMENT": "I agree to these terms",
+    "DECLARATION_PAGE_CONTENT": "https:\\\/\\\/static.theout.com\\\/website\\\/insurance-declaration\\\/Icon_Menu_Identity.svg|I, and any additional drivers must meet our driving eligibility requirements.\nhttps:\\\/\\\/static.theout.com\\\/website\\\/insurance-declaration\\\/Icon_Menu_Licence.svg|I, and any additional drivers must have a valid driving licence.\nhttps:\\\/\\\/static.theout.com\\\/website\\\/insurance-declaration\\\/Icon_Menu_Passport.svg|I, and any additional drivers with a non UK or EU licence, must only use an international licence for up to 12 months from becoming a UK resident.\nhttps:\\\/\\\/static.theout.com\\\/website\\\/insurance-declaration\\\/Icon_Menu_Accident.svg|I, and any additional drivers must have not been involved in more than 1 fault or partial fault accident in the last 3 years.\nhttps:\\\/\\\/static.theout.com\\\/website\\\/insurance-declaration\\\/Icon_Menu_Cancel.svg|I, and any additional drivers, haven’t had the insurance declined and\\\/or renewal refused and\\\/or insurance or cover cancelled by any motor insurer.\nhttps:\\\/\\\/static.theout.com\\\/website\\\/insurance-declaration\\\/Icon_Menu_Conviction.svg|I, and any additional drivers don’t have current criminal conviction which is not spent under the Rehabilitation of Offenders Act 1974.\nhttps:\\\/\\\/static.theout.com\\\/website\\\/insurance-declaration\\\/Icon_Menu_Case.svg|I, and any additional drivers must be employed or self-employed (including house wife\\\/husband), not itinerant and not claiming unemployment benefits.\nhttps:\\\/\\\/static.theout.com\\\/website\\\/insurance-declaration\\\/Frame.svg|I, and any additional drivers must not have any of these occupations:",
+    "DECLARATION_PAGE_NOTE": "hawking or dealing, scrap merchants, vehicle dismantlers or breakers, racing or gambling, professional sport, entertainment or theatrical professions (including part-time), fairground worker or Foreign Armed forces or Foreign Embassy."
 }
