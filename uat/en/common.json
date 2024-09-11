@@ -453,7 +453,7 @@
     "DISCOUNT_PER_BOOKING": "discount per booking",
     "TELL_US_ABOUT_COMPANY": "Tell us about your company",
     "TERM_OF_USE": "Terms of use",
-    "TERM_OF_USE_AGREE": "I agree to the terms of use",
-    "HAVE_WRITTEN_CONSENT": "I have written consent to place orders for customers",
+    "TERM_OF_USE_AGREE": "I confirm that I am authorised to enter into these Introducer Terms for and on behalf of the Introducer",
+    "HAVE_WRITTEN_CONSENT": "I confirm that I have read, understood and agree to comply with the Introducer Terms in all material respects",
     "SUBMIT_BUTTON": "Submit"
 }
