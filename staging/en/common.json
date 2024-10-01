@@ -1464,7 +1464,7 @@
     "ACCOUNT_PROFILE_TITLE": "Profile",
     "ACCOUNT_PROFILE_SAVE_BUTTON": "save profile",
     "CONFIRM_PASSWORD_MODAL": "confirm password\nIn order for us to update your profile you must confirm your current password.\nPassword is required\nPassword is invalid",
-    "CANCEL_ORDER_MODAL": "CANCEL BOOKING\nAre you sure to cancel this booking?\nIf you cancel now you will incur a £200 cancellation fee.\nIf you do, you won't be charged for the cancellation. But you will miss out on some seriously good fun.\nGO BACK\nCONTINUE",
+    "CANCEL_ORDER_MODAL": "CANCEL BOOKING\nAre you sure you want to cancel this booking?\nIf you cancel now you will incur a £200 cancellation fee.\nIf you do, you won't be charged for the cancellation. But you will miss out on some seriously good fun.\nGO BACK\nCONTINUE",
     "ACCOUNT_MARKETING_PREFERENCE": "marketing preferences\nNews & Offers\nWe’ll send you an email when we have a key update or seasonal offer available.\nsave preferences",
     "ACCOUNT_CHANGE_PASSWORD": "change password\nCurrent Password\nNew Password\nMust be at least 8 characters\nMust include a symbol\nchange password\nThe password is required\nThe password is invalid\nThe password doesn’t match\nCannot match previous password",
     "ACCOUNT_REFER_FRIEND": "refer a friend\nAre you ready to shout your love for THE OUT from the rooftops? Great, because we are ready to give you £50 credit for you and for every friend who books a car with us.\ncopy code\ncode copied!\nOther ways to share your referral code:",
@@ -1763,5 +1763,6 @@
     "EXTRAS_PAGE_PANORAMIC_ROOF": "Panoramic\nroof",
     "EXTRAS_PAGE_SATELLITE_NAVIGATION": "Satellite\nnavigation",
     "EXTRAS_PAGE_PHONE_CHARGER": "Phone\ncharger",
-    "EXTRAS_PAGE_PARK_ASSIST": "Park\nassist"
+    "EXTRAS_PAGE_PARK_ASSIST": "Park\nassist",
+    "REQUEST_CAR_FOOTER_NOTE": "Email me about new cars, offers and more"
 }
