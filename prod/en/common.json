@@ -1711,7 +1711,7 @@
     "EW": "Excess Waiver",
     "EW_INSURANCE_SUBTITLE": "Your rental has a {{deposit}} standard excess, held as a refundable deposit on your card. Adding Damage Waiver to your booking reduces your excess to £0 and protects your security deposit, otherwise you are liable for up to {{deposit}}  in the event of any damage or loss of the vehicle.",
     "EW_STANDARD_TERM1": "{{deposit}} excess",
-    "EW_STANDARD_TERM2": "Security deposit held on your card in case of damage",
+    "EW_STANDARD_TERM2": "Security deposit held on your card",
     "EW_STANDARD_TERM3": "Liability up to {{deposit}} in case of damage",
     "EW_STANDARD_NOTE": "Security deposit is fully refundable if the vehicle is returned with no damage.",
     "EW_TERM1": "Reduce your excess to £0",
