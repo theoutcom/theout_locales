@@ -1464,7 +1464,7 @@
     "ACCOUNT_PROFILE_TITLE": "Profile",
     "ACCOUNT_PROFILE_SAVE_BUTTON": "save profile",
     "CONFIRM_PASSWORD_MODAL": "confirm password\nIn order for us to update your profile you must confirm your current password.\nPassword is required\nPassword is invalid",
-    "CANCEL_ORDER_MODAL": "CANCEL BOOKING\nAre you sure to cancel this booking?\nIf you cancel now you will incur a £100 cancellation fee.\nIf you do, you won't be charged for the cancellation. But you will miss out on some seriously good fun.\nGO BACK\nCONTINUE",
+    "CANCEL_ORDER_MODAL": "CANCEL BOOKING\nAre you sure you want to cancel this booking?\nIf you cancel now you will incur a £200 cancellation fee.\nIf you do, you won't be charged for the cancellation. But you will miss out on some seriously good fun.\nGO BACK\nCONTINUE",
     "ACCOUNT_MARKETING_PREFERENCE": "marketing preferences\nNews & Offers\nWe’ll send you an email when we have a key update or seasonal offer available.\nsave preferences",
     "ACCOUNT_CHANGE_PASSWORD": "change password\nCurrent Password\nNew Password\nMust be at least 8 characters\nMust include a symbol\nchange password\nThe password is required\nThe password is invalid\nThe password doesn’t match\nCannot match previous password",
     "ACCOUNT_REFER_FRIEND": "refer a friend\nAre you ready to shout your love for THE OUT from the rooftops? Great, because we are ready to give you £50 credit for you and for every friend who books a car with us.\ncopy code\ncode copied!\nOther ways to share your referral code:",
@@ -1663,7 +1663,7 @@
     "NOT_IN_SERVICE_AREA_BUTTON": "Change address",
     "HOMEPAGE_SLOGAN": "Luxury cars.<br \/>Premium service.",
     "NEW_LETTER_SIGNUP_SUCCESS": "Thank you. You’re on the mailing list!",
-    "FOOTER_TEXT": "InMotion Ventures 2 Limited is registered in England and Wales company number 10444740. Registered office at Abbey Road, Whitley, Coventry, England, CV3 4LF. Insurance distributed and administered by Lloyd’s Syndicate 4444 who are authorised and regulated by the Financial Conduct Authority. Financial Services Register No. 204847.",
+    "FOOTER_TEXT": "InMotion Ventures 3 Limited (trading as THE OUT) is registered in England and Wales company number 10445040. Registered office at Abbey Road, Whitley, Coventry, England, CV3 4LF. Insurance distributed and administered by Lloyd’s Syndicate 4444 who are authorised and regulated by the Financial Conduct Authority. Financial Services Register No. 204847.",
     "DOWNLOAD_APP": "Download the app",
     "DOWNLOAD_DESCRIPTION": "Luxury car rental with THE OUT. Powered by Jaguar Land Rover. Available for iOS.",
     "HEADER_HOMEPAGE_META_DESCRIPTION": "THE OUT delivers luxury car rental in the UK with uncompromising service. Delivery & collection to your door with all-inclusive pricing.",
@@ -1711,7 +1711,7 @@
     "EW": "Excess Waiver",
     "EW_INSURANCE_SUBTITLE": "Your rental has a {{deposit}} standard excess, held as a refundable deposit on your card. Adding Damage Waiver to your booking reduces your excess to £0 and protects your security deposit, otherwise you are liable for up to {{deposit}}  in the event of any damage or loss of the vehicle.",
     "EW_STANDARD_TERM1": "{{deposit}} excess",
-    "EW_STANDARD_TERM2": "Security deposit held on your card in case of damage",
+    "EW_STANDARD_TERM2": "Security deposit held on your card",
     "EW_STANDARD_TERM3": "Liability up to {{deposit}} in case of damage",
     "EW_STANDARD_NOTE": "Security deposit is fully refundable if the vehicle is returned with no damage.",
     "EW_TERM1": "Reduce your excess to £0",
@@ -1763,5 +1763,6 @@
     "EXTRAS_PAGE_PANORAMIC_ROOF": "Panoramic\nroof",
     "EXTRAS_PAGE_SATELLITE_NAVIGATION": "Satellite\nnavigation",
     "EXTRAS_PAGE_PHONE_CHARGER": "Phone\ncharger",
-    "EXTRAS_PAGE_PARK_ASSIST": "Park\nassist"
+    "EXTRAS_PAGE_PARK_ASSIST": "Park\nassist",
+    "REQUEST_CAR_FOOTER_NOTE": "Email me about new cars, offers and more"
 }
