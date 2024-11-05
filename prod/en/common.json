@@ -1764,5 +1764,6 @@
     "EXTRAS_PAGE_SATELLITE_NAVIGATION": "Satellite\nnavigation",
     "EXTRAS_PAGE_PHONE_CHARGER": "Phone\ncharger",
     "EXTRAS_PAGE_PARK_ASSIST": "Park\nassist",
-    "REQUEST_CAR_FOOTER_NOTE": "Email me about new cars, offers and more"
+    "REQUEST_CAR_FOOTER_NOTE": "Email me about new cars, offers and more",
+    "SIGN_UP_MEMBER_SENT_MESSAGE": "Thank you! Your submission has been received"
 }
