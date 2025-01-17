@@ -1769,5 +1769,7 @@
     "ADD_A_REQUEST": "Add a Request",
     "ADD_A_REQUEST_DESCRIPTION": "If you have any requests you’d like our team to be aware of for your rental, such as a birthday or special occasion just let us know!",
     "ADD_A_REQUEST_LABEL": "What can we do?",
-    "ADD_A_REQUEST_SUBMIT_BUTTON": "Save my request"
+    "ADD_A_REQUEST_SUBMIT_BUTTON": "Save my request",
+    "CAR_DETAIL_PAGE_FLOAT_BUTTON": "Rent a {{carName}}",
+    "CAR_COMPARISION_DEFAULT_CAR_BTN": "Current Car"
 }
