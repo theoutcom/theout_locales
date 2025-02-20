@@ -215,5 +215,6 @@
     "PARTNER_BOON": "In partnership with Downtime Limited trading as Boon",
     "HAVE_AN_ACCOUNT": "Have an account",
     "SIGN_IN": "Sign in",
-    "OR_SIGN_UP_EMAIL": "Or, sign up with email"
+    "OR_SIGN_UP_EMAIL": "Or, sign up with email",
+    "CONTACT_FOR_RESET_PASS": "Forgotten your password? <strong>Contact our support team<\/strong>"
 }
