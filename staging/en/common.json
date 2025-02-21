@@ -1,8 +1,8 @@
 {
     "HOMEPAGE_WELCOME_TEXT": "Welcome to THE OUT\nIn partnership with THE OUT\nIn partnership with Rentalcars.com\nIn partnership with http:\/\/autoeurope.com",
     "HOMEPAGE_TITLE_AD": "You’ve been invited to drive with us",
-    "HOMEPAGE_TITLE_CP": "hi <name>{{name}}<\/name>, welcome to the out",
-    "HOMEPAGE_TITLE_RC": "thanks for booking with the out",
+    "HOMEPAGE_TITLE_CP": "Hi <name>{{name}}<\/name>, welcome to THE OUT",
+    "HOMEPAGE_TITLE_RC": "Thanks for booking with the out",
     "HOMEPAGE_SUBTITLE_AD": "<name>{{name}}<\/name> has invited you to drive on their upcoming rental with THE OUT. To ensure you are eligible to drive we need to verify a few things.",
     "HOMEPAGE_SUBTITLE_CP": "To ensure your car handover is as fast as possible we need you to complete a few steps. It only takes a few minutes.",
     "HOMEPAGE_SUBTITLE_RC": "To ensure your car handover is as fast as possible we need you to complete a few steps. It only takes a few minutes.",
@@ -20,7 +20,7 @@
     "PASSWORD": "Password",
     "PASSWORD_CHECK_POLICY_TEXT": "10 or more characters\nMix of upper & lowercase letters\nAt least one number and one symbol",
     "KEEP_ME_UPDATED_NEW": "Keep me updated with news & offers",
-    "ACCEPT_TERM_AND_POLICY": "I accept the <link1>Terms<\/link1> & <link2>Privacy Policy<\/link2>",
+    "ACCEPT_TERM_AND_POLICY": "By creating an account, you agree to the <link1>Terms<\/link1> & <link2>Privacy Policy<\/link2>",
     "VERIFY_YOUR_PHONE_NUMBER": "Verify your phone number",
     "VERIFY_YOUR_PHONE_NUMBER_SUBTITLE": "Our drivers might need to contact you during delivery and collection. Please provide a phone number they can contact you on if they need to speak with you.",
     "CONTINUE": "Continue",
@@ -212,5 +212,9 @@
     "PARTNER_FLYVICTOR": "In partnership with Fly Victor Limited",
     "PARTNER_OVERLANDERBRASIL": "In partnership with Challenging Your Dreams Servicos Ltda",
     "PARTNER_LUXURYBOLTHOLES": "In partnership with Luxury Boltholes LTD",
-    "PARTNER_BOON": "In partnership with Downtime Limited trading as Boon"
+    "PARTNER_BOON": "In partnership with Downtime Limited trading as Boon",
+    "HAVE_AN_ACCOUNT": "Have an account",
+    "SIGN_IN": "Sign in",
+    "OR_SIGN_UP_EMAIL": "Or, sign up with email",
+    "CONTACT_FOR_RESET_PASS": "Forgotten your password? <strong>Contact our support team<\/strong>"
 }
