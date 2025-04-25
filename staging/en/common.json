@@ -834,7 +834,7 @@
     "REFER_FRIEND_THANKS_BODY": "Thanks for sharing your love for THE OUT.\nNow just wait until your friend makes a booking and get that £50 credit in your account.",
     "REFER_FRIEND_THANKS_CTA_TITLE": "Got It",
     "REFERRAL_CODE_NOT_FIRST_BOOKING": "Oops, that code only works for your first booking",
-    "EMAIL_NOT_RECOGNISED": "Email Not Recognised",
+    "EMAIL_NOT_RECOGNISED": "Email not recognised",
     "EXTRAS_SCREEN_TITLE": "Select the Extras",
     "EXTRAS_BODY_TEXT": "We have the essentials to ensure you are kitted out for your adventure. Just let us know what you need.",
     "EXTRAS_INCLUDED_ITEMS_TITLE": "These are the perks included in each rental:",
@@ -1773,5 +1773,5 @@
     "CAR_DETAIL_PAGE_FLOAT_BUTTON": "Rent a {{carName}}",
     "CAR_COMPARISION_DEFAULT_CAR_BTN": "Current car",
     "SEND_RESET_LINK_BUTTON_V2": "Send reset link",
-    "RESET_LINK_SEND_DESCRIPTION_V2_%@": "If we have an account for %@ we’ll send you a link to reset your password."
+    "RESET_LINK_SEND_DESCRIPTION_V2": "If we have an account for \\n%@ we’ll send \\nyou a link to reset your password."
 }
