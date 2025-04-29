@@ -227,5 +227,6 @@
     "FORGOT_PASSWORD": "Reset password",
     "FORGOT_PASSWORD_CONTENT": "Enter your email address and we'll send you a link to reset your password.",
     "SEND_RESET_LINK": "Send reset link",
-    "EMAIL_NOT_RECOGNISED": "Email not recognised"
+    "EMAIL_NOT_RECOGNISED": "Email not recognised",
+    "RESET_MY_PASSWORD": "Reset my password"
 }
