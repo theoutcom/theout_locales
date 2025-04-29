@@ -226,5 +226,6 @@
     "VERIFY_YOUR_NUMBER_CONTENT": "To continue with your booking please enter your phone number, We’ll send you a code to verify this.",
     "FORGOT_PASSWORD": "Reset password",
     "FORGOT_PASSWORD_CONTENT": "Enter your email address and we'll send you a link to reset your password.",
-    "SEND_RESET_LINK": "Send reset link"
+    "SEND_RESET_LINK": "Send reset link",
+    "EMAIL_NOT_RECOGNISED": "Email not recognised"
 }
