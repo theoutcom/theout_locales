@@ -129,7 +129,7 @@
     "PAYMENT_METHOD_REMOVED": "payment method removed",
     "STILL_HAVE_ORDER_IN_PROCESS_TITLE": "this payment method is still required",
     "STILL_HAVE_ORDER_IN_PROCESS_CONTENT": "We need to keep this payment method on file until your booking is complete.",
-    "CLOSE": "close",
+    "CLOSE": "Close",
     "SAVE_PAYMENT_METHOD": "Save payment method",
     "PAYMENT_METHOD_SAVED": "payment method saved",
     "NO_PAYMENT": "Payment methods will appear here once you add them.",
@@ -230,5 +230,6 @@
     "EMAIL_NOT_RECOGNISED": "Email not recognised",
     "RESET_MY_PASSWORD": "Reset my password",
     "NEW_PASSWORD": "New password",
-    "SEND_RESET_TO_MAIL_CONTENT": "If we have an account for <email>{{email}}<\/email> we’ll send you a link to reset your password."
+    "SEND_RESET_TO_MAIL_CONTENT": "If we have an account for <email>{{email}}<\/email> we’ll send you a link to reset your password.",
+    "CHECK_YOUR_INBOX": "Check your inbox"
 }
