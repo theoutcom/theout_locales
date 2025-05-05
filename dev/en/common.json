@@ -229,5 +229,6 @@
     "SEND_RESET_LINK": "Send reset link",
     "EMAIL_NOT_RECOGNISED": "Email not recognised",
     "RESET_MY_PASSWORD": "Reset my password",
-    "NEW_PASSWORD": "New password"
+    "NEW_PASSWORD": "New password",
+    "SEND_RESET_TO_MAIL_CONTENT": "If we have an account for <email>{{email}}<\/email> we’ll send you a link to reset your password."
 }
