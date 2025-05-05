@@ -231,5 +231,6 @@
     "RESET_MY_PASSWORD": "Reset my password",
     "NEW_PASSWORD": "New password",
     "SEND_RESET_TO_MAIL_CONTENT": "If we have an account for <email>{{email}}<\/email> we’ll send you a link to reset your password.",
-    "CHECK_YOUR_INBOX": "Check your inbox"
+    "CHECK_YOUR_INBOX": "Check your inbox",
+    "ACCOUNT_CREATED": "Account created"
 }
