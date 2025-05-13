@@ -1775,10 +1775,10 @@
     "SEND_RESET_LINK_BUTTON_V2": "Send reset link",
     "RESET_LINK_SEND_DESCRIPTION_V2": "If we have an account for \\n%@ we’ll send \\nyou a link to reset your password.",
     "KYC_ACCOUNT_TITLE": "Verify your identity",
-    "KYC_PENDING_RESULT": "",
-    "KYC_REJECTED_RESULT": "",
-    "KYC_PASS_RESULT": "",
-    "KYC_PASS_RESULT_DESC": "",
-    "KYC_PENDING_RESULT_DESC": "",
-    "KYC_REJECTED_RESULT_DESC": ""
+    "KYC_PENDING_RESULT": "We need to check a few things",
+    "KYC_REJECTED_RESULT": "Sorry, you’re not eligible to join",
+    "KYC_PASS_RESULT": "You’re ready to drive with THE OUT",
+    "KYC_PASS_RESULT_DESC": "We’ve got all the information we need. If you have any questions about your order please don’t hesitate to contact us.",
+    "KYC_PENDING_RESULT_DESC": "Our team are reviewing your eligibility and will be in touch when the checks are complete. If you have any question please contact us.",
+    "KYC_REJECTED_RESULT_DESC": "Unfortunately you haven't met our eligibility criteria at this time. Please contact us if you wish to discuss your application."
 }
