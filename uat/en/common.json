@@ -834,7 +834,7 @@
     "REFER_FRIEND_THANKS_BODY": "Thanks for sharing your love for THE OUT.\nNow just wait until your friend makes a booking and get that £50 credit in your account.",
     "REFER_FRIEND_THANKS_CTA_TITLE": "Got It",
     "REFERRAL_CODE_NOT_FIRST_BOOKING": "Oops, that code only works for your first booking",
-    "EMAIL_NOT_RECOGNISED": "Email Not Recognised",
+    "EMAIL_NOT_RECOGNISED": "Email not recognised",
     "EXTRAS_SCREEN_TITLE": "Select the Extras",
     "EXTRAS_BODY_TEXT": "We have the essentials to ensure you are kitted out for your adventure. Just let us know what you need.",
     "EXTRAS_INCLUDED_ITEMS_TITLE": "These are the perks included in each rental:",
@@ -1771,5 +1771,14 @@
     "ADD_A_REQUEST_LABEL": "What can we do?",
     "ADD_A_REQUEST_SUBMIT_BUTTON": "Save my request",
     "CAR_DETAIL_PAGE_FLOAT_BUTTON": "Rent a {{carName}}",
-    "CAR_COMPARISION_DEFAULT_CAR_BTN": "Current car"
+    "CAR_COMPARISION_DEFAULT_CAR_BTN": "Current car",
+    "SEND_RESET_LINK_BUTTON_V2": "Send reset link",
+    "RESET_LINK_SEND_DESCRIPTION_V2": "If we have an account for \\n%@ we’ll send \\nyou a link to reset your password.",
+    "KYC_ACCOUNT_TITLE": "Verify your identity",
+    "KYC_PENDING_RESULT": "We need to check\na few things",
+    "KYC_REJECTED_RESULT": "Sorry, you’re not\neligible to join",
+    "KYC_PASS_RESULT": "You’re ready to drive\nwith THE OUT",
+    "KYC_PASS_RESULT_DESC": "We’ve got all the information we need. If you have any questions about your order please don’t hesitate to contact us.",
+    "KYC_PENDING_RESULT_DESC": "Our team are reviewing your eligibility and will be in touch when the checks are complete. If you have any question please contact us.",
+    "KYC_REJECTED_RESULT_DESC": "Unfortunately you haven't met our eligibility criteria at this time. Please contact us if you wish to discuss your application."
 }
