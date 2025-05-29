@@ -92,10 +92,10 @@
     "ZIPCODE": "Zipcode",
     "STATE": "State",
     "DEPOSIT_CARD_NUMBER": "Card number",
-    "DEPOSIT_CARD_NAME": "Name On Card",
-    "DEPOSIT_CARD_CVC": "Security Code",
-    "DEPOSIT_CARD_POSTCODE": "PostCode",
-    "DEPOSIT_EXPIRED_DATE": "Expiry Date",
+    "DEPOSIT_CARD_NAME": "Name on card",
+    "DEPOSIT_CARD_CVC": "Security code",
+    "DEPOSIT_CARD_POSTCODE": "Postcode",
+    "DEPOSIT_EXPIRED_DATE": "Expiry date",
     "DEPOSIT_CONTINUE_BTN": "Continue",
     "PAYMENT_FAIl_MODAL_TITLE": "Payment Failed",
     "PAYMENT_FAIl_MODAL_SUBTITLE": "We could not process your payment. Please try again or update your card details.",
@@ -217,5 +217,11 @@
     "SIGN_IN": "Sign in",
     "OR_SIGN_UP_EMAIL": "Or, sign up with email",
     "CONTACT_FOR_RESET_PASS": "Forgotten your password? <strong>Contact our support team<\/strong>",
-    "FOOTER_CONTENT": "InMotion Ventures 3 Limited (trading as THE OUT) is registered in England and Wales company number 10445040. Registered office at Abbey Road, Whitley, Coventry, England, CV3 4LF. Insurance distributed and administered by Lloyd's Syndicate 4444 who are authorised and regulated by the Financial Conduct Authority. Financial Services Register No. 204847."
+    "FOOTER_CONTENT": "InMotion Ventures 3 Limited (trading as THE OUT) is registered in England and Wales company number 10445040. Registered office at Abbey Road, Whitley, Coventry, England, CV3 4LF. Insurance distributed and administered by Lloyd's Syndicate 4444 who are authorised and regulated by the Financial Conduct Authority. Financial Services Register No. 204847.",
+    "PARTNER_THEGREATBRITISHLANDROVERCLUB": "In partnership with GBLRC Events Ltd",
+    "PARTNER_SWVIP": "In partnership with Sports World VIP Ltd",
+    "PARTNER_LIV-TRAVEL": "In partnership with LIV Global Travel LLC",
+    "PARTNER_PLACE-TO-PLACE": "In partnership with Place to Place Travel Ltd",
+    "PARTNER_BSILIFESTYLE": "In partnership with BSI Lifestyle LTD",
+    "VERIFY_YOUR_NUMBER_CONTENT": "To continue with your booking please enter your phone number, We’ll send you a code to verify this."
 }
