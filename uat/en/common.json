@@ -1783,6 +1783,6 @@
     "KYC_REJECTED_RESULT_DESC": "Unfortunately you haven't met our eligibility criteria at this time. Please contact us if you wish to discuss your application.",
     "SOMETHING_WENT_WRONG_MODAL_TITLE": "Sorry, an error occurred",
     "SOMETHING_WENT_WRONG_MODAL_DESC": "Something went wrong while processing your request. Please try again to continue. If the problem continues, please <link1>contact us<\/link1>.",
-    "LICENCE_RECHECK_MODAL_DESC": "We were unable to complete your booking as your licence did not meet our verification requirements. Please contact our support team for more information or assistance.",
-    "LICENCE_RECHECK_MODAL_TITLE": "Unable to complete booking"
+    "LICENCE_RECHECK_MODAL_DESC": "We weren’t able to complete your booking. Based on your licence details, you’re currently not eligible. If you believe this is incorrect, please contact us.",
+    "LICENCE_RECHECK_MODAL_TITLE": "Oops, that didn’t work"
 }
