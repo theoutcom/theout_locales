@@ -1784,5 +1784,6 @@
     "SOMETHING_WENT_WRONG_MODAL_TITLE": "Sorry, an error occurred",
     "SOMETHING_WENT_WRONG_MODAL_DESC": "Something went wrong while processing your request. Please try again to continue. If the problem continues, please <link1>contact us<\/link1>.",
     "LICENCE_RECHECK_MODAL_DESC": "We weren’t able to complete your booking. Based on your licence details, you’re currently not eligible. If you believe this is incorrect, please contact us.",
-    "LICENCE_RECHECK_MODAL_TITLE": "Oops, that didn’t work"
+    "LICENCE_RECHECK_MODAL_TITLE": "Oops, that didn’t work",
+    "LICENCE_RECHECK_MODAL_DESC_EDIT": "We were unable to complete your booking amendment. Based on your licence details, you're currently not eligible to make changes. If you believe this is incorrect, please contact us."
 }
