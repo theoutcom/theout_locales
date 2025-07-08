@@ -1324,7 +1324,7 @@
     "BABY_SEAT_FRONT_NOTE": "(1 + YEARS)",
     "BABY_SEAT_REAR_NOTE": "(0 - 1 YEARS)",
     "BOOSTER_SEAT_NOTE": "(4 - 12 YEARS)",
-    "STANDARD_NOTES": "Included as standard on all bookings:",
+    "STANDARD_NOTES": "Included as standard on all bookings (excluding Classic models):",
     "_DELIVERYANDCOLLECTION_": "delivery & collection",
     "_EXTRAS_ITEMS_20": "satellite navigation",
     "EXTRAS_SUBNOTE_1": "Our EU Travel Insurance is provided by Riverside Underwriting",
