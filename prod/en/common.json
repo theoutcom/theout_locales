@@ -1324,7 +1324,7 @@
     "BABY_SEAT_FRONT_NOTE": "(1 + YEARS)",
     "BABY_SEAT_REAR_NOTE": "(0 - 1 YEARS)",
     "BOOSTER_SEAT_NOTE": "(4 - 12 YEARS)",
-    "STANDARD_NOTES": "Included as standard on all bookings:",
+    "STANDARD_NOTES": "Included as standard on all bookings (excluding Classic models):",
     "_DELIVERYANDCOLLECTION_": "delivery & collection",
     "_EXTRAS_ITEMS_20": "satellite navigation",
     "EXTRAS_SUBNOTE_1": "Our EU Travel Insurance is provided by Riverside Underwriting",
@@ -1785,5 +1785,8 @@
     "SOMETHING_WENT_WRONG_MODAL_DESC": "Something went wrong while processing your request. Please try again to continue. If the problem continues, please <link1>contact us<\/link1>.",
     "LICENCE_RECHECK_MODAL_DESC": "We weren’t able to complete your booking. Based on your licence details, you’re currently not eligible. If you believe this is incorrect, please contact us.",
     "LICENCE_RECHECK_MODAL_TITLE": "Oops, that didn’t work",
-    "LICENCE_RECHECK_MODAL_DESC_EDIT": "We were unable to complete your booking amendment. Based on your licence details, you're currently not eligible to make changes. If you believe this is incorrect, please contact us."
+    "LICENCE_RECHECK_MODAL_DESC_EDIT": "We were unable to complete your booking amendment. Based on your licence details, you're currently not eligible to make changes. If you believe this is incorrect, please contact us.",
+    "REFRESH": "Refresh",
+    "KYC_PROCESS_RESULT_DESC": "Your information is being processed. Please try refreshing the page shortly to check for updates. If you have any questions, feel free to <link1>contact us<\/link1>.",
+    "KYC_PROCESS_RESULT": "Almost there!"
 }
