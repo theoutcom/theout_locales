@@ -45,7 +45,7 @@
     "OPERATION_NOT_ALLOWED": "Unexpected error occurred",
     "INVITE_KYC_MESSAGE": "All done!",
     "INVITE_KYC_TITLE": "It's time to handover to your client",
-    "INVITE_KYC_CONTENT": "Please share the link below with your customer so we can verify their identity. It shouldn't take them more than a few minutes to do this.",
+    "INVITE_KYC_CONTENT": "Please share the link below with your customer to complete their identity verification.<br>\nWe strongly recommend embedding this link as a hyperlink within your communication, rather than pasting the raw URL, as some operating systems or email clients may truncate long links, which could prevent your customer from accessing their KYC verification",
     "INVITE_KYC_BUTTON_TITLE": "Copy link",
     "COPIED_TO_CLIPBOARD": "Copied to clipboard",
     "ADD_CUSTOMER_ACOUNT_TITLE": "Account",
