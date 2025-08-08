@@ -155,7 +155,7 @@
     "EXP_TXT": "Exp",
     "INVALID_CARD_ID": "Invalid customer credit card id",
     "INVALID_JWT_THE_OUT_TOKEN": "Unexpected error occurred",
-    "KYC_LINK_CONTENT": "Please share the link below with your customer so we can verify their identity. It shouldn't take them more than a few minutes to do this.",
+    "KYC_LINK_CONTENT": "Please share the link below with your customer to complete their identity verification.<br>\nWe strongly recommend embedding this link as a hyperlink within your communication, rather than pasting the raw URL, as some operating systems or email clients may truncate long links, which could prevent your customer from accessing their KYC verification",
     "KYC_STATUS_ADDRESS": "Address",
     "KYC_STATUS_DRIVING_LICENCE": "Driving licence",
     "KYC_STATUS_PASSPORT": "Passport",
