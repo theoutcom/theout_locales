@@ -323,7 +323,7 @@
     "ORDER_SUCCESS_CONTENT": "We’ll send an email confirmation to your customer with all the booking details.",
     "ORDER_SUCCESS_ID": "Order #{{id}} booked!",
     "VIEW_ORDER": "View booking",
-    "ORDER_KYC_WARNING": "Please share the link below with your customer so we can verify their identity. They must verify their identity by {{date}} or the order will be cancelled.",
+    "ORDER_KYC_WARNING": "Please share the link below with your customer to complete their identity verification.<br>\nWe strongly recommend embedding this link as a hyperlink within your communication, rather than pasting the raw URL, as some operating systems or email clients may truncate long links, which could prevent your customer from accessing their KYC verification<br>\nThey must verify their identity by {{date}} or the order will be cancelled.",
     "ORDER_WARNING_MESSAGE_TITLE": "This customer identity is still being verified",
     "ORDER_MESSAGE_WARNING": "We're still verifying this customer identity. If we cannot verify their identity by {{date}} the order will be cancelled.",
     "ORDER_CONTACT_US": "If you have any concerns please ",
