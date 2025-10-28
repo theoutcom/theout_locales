@@ -234,5 +234,17 @@
     "CHECK_YOUR_INBOX": "Check your inbox",
     "ACCOUNT_CREATED": "Account created",
     "PASSWORD_RESET": "Password reset",
-    "PASSWORD_RESET_CONTENT": "Your password has been reset. Please sign in to continue."
+    "PASSWORD_RESET_CONTENT": "Your password has been reset. Please sign in to continue.",
+    "PARTNER_REEDMACKAY": "In partnership with Reed & Mackay Travel Limited",
+    "SUPPORT_ITEM_1_LINK": "https:\/\/help.theout.com\/hc\/en-gb",
+    "SUPPORT_ITEM_1_TITLE": "FAQs",
+    "SUPPORT_ITEM_2_LINK": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/20886862862749-Contact-Us",
+    "SUPPORT_ITEM_2_TITLE": "Contact us",
+    "SUPPORT_ITEM_3_LINK": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/9949036554141-Privacy-Policy",
+    "SUPPORT_ITEM_3_TITLE": "Privacy policy",
+    "SUPPORT_ITEM_4_LINK": "https:\/\/help.theout.com\/hc\/en-gb\/articles\/9948882884125-Terms-and-Conditions-for-renting-a-vehicle",
+    "SUPPORT_ITEM_4_TITLE": "Terms & conditions",
+    "PARTNER_TWONIGHTSIN": "In partnership with Cadence Travel Inc Trading as (Two Nights In)",
+    "PARTNER_DAWSONRACING": "In partnership with Dawson Racing Ltd",
+    "AFFORDABILITY_CHECK": "Affordability check"
 }
