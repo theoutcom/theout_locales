@@ -1256,7 +1256,7 @@
     "_VEHICLE_INTERIOR": "INTERIOR",
     "_VEHICLE_EXTERIOR": "EXTERIOR",
     "_VEHICLE_COLOR_AVAILABLE": "AVAILABLE IN {count} COLOURS",
-    "_VEHICLE_CAR_FOR_EVERY_JOURNEY": "A CAR FOR EVERY JOURNEY",
+    "_VEHICLE_CAR_FOR_EVERY_JOURNEY": "RENT THE CLASSICS",
     "_VEHICLE_PRICE_NOTE": "Price per day, based on a 2-day rental",
     "_VEHICLE_RENT_FROM": "RENT THIS CAR",
     "_VEHICLE_EVERY_JOURNEY_N_DAY_RENTAL_W_PRICE": "2 day rental £{price}",
@@ -1789,5 +1789,6 @@
     "REFRESH": "Refresh",
     "KYC_PROCESS_RESULT_DESC": "Your information is being processed. Please try refreshing the page shortly to check for updates. If you have any questions, feel free to <link1>contact us<\/link1>.",
     "KYC_PROCESS_RESULT": "Almost there!",
-    "_EXTRAS_NOTES_3": "Our classic models may not include these features. Please refer to the individual car pages for detailed specifications."
+    "_EXTRAS_NOTES_3": "Our classic models may not include these features. Please refer to the individual car pages for detailed specifications.",
+    "_CLASSIC_CAR_FOR_EVERY_JOURNEY": "A CAR FOR EVERY JOURNEY"
 }
