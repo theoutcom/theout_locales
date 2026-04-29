@@ -249,5 +249,7 @@
     "AFFORDABILITY_CHECK": "Affordability check",
     "HOMEPAGE_TITLE_MEMBERSHIP": "Thank you for signing up to",
     "HOMEPAGE_SUBTITLE_MEMBERSHIP": "To make sure you’re eligible and ready to enjoy all our member perks, please complete a few quick steps. It only takes a few minutes, and if you’re new to THE OUT, there are just a couple of extra steps to get fully set up",
-    "HOMEPAGE_TITLE_MEMBERSHIP2": "THE OUT UNLOCKED"
+    "HOMEPAGE_TITLE_MEMBERSHIP2": "THE OUT UNLOCKED",
+    "PARTNER_FLUTIS": "In partnership with Flutis Limited",
+    "CHECK_YOUR_INBOX_CONTENT": "We’ve emailed you a link to sign in at <email>{{email}}<\\\/email>."
 }
