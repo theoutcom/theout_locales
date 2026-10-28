@@ -1798,5 +1798,7 @@
     "WP_MENU_ABOUT": "About",
     "WP_MENU_INSPIRATION": "Inspiration",
     "WP_MENU_SUPPORT": "Support",
-    "WP_MENU_ACCOUNT": "Account"
+    "WP_MENU_ACCOUNT": "Account",
+    "MAXIMUM_HIRE_DURATION_TITLE": "MAXIMUM HIRE DURATION EXCEEDED",
+    "REFERRAL_CODE_MAX_DURATION": "Your rental must not exceed {maxDuration} days to apply this promo code"
 }
